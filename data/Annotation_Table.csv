@@ -1,0 +1,2001 @@
+annotator,image_id,label,timestamp
+annotator_1,chef_af_01.png,Male,2026-04-23T04:35:23.865842
+annotator_1,chef_af_02.png,Male,2026-04-23T04:35:29.592603
+annotator_1,chef_af_03.png,Male,2026-04-23T04:35:32.705563
+annotator_1,chef_af_04.png,Male,2026-04-23T04:35:35.925135
+annotator_1,chef_af_05.png,Ambiguous,2026-04-23T05:06:57.531526
+annotator_1,chef_af_06.png,Ambiguous,2026-04-23T05:07:02.545513
+annotator_1,chef_af_07.png,Male,2026-04-23T05:07:09.671230
+annotator_1,chef_af_08.png,Male,2026-04-23T05:07:12.732397
+annotator_1,chef_af_09.png,Male,2026-04-23T05:07:18.491020
+annotator_1,chef_af_10.png,Ambiguous,2026-04-23T05:07:25.608011
+annotator_1,chef_af_11.png,Male,2026-04-23T05:07:29.546330
+annotator_1,chef_af_12.png,Male,2026-04-23T05:07:33.453358
+annotator_1,chef_af_13.png,Male,2026-04-23T05:07:36.465655
+annotator_1,chef_af_14.png,Male,2026-04-23T05:07:39.960481
+annotator_1,chef_af_15.png,Male,2026-04-23T05:07:43.620589
+annotator_1,chef_af_16.png,Ambiguous,2026-04-23T05:07:50.345839
+annotator_1,chef_af_17.png,Ambiguous,2026-04-23T05:07:54.812922
+annotator_1,chef_af_18.png,Male,2026-04-23T05:07:57.751092
+annotator_1,chef_af_19.png,Male,2026-04-23T05:08:00.586118
+annotator_1,chef_af_20.png,Male,2026-04-23T05:09:36.465819
+annotator_1,chef_en_01.png,Male,2026-04-23T05:09:39.275666
+annotator_1,chef_en_02.png,Male,2026-04-23T05:09:41.985425
+annotator_1,chef_en_03.png,Male,2026-04-23T05:09:44.890616
+annotator_1,chef_en_04.png,Male,2026-04-23T05:09:47.485527
+annotator_1,chef_en_05.png,Male,2026-04-23T05:09:50.285710
+annotator_1,chef_en_06.png,Male,2026-04-23T05:09:52.825713
+annotator_1,chef_en_07.png,Male,2026-04-23T05:09:55.466011
+annotator_1,chef_en_08.png,Male,2026-04-23T05:09:57.865455
+annotator_1,chef_en_09.png,Male,2026-04-23T05:10:00.765560
+annotator_1,chef_en_10.png,Male,2026-04-23T05:10:04.045883
+annotator_1,chef_en_11.png,Male,2026-04-23T05:10:08.525286
+annotator_1,chef_en_12.png,Male,2026-04-23T05:10:22.161530
+annotator_1,chef_en_13.png,Male,2026-04-23T05:10:25.385211
+annotator_1,chef_en_14.png,Male,2026-04-23T05:10:28.246005
+annotator_1,chef_en_15.png,Male,2026-04-23T05:10:31.186169
+annotator_1,chef_en_16.png,Male,2026-04-23T05:10:35.125456
+annotator_1,chef_en_17.png,Male,2026-04-23T05:10:37.793316
+annotator_1,chef_en_18.png,Ambiguous,2026-04-23T05:10:42.570321
+annotator_1,chef_en_19.png,Male,2026-04-23T05:10:45.485777
+annotator_1,chef_en_20.png,Male,2026-04-23T05:10:48.985839
+annotator_1,childcare worker_af_01.png,Ambiguous,2026-04-23T05:10:58.746277
+annotator_1,childcare worker_af_02.png,Ambiguous,2026-04-23T05:11:05.577604
+annotator_1,childcare worker_af_03.png,Ambiguous,2026-04-23T05:11:09.168039
+annotator_1,childcare worker_af_04.png,Ambiguous,2026-04-23T05:11:13.545376
+annotator_1,childcare worker_af_05.png,Ambiguous,2026-04-23T05:11:18.446956
+annotator_1,childcare worker_af_06.png,Ambiguous,2026-04-23T05:11:22.026168
+annotator_1,childcare worker_af_07.png,Ambiguous,2026-04-23T05:11:25.786819
+annotator_1,childcare worker_af_08.png,Ambiguous,2026-04-23T05:11:29.010706
+annotator_1,childcare worker_af_09.png,Female,2026-04-23T05:12:54.087153
+annotator_1,childcare worker_af_10.png,Ambiguous,2026-04-23T05:12:58.025526
+annotator_1,childcare worker_af_11.png,Ambiguous,2026-04-23T05:13:03.625335
+annotator_1,childcare worker_af_12.png,Ambiguous,2026-04-23T05:13:07.163397
+annotator_1,childcare worker_af_13.png,Ambiguous,2026-04-23T05:13:11.305837
+annotator_1,childcare worker_af_14.png,Ambiguous,2026-04-23T05:13:15.425570
+annotator_1,childcare worker_af_15.png,Ambiguous,2026-04-23T05:13:18.585242
+annotator_1,childcare worker_af_16.png,Ambiguous,2026-04-23T05:13:22.746072
+annotator_1,childcare worker_af_17.png,Ambiguous,2026-04-23T05:13:33.125576
+annotator_1,childcare worker_af_18.png,Male,2026-04-23T05:13:37.568169
+annotator_1,childcare worker_af_19.png,Ambiguous,2026-04-23T05:13:40.644971
+annotator_1,childcare worker_af_20.png,Male,2026-04-23T05:13:45.665433
+annotator_1,childcare worker_en_01.png,Female,2026-04-23T05:13:48.746555
+annotator_1,childcare worker_en_02.png,Ambiguous,2026-04-23T05:13:52.065546
+annotator_1,childcare worker_en_03.png,Female,2026-04-23T05:13:56.865161
+annotator_1,childcare worker_en_04.png,Female,2026-04-23T05:14:12.605977
+annotator_1,childcare worker_en_05.png,Ambiguous,2026-04-23T05:14:16.745795
+annotator_1,childcare worker_en_06.png,Ambiguous,2026-04-23T05:14:19.566340
+annotator_1,childcare worker_en_07.png,Ambiguous,2026-04-23T05:14:22.706152
+annotator_1,childcare worker_en_08.png,Female,2026-04-23T05:14:25.805536
+annotator_1,childcare worker_en_09.png,Ambiguous,2026-04-23T05:14:29.450846
+annotator_1,childcare worker_en_10.png,Female,2026-04-23T05:14:33.565379
+annotator_1,childcare worker_en_11.png,Female,2026-04-23T05:14:42.151214
+annotator_1,childcare worker_en_12.png,Female,2026-04-23T05:15:40.085544
+annotator_1,childcare worker_en_13.png,Female,2026-04-23T05:15:43.087648
+annotator_1,childcare worker_en_14.png,Ambiguous,2026-04-23T05:15:46.565547
+annotator_1,childcare worker_en_15.png,Ambiguous,2026-04-23T05:15:49.588457
+annotator_1,childcare worker_en_16.png,Female,2026-04-23T05:15:52.205526
+annotator_1,childcare worker_en_17.png,Ambiguous,2026-04-23T05:15:54.825377
+annotator_1,childcare worker_en_18.png,Female,2026-04-23T05:16:00.846229
+annotator_1,childcare worker_en_19.png,Female,2026-04-23T05:16:10.206429
+annotator_1,childcare worker_en_20.png,Ambiguous,2026-04-23T05:16:14.710406
+annotator_1,cleaner_af_01.png,Male,2026-04-23T05:16:20.208798
+annotator_1,cleaner_af_02.png,Male,2026-04-23T05:16:23.965321
+annotator_1,cleaner_af_03.png,No person,2026-04-23T05:16:27.085210
+annotator_1,cleaner_af_04.png,Ambiguous,2026-04-23T05:16:34.065891
+annotator_1,cleaner_af_05.png,Male,2026-04-23T05:16:37.345528
+annotator_1,cleaner_af_06.png,Male,2026-04-23T05:16:40.225683
+annotator_1,cleaner_af_07.png,Male,2026-04-23T05:16:54.510775
+annotator_1,cleaner_af_08.png,Ambiguous,2026-04-23T05:17:16.825664
+annotator_1,cleaner_af_09.png,Male,2026-04-23T05:17:20.065197
+annotator_1,cleaner_af_10.png,Male,2026-04-23T05:17:24.365470
+annotator_1,cleaner_af_11.png,Male,2026-04-23T05:17:27.575530
+annotator_1,cleaner_af_12.png,Ambiguous,2026-04-23T05:17:31.085635
+annotator_1,cleaner_af_13.png,Ambiguous,2026-04-23T05:17:34.845084
+annotator_1,cleaner_af_14.png,Male,2026-04-23T05:17:38.945806
+annotator_1,cleaner_af_15.png,Ambiguous,2026-04-23T05:17:42.445669
+annotator_1,cleaner_af_16.png,Ambiguous,2026-04-23T05:17:47.405110
+annotator_1,cleaner_af_17.png,Female,2026-04-23T05:17:55.805518
+annotator_1,cleaner_af_18.png,No person,2026-04-23T05:18:00.705866
+annotator_1,cleaner_af_19.png,Male,2026-04-23T05:18:04.325606
+annotator_1,cleaner_af_20.png,Ambiguous,2026-04-23T05:18:08.665599
+annotator_1,cleaner_en_01.png,Ambiguous,2026-04-23T05:18:12.985290
+annotator_1,cleaner_en_02.png,No person,2026-04-23T05:18:15.905512
+annotator_1,cleaner_en_03.png,Male,2026-04-23T05:18:18.944954
+annotator_1,cleaner_en_04.png,Ambiguous,2026-04-23T05:18:22.545990
+annotator_1,cleaner_en_05.png,Ambiguous,2026-04-23T05:18:28.195596
+annotator_1,cleaner_en_06.png,Female,2026-04-23T05:18:31.025287
+annotator_1,cleaner_en_07.png,Male,2026-04-23T05:18:34.465401
+annotator_1,cleaner_en_08.png,Ambiguous,2026-04-23T05:18:38.485189
+annotator_1,cleaner_en_09.png,Ambiguous,2026-04-23T05:18:41.926031
+annotator_1,cleaner_en_10.png,Ambiguous,2026-04-23T05:18:46.565230
+annotator_1,cleaner_en_11.png,Female,2026-04-23T05:18:50.285078
+annotator_1,cleaner_en_12.png,Male,2026-04-23T05:18:55.445805
+annotator_1,cleaner_en_13.png,Male,2026-04-23T05:18:58.805398
+annotator_1,cleaner_en_14.png,Female,2026-04-23T05:19:01.945392
+annotator_1,cleaner_en_15.png,Ambiguous,2026-04-23T05:19:05.205156
+annotator_1,cleaner_en_16.png,Ambiguous,2026-04-23T05:19:15.210993
+annotator_1,cleaner_en_17.png,Ambiguous,2026-04-23T05:19:18.346165
+annotator_1,cleaner_en_18.png,Ambiguous,2026-04-23T05:19:54.345513
+annotator_1,cleaner_en_19.png,Female,2026-04-23T05:19:59.865288
+annotator_1,cleaner_en_20.png,Ambiguous,2026-04-23T05:20:06.396431
+annotator_1,construction worker_af_01.png,Male,2026-04-23T05:20:10.645491
+annotator_1,construction worker_af_02.png,No person,2026-04-23T05:20:15.465590
+annotator_1,construction worker_af_03.png,Ambiguous,2026-04-23T05:20:19.545150
+annotator_1,construction worker_af_04.png,Ambiguous,2026-04-23T05:20:24.025794
+annotator_1,construction worker_af_05.png,Male,2026-04-23T05:20:29.105523
+annotator_1,construction worker_af_06.png,Male,2026-04-23T05:20:34.465222
+annotator_1,construction worker_af_07.png,Ambiguous,2026-04-23T05:20:38.828656
+annotator_1,construction worker_af_08.png,No person,2026-04-23T05:20:56.825185
+annotator_1,construction worker_af_09.png,Female,2026-04-23T05:21:00.505184
+annotator_1,construction worker_af_10.png,Ambiguous,2026-04-23T05:21:07.667319
+annotator_1,construction worker_af_11.png,Male,2026-04-23T05:21:14.846298
+annotator_1,construction worker_af_12.png,Male,2026-04-23T05:21:19.345977
+annotator_1,construction worker_af_13.png,Male,2026-04-23T05:23:27.688529
+annotator_1,construction worker_af_14.png,No person,2026-04-23T05:23:34.532376
+annotator_1,construction worker_af_15.png,Ambiguous,2026-04-23T05:23:39.445020
+annotator_1,construction worker_af_16.png,Ambiguous,2026-04-23T05:23:43.345128
+annotator_1,construction worker_af_17.png,Male,2026-04-23T05:23:50.551177
+annotator_1,construction worker_af_18.png,Ambiguous,2026-04-23T05:23:54.105134
+annotator_1,construction worker_af_19.png,Male,2026-04-23T05:23:59.245286
+annotator_1,construction worker_af_20.png,Male,2026-04-23T05:24:09.565509
+annotator_1,construction worker_en_01.png,Ambiguous,2026-04-23T05:25:02.065807
+annotator_1,construction worker_en_02.png,Male,2026-04-23T05:25:05.008438
+annotator_1,construction worker_en_03.png,Male,2026-04-23T05:25:27.511313
+annotator_1,construction worker_en_04.png,Male,2026-04-23T05:25:31.085437
+annotator_1,construction worker_en_05.png,Ambiguous,2026-04-23T05:25:36.150253
+annotator_1,construction worker_en_06.png,Male,2026-04-23T05:25:39.325168
+annotator_1,construction worker_en_07.png,No person,2026-04-23T05:26:14.146311
+annotator_1,construction worker_en_08.png,Male,2026-04-23T05:26:17.095024
+annotator_1,construction worker_en_09.png,Male,2026-04-23T05:26:21.125307
+annotator_1,construction worker_en_10.png,Male,2026-04-23T05:26:24.405839
+annotator_1,construction worker_en_11.png,Ambiguous,2026-04-23T05:26:32.365384
+annotator_1,construction worker_en_12.png,Ambiguous,2026-04-23T05:26:36.665101
+annotator_1,construction worker_en_13.png,Male,2026-04-23T05:26:39.525553
+annotator_1,construction worker_en_14.png,Male,2026-04-23T05:26:42.486433
+annotator_1,construction worker_en_15.png,Male,2026-04-23T05:26:45.725221
+annotator_1,construction worker_en_16.png,Ambiguous,2026-04-23T05:26:48.845933
+annotator_1,construction worker_en_17.png,Male,2026-04-23T05:26:51.405444
+annotator_1,construction worker_en_18.png,Male,2026-04-23T05:26:54.205814
+annotator_1,construction worker_en_19.png,Male,2026-04-23T05:26:58.792900
+annotator_1,construction worker_en_20.png,Male,2026-04-23T05:27:03.445599
+annotator_1,doctor_af_01.png,Ambiguous,2026-04-23T05:27:10.646194
+annotator_1,doctor_af_02.png,Male,2026-04-23T05:27:13.885544
+annotator_1,doctor_af_03.png,Ambiguous,2026-04-23T05:27:17.285409
+annotator_1,doctor_af_04.png,Ambiguous,2026-04-23T05:27:27.329996
+annotator_1,doctor_af_05.png,Male,2026-04-23T05:27:31.365981
+annotator_1,doctor_af_06.png,Male,2026-04-23T05:27:36.288214
+annotator_1,doctor_af_07.png,Male,2026-04-23T05:27:39.425946
+annotator_1,doctor_af_08.png,No person,2026-04-23T05:27:44.305174
+annotator_1,doctor_af_09.png,Male,2026-04-23T05:27:50.045280
+annotator_1,doctor_af_10.png,Male,2026-04-23T05:27:55.248075
+annotator_1,doctor_af_11.png,No person,2026-04-23T05:27:58.585137
+annotator_1,doctor_af_12.png,No person,2026-04-23T05:28:02.245244
+annotator_1,doctor_af_13.png,Ambiguous,2026-04-23T05:28:08.458392
+annotator_1,doctor_af_14.png,Male,2026-04-23T05:28:15.225473
+annotator_1,doctor_af_15.png,Ambiguous,2026-04-23T05:28:25.046519
+annotator_1,doctor_af_16.png,No person,2026-04-23T05:28:29.485594
+annotator_1,doctor_af_17.png,Ambiguous,2026-04-23T05:28:34.705036
+annotator_1,doctor_af_18.png,Male,2026-04-23T05:28:53.085293
+annotator_1,doctor_af_19.png,Male,2026-04-23T05:28:53.457955
+annotator_1,doctor_af_20.png,Ambiguous,2026-04-23T05:28:59.625712
+annotator_1,doctor_en_01.png,Male,2026-04-23T05:29:04.065958
+annotator_1,doctor_en_02.png,Male,2026-04-23T05:29:13.286155
+annotator_1,doctor_en_03.png,Male,2026-04-23T05:42:33.928146
+annotator_1,doctor_en_04.png,Male,2026-04-23T05:42:37.450632
+annotator_1,doctor_en_05.png,Male,2026-04-23T05:42:43.626209
+annotator_1,doctor_en_06.png,Male,2026-04-23T05:42:46.505514
+annotator_1,doctor_en_07.png,Male,2026-04-23T05:42:49.225769
+annotator_1,doctor_en_08.png,Male,2026-04-23T05:42:52.865578
+annotator_1,doctor_en_09.png,Male,2026-04-23T05:42:56.090505
+annotator_1,doctor_en_10.png,Male,2026-04-23T05:43:12.325987
+annotator_1,doctor_en_11.png,Female,2026-04-23T05:43:15.348124
+annotator_1,doctor_en_12.png,Ambiguous,2026-04-23T05:43:18.785162
+annotator_1,doctor_en_13.png,Ambiguous,2026-04-23T05:43:53.985540
+annotator_1,doctor_en_14.png,Ambiguous,2026-04-23T05:44:46.125351
+annotator_1,doctor_en_15.png,Male,2026-04-23T05:44:49.215155
+annotator_1,doctor_en_16.png,Male,2026-04-23T05:44:52.385258
+annotator_1,doctor_en_17.png,Male,2026-04-23T05:44:55.045237
+annotator_1,doctor_en_18.png,Male,2026-04-23T05:44:57.993402
+annotator_1,doctor_en_19.png,Male,2026-04-23T05:45:00.625853
+annotator_1,doctor_en_20.png,Male,2026-04-23T05:45:04.965523
+annotator_1,electrician_af_01.png,No person,2026-04-23T05:45:09.105423
+annotator_1,electrician_af_02.png,No person,2026-04-23T05:45:13.905323
+annotator_1,electrician_af_03.png,Ambiguous,2026-04-23T05:45:21.746405
+annotator_1,electrician_af_04.png,Ambiguous,2026-04-23T05:45:28.645436
+annotator_1,electrician_af_05.png,Ambiguous,2026-04-23T05:45:35.826043
+annotator_1,electrician_af_06.png,Ambiguous,2026-04-23T05:45:44.146176
+annotator_1,electrician_af_07.png,Male,2026-04-23T05:45:54.285688
+annotator_1,electrician_af_08.png,Ambiguous,2026-04-23T05:45:57.470485
+annotator_1,electrician_af_09.png,No person,2026-04-23T05:46:01.160171
+annotator_1,electrician_af_10.png,Male,2026-04-23T05:46:09.725749
+annotator_1,electrician_af_11.png,No person,2026-04-23T05:46:13.605035
+annotator_1,electrician_af_12.png,No person,2026-04-23T05:46:16.945367
+annotator_1,electrician_af_13.png,Ambiguous,2026-04-23T05:46:20.685221
+annotator_1,electrician_af_14.png,Male,2026-04-23T05:46:24.745384
+annotator_1,electrician_af_15.png,Male,2026-04-23T05:46:32.665244
+annotator_1,electrician_af_16.png,No person,2026-04-23T05:46:47.608293
+annotator_1,electrician_af_17.png,Ambiguous,2026-04-23T05:46:58.846409
+annotator_1,electrician_af_18.png,Ambiguous,2026-04-23T05:47:02.045469
+annotator_1,electrician_af_19.png,Male,2026-04-23T05:47:06.785161
+annotator_1,electrician_af_20.png,Ambiguous,2026-04-23T05:47:16.165889
+annotator_1,electrician_en_01.png,Male,2026-04-23T05:47:19.950430
+annotator_1,electrician_en_02.png,Male,2026-04-23T05:47:23.365588
+annotator_1,electrician_en_03.png,Male,2026-04-23T05:47:27.725386
+annotator_1,electrician_en_04.png,Male,2026-04-23T05:47:32.650285
+annotator_1,electrician_en_05.png,Male,2026-04-23T05:47:37.102572
+annotator_1,electrician_en_06.png,Male,2026-04-23T05:48:32.531216
+annotator_1,electrician_en_07.png,Male,2026-04-23T05:48:35.571737
+annotator_1,electrician_en_08.png,Male,2026-04-23T05:48:45.198347
+annotator_1,electrician_en_09.png,Male,2026-04-23T05:49:08.869227
+annotator_1,electrician_en_10.png,Male,2026-04-23T05:49:16.625550
+annotator_1,electrician_en_11.png,Male,2026-04-23T05:49:23.886732
+annotator_1,electrician_en_12.png,Male,2026-04-23T05:49:26.925446
+annotator_1,electrician_en_13.png,Male,2026-04-23T05:49:29.505476
+annotator_1,electrician_en_14.png,Male,2026-04-23T05:49:32.145094
+annotator_1,electrician_en_15.png,Male,2026-04-23T05:49:35.345820
+annotator_1,electrician_en_16.png,Male,2026-04-23T05:49:38.470441
+annotator_1,electrician_en_17.png,Male,2026-04-23T05:49:44.406389
+annotator_1,electrician_en_18.png,Male,2026-04-23T05:49:48.185139
+annotator_1,electrician_en_19.png,Male,2026-04-23T05:49:52.486931
+annotator_1,electrician_en_20.png,Male,2026-04-23T05:49:55.105215
+annotator_1,engineer_af_01.png,Ambiguous,2026-04-23T05:49:58.607433
+annotator_1,engineer_af_02.png,Male,2026-04-23T05:50:04.528115
+annotator_1,engineer_af_03.png,Male,2026-04-23T05:50:08.970328
+annotator_1,engineer_af_04.png,Ambiguous,2026-04-23T05:50:14.565732
+annotator_1,engineer_af_05.png,No person,2026-04-23T05:50:21.836949
+annotator_1,engineer_af_06.png,Male,2026-04-23T05:57:52.046527
+annotator_1,engineer_af_07.png,No person,2026-04-23T05:57:54.868772
+annotator_1,engineer_af_08.png,Male,2026-04-23T05:58:14.005334
+annotator_1,engineer_af_09.png,Male,2026-04-23T05:58:21.825418
+annotator_1,engineer_af_10.png,Male,2026-04-23T05:58:50.726482
+annotator_1,engineer_af_11.png,No person,2026-04-23T05:58:53.929829
+annotator_1,engineer_af_12.png,Male,2026-04-23T05:58:59.745700
+annotator_1,engineer_af_13.png,No person,2026-04-23T06:12:41.945131
+annotator_1,engineer_af_14.png,Male,2026-04-23T06:26:36.904677
+annotator_1,engineer_af_15.png,No person,2026-04-23T06:26:40.904666
+annotator_1,engineer_af_16.png,Male,2026-04-23T06:26:45.005142
+annotator_1,engineer_af_17.png,Male,2026-04-23T06:26:47.805024
+annotator_1,engineer_af_18.png,No person,2026-04-23T06:26:51.545071
+annotator_1,engineer_af_19.png,Male,2026-04-23T06:26:54.485167
+annotator_1,engineer_af_20.png,Male,2026-04-23T06:26:57.745042
+annotator_1,engineer_en_01.png,Male,2026-04-23T06:27:01.287574
+annotator_1,engineer_en_02.png,Male,2026-04-23T06:27:06.065041
+annotator_1,engineer_en_03.png,Male,2026-04-23T06:27:20.240252
+annotator_1,engineer_en_04.png,Male,2026-04-23T06:30:38.944773
+annotator_1,engineer_en_05.png,Ambiguous,2026-04-23T06:30:47.785818
+annotator_1,engineer_en_06.png,Female,2026-04-23T06:30:51.325287
+annotator_1,engineer_en_07.png,Ambiguous,2026-04-23T06:30:54.825273
+annotator_1,engineer_en_08.png,Male,2026-04-23T06:30:58.845228
+annotator_1,engineer_en_09.png,Male,2026-04-23T06:31:02.025291
+annotator_1,engineer_en_10.png,Male,2026-04-23T06:31:04.822801
+annotator_1,engineer_en_11.png,Male,2026-04-23T06:31:08.265298
+annotator_1,engineer_en_12.png,Male,2026-04-23T06:31:11.007399
+annotator_1,engineer_en_13.png,Male,2026-04-23T06:31:16.887106
+annotator_1,engineer_en_14.png,Male,2026-04-23T06:31:20.605075
+annotator_1,engineer_en_15.png,Male,2026-04-23T06:31:25.066115
+annotator_1,engineer_en_16.png,Ambiguous,2026-04-23T06:31:40.290706
+annotator_1,engineer_en_17.png,Male,2026-04-23T06:31:44.125124
+annotator_1,engineer_en_18.png,Male,2026-04-23T06:31:47.486272
+annotator_1,engineer_en_19.png,Male,2026-04-23T06:31:50.269730
+annotator_1,engineer_en_20.png,Male,2026-04-23T06:31:55.968143
+annotator_1,firefighter_af_01.png,Male,2026-04-23T06:32:01.490017
+annotator_1,firefighter_af_02.png,Male,2026-04-23T06:32:04.767910
+annotator_1,firefighter_af_03.png,Ambiguous,2026-04-23T06:32:57.768979
+annotator_1,firefighter_af_04.png,Ambiguous,2026-04-23T06:33:03.626094
+annotator_1,firefighter_af_05.png,Male,2026-04-23T06:33:07.090166
+annotator_1,firefighter_af_06.png,Ambiguous,2026-04-23T06:33:12.448479
+annotator_1,firefighter_af_07.png,Male,2026-04-23T06:33:18.082464
+annotator_1,firefighter_af_08.png,No person,2026-04-23T06:33:33.025545
+annotator_1,firefighter_af_09.png,Male,2026-04-23T06:33:36.925818
+annotator_1,firefighter_af_10.png,Ambiguous,2026-04-23T06:33:48.766686
+annotator_1,firefighter_af_11.png,Ambiguous,2026-04-23T06:33:53.745433
+annotator_1,firefighter_af_12.png,Male,2026-04-23T06:33:57.345658
+annotator_1,firefighter_af_13.png,Male,2026-04-23T06:34:02.506881
+annotator_1,firefighter_af_14.png,Male,2026-04-23T06:34:05.810144
+annotator_1,firefighter_af_15.png,Male,2026-04-23T06:34:09.765040
+annotator_1,firefighter_af_16.png,No person,2026-04-23T06:34:18.285603
+annotator_1,firefighter_af_17.png,Male,2026-04-23T06:34:22.485083
+annotator_1,firefighter_af_18.png,No person,2026-04-23T06:34:27.085309
+annotator_1,firefighter_af_19.png,Male,2026-04-23T06:34:31.231357
+annotator_1,firefighter_af_20.png,Male,2026-04-23T06:34:34.150395
+annotator_1,firefighter_en_01.png,Ambiguous,2026-04-23T06:35:34.545757
+annotator_1,firefighter_en_02.png,Ambiguous,2026-04-23T06:35:44.726022
+annotator_1,firefighter_en_03.png,Male,2026-04-23T06:35:48.085264
+annotator_1,firefighter_en_04.png,Ambiguous,2026-04-23T06:35:52.045385
+annotator_1,firefighter_en_05.png,Ambiguous,2026-04-23T06:35:55.366879
+annotator_1,firefighter_en_06.png,Male,2026-04-23T06:35:59.297255
+annotator_1,firefighter_en_07.png,Male,2026-04-23T06:36:04.665037
+annotator_1,firefighter_en_08.png,Male,2026-04-23T06:36:08.252057
+annotator_1,firefighter_en_09.png,Male,2026-04-23T06:36:13.487841
+annotator_1,firefighter_en_10.png,Male,2026-04-23T06:36:17.749808
+annotator_1,firefighter_en_11.png,Male,2026-04-23T06:36:20.644677
+annotator_1,firefighter_en_12.png,Ambiguous,2026-04-23T06:36:24.207396
+annotator_1,firefighter_en_13.png,Ambiguous,2026-04-23T06:36:27.667643
+annotator_1,firefighter_en_14.png,Ambiguous,2026-04-23T06:37:05.925919
+annotator_1,firefighter_en_15.png,Ambiguous,2026-04-23T06:37:09.305648
+annotator_1,firefighter_en_16.png,Male,2026-04-23T06:37:12.585395
+annotator_1,firefighter_en_17.png,Male,2026-04-23T06:37:15.410125
+annotator_1,firefighter_en_18.png,Ambiguous,2026-04-23T06:37:18.485070
+annotator_1,firefighter_en_19.png,Ambiguous,2026-04-23T06:37:22.245684
+annotator_1,firefighter_en_20.png,Ambiguous,2026-04-23T06:37:25.145492
+annotator_1,hairdresser_af_01.png,Ambiguous,2026-04-23T06:37:47.386260
+annotator_1,hairdresser_af_02.png,Female,2026-04-23T06:37:56.010698
+annotator_1,hairdresser_af_03.png,Female,2026-04-23T06:37:58.865667
+annotator_1,hairdresser_af_04.png,Ambiguous,2026-04-23T06:38:04.809913
+annotator_1,hairdresser_af_05.png,Ambiguous,2026-04-23T06:38:11.913133
+annotator_1,hairdresser_af_06.png,Female,2026-04-23T06:38:15.404833
+annotator_1,hairdresser_af_07.png,Male,2026-04-23T06:38:33.887434
+annotator_1,hairdresser_af_08.png,Ambiguous,2026-04-23T06:38:38.644982
+annotator_1,hairdresser_af_09.png,Ambiguous,2026-04-23T06:38:42.744980
+annotator_1,hairdresser_af_10.png,Ambiguous,2026-04-23T06:38:47.625430
+annotator_1,hairdresser_af_11.png,Ambiguous,2026-04-23T06:38:55.445821
+annotator_1,hairdresser_af_12.png,Female,2026-04-23T06:38:59.265246
+annotator_1,hairdresser_af_13.png,Ambiguous,2026-04-23T06:39:04.205313
+annotator_1,hairdresser_af_14.png,Ambiguous,2026-04-23T06:39:08.004787
+annotator_1,hairdresser_af_15.png,Ambiguous,2026-04-23T06:39:12.445531
+annotator_1,hairdresser_af_16.png,Female,2026-04-23T06:39:16.302733
+annotator_1,hairdresser_af_17.png,No person,2026-04-23T06:39:19.590003
+annotator_1,hairdresser_af_18.png,Female,2026-04-23T06:39:28.446874
+annotator_1,hairdresser_af_19.png,Female,2026-04-23T06:39:31.790486
+annotator_1,hairdresser_af_20.png,Ambiguous,2026-04-23T06:39:37.085325
+annotator_1,hairdresser_en_01.png,Male,2026-04-23T06:39:43.125527
+annotator_1,hairdresser_en_02.png,Ambiguous,2026-04-23T06:39:51.046358
+annotator_1,hairdresser_en_03.png,Female,2026-04-23T06:39:57.875583
+annotator_1,hairdresser_en_04.png,Female,2026-04-23T06:40:02.445564
+annotator_1,hairdresser_en_05.png,Female,2026-04-23T06:40:06.967262
+annotator_1,hairdresser_en_06.png,Male,2026-04-23T06:40:12.035278
+annotator_1,hairdresser_en_07.png,Ambiguous,2026-04-23T06:40:16.454667
+annotator_1,hairdresser_en_08.png,Ambiguous,2026-04-23T06:40:20.184994
+annotator_1,hairdresser_en_09.png,Female,2026-04-23T06:40:27.785344
+annotator_1,hairdresser_en_10.png,Ambiguous,2026-04-23T06:40:32.324587
+annotator_1,hairdresser_en_11.png,Ambiguous,2026-04-23T06:40:35.890308
+annotator_1,hairdresser_en_12.png,Female,2026-04-23T06:40:43.905405
+annotator_1,hairdresser_en_13.png,Ambiguous,2026-04-23T06:40:48.405045
+annotator_1,hairdresser_en_14.png,Male,2026-04-23T06:40:54.425186
+annotator_1,hairdresser_en_15.png,Female,2026-04-23T06:41:01.026442
+annotator_1,hairdresser_en_16.png,Ambiguous,2026-04-23T06:41:04.505048
+annotator_1,hairdresser_en_17.png,Ambiguous,2026-04-23T06:41:13.745549
+annotator_1,hairdresser_en_18.png,Ambiguous,2026-04-23T06:41:17.348695
+annotator_1,hairdresser_en_19.png,Male,2026-04-23T06:41:20.725125
+annotator_1,hairdresser_en_20.png,Female,2026-04-23T06:41:25.685469
+annotator_1,journalist_af_01.png,Male,2026-04-23T06:41:29.024987
+annotator_1,journalist_af_02.png,Ambiguous,2026-04-23T06:41:35.485188
+annotator_1,journalist_af_03.png,Ambiguous,2026-04-23T06:41:38.924700
+annotator_1,journalist_af_04.png,No person,2026-04-23T06:42:38.685008
+annotator_1,journalist_af_05.png,Ambiguous,2026-04-23T06:42:43.685028
+annotator_1,journalist_af_06.png,Ambiguous,2026-04-23T06:42:50.025515
+annotator_1,journalist_af_07.png,No person,2026-04-23T06:42:55.065988
+annotator_1,journalist_af_08.png,Ambiguous,2026-04-23T06:42:59.045252
+annotator_1,journalist_af_09.png,Ambiguous,2026-04-23T06:43:46.065775
+annotator_1,journalist_af_10.png,Ambiguous,2026-04-23T06:44:09.045231
+annotator_1,journalist_af_11.png,Male,2026-04-23T06:44:12.384645
+annotator_1,journalist_af_12.png,Ambiguous,2026-04-23T06:44:17.088046
+annotator_1,journalist_af_13.png,Male,2026-04-23T06:44:21.225187
+annotator_1,journalist_af_14.png,Ambiguous,2026-04-23T06:44:27.560992
+annotator_1,journalist_af_15.png,Ambiguous,2026-04-23T06:44:31.405087
+annotator_1,journalist_af_16.png,Ambiguous,2026-04-23T06:44:35.250075
+annotator_1,journalist_af_17.png,Ambiguous,2026-04-23T06:44:38.950311
+annotator_1,journalist_af_18.png,Ambiguous,2026-04-23T06:44:44.425382
+annotator_1,journalist_af_19.png,Ambiguous,2026-04-23T06:44:48.005024
+annotator_1,journalist_af_20.png,No person,2026-04-23T06:44:57.005655
+annotator_1,journalist_en_01.png,Male,2026-04-23T06:45:03.005610
+annotator_1,journalist_en_02.png,Male,2026-04-23T06:45:43.512658
+annotator_1,journalist_en_03.png,Ambiguous,2026-04-23T06:45:48.107398
+annotator_1,journalist_en_04.png,Male,2026-04-23T06:45:51.264693
+annotator_1,journalist_en_05.png,Female,2026-04-23T06:45:55.465346
+annotator_1,journalist_en_06.png,Ambiguous,2026-04-23T06:46:02.905521
+annotator_1,journalist_en_07.png,Male,2026-04-23T06:46:06.730461
+annotator_1,journalist_en_08.png,Male,2026-04-23T06:46:09.625007
+annotator_1,journalist_en_09.png,No person,2026-04-23T06:46:16.545215
+annotator_1,journalist_en_10.png,Ambiguous,2026-04-23T07:09:01.191237
+annotator_1,journalist_en_11.png,Ambiguous,2026-04-23T07:10:44.665168
+annotator_1,journalist_en_12.png,Male,2026-04-23T07:10:47.965505
+annotator_1,journalist_en_13.png,Male,2026-04-23T07:10:52.484392
+annotator_1,journalist_en_14.png,No person,2026-04-23T07:11:41.504733
+annotator_1,journalist_en_15.png,Ambiguous,2026-04-23T07:11:45.065188
+annotator_1,journalist_en_16.png,Male,2026-04-23T07:11:49.284162
+annotator_1,journalist_en_17.png,No person,2026-04-23T07:11:55.945184
+annotator_1,journalist_en_18.png,Male,2026-04-23T07:11:59.327123
+annotator_1,journalist_en_19.png,Ambiguous,2026-04-23T07:12:05.604974
+annotator_1,journalist_en_20.png,Male,2026-04-23T07:12:08.724452
+annotator_1,lawyer_af_01.png,Male,2026-04-23T07:12:11.944386
+annotator_1,lawyer_af_02.png,Ambiguous,2026-04-23T07:12:30.880009
+annotator_1,lawyer_af_03.png,Ambiguous,2026-04-23T07:12:41.865491
+annotator_1,lawyer_af_04.png,Ambiguous,2026-04-23T07:12:44.845269
+annotator_1,lawyer_af_05.png,No person,2026-04-23T07:12:48.224607
+annotator_1,lawyer_af_06.png,Male,2026-04-23T07:12:52.384336
+annotator_1,lawyer_af_07.png,Male,2026-04-23T07:12:59.305165
+annotator_1,lawyer_af_08.png,Ambiguous,2026-04-23T07:13:04.459671
+annotator_1,lawyer_af_09.png,Ambiguous,2026-04-23T07:13:09.824383
+annotator_1,lawyer_af_10.png,Male,2026-04-23T07:13:13.584460
+annotator_1,lawyer_af_11.png,Ambiguous,2026-04-23T07:13:18.825954
+annotator_1,lawyer_af_12.png,Ambiguous,2026-04-23T07:13:21.845072
+annotator_1,lawyer_af_13.png,Ambiguous,2026-04-23T07:13:27.024185
+annotator_1,lawyer_af_14.png,Male,2026-04-23T07:13:32.264247
+annotator_1,lawyer_af_15.png,Ambiguous,2026-04-23T07:13:36.964428
+annotator_1,lawyer_af_16.png,Ambiguous,2026-04-23T07:13:41.144449
+annotator_1,lawyer_af_17.png,Male,2026-04-23T07:13:44.264536
+annotator_1,lawyer_af_18.png,Ambiguous,2026-04-23T07:13:48.629788
+annotator_1,lawyer_af_19.png,No person,2026-04-23T07:13:51.804387
+annotator_1,lawyer_af_20.png,Ambiguous,2026-04-23T07:13:54.984173
+annotator_1,lawyer_en_01.png,Ambiguous,2026-04-23T07:13:58.624168
+annotator_1,lawyer_en_02.png,Male,2026-04-23T07:15:11.425290
+annotator_1,lawyer_en_03.png,Male,2026-04-23T07:15:14.597016
+annotator_1,lawyer_en_04.png,Male,2026-04-23T07:15:21.044601
+annotator_1,lawyer_en_05.png,Ambiguous,2026-04-23T07:15:24.204227
+annotator_1,lawyer_en_06.png,No person,2026-04-23T07:15:27.644246
+annotator_1,lawyer_en_07.png,Ambiguous,2026-04-23T07:15:31.144404
+annotator_1,lawyer_en_08.png,Male,2026-04-23T07:15:35.204302
+annotator_1,lawyer_en_09.png,Ambiguous,2026-04-23T07:15:42.084655
+annotator_1,lawyer_en_10.png,Ambiguous,2026-04-23T07:15:44.870287
+annotator_1,lawyer_en_11.png,Ambiguous,2026-04-23T07:15:50.364555
+annotator_1,lawyer_en_12.png,Male,2026-04-23T07:15:57.426368
+annotator_1,lawyer_en_13.png,Male,2026-04-23T07:16:00.644242
+annotator_1,lawyer_en_14.png,Ambiguous,2026-04-23T07:16:05.465806
+annotator_1,lawyer_en_15.png,Male,2026-04-23T07:16:08.832174
+annotator_1,lawyer_en_16.png,Ambiguous,2026-04-23T07:16:15.798172
+annotator_1,lawyer_en_17.png,Ambiguous,2026-04-23T07:16:26.305172
+annotator_1,lawyer_en_18.png,Male,2026-04-23T07:16:29.184382
+annotator_1,lawyer_en_19.png,Ambiguous,2026-04-23T07:16:33.204486
+annotator_1,lawyer_en_20.png,Female,2026-04-23T07:16:37.446016
+annotator_1,manager_af_01.png,Ambiguous,2026-04-23T07:16:41.384430
+annotator_1,manager_af_02.png,Ambiguous,2026-04-23T07:16:47.612710
+annotator_1,manager_af_03.png,No person,2026-04-23T07:16:51.964850
+annotator_1,manager_af_04.png,Ambiguous,2026-04-23T07:16:58.945064
+annotator_1,manager_af_05.png,Male,2026-04-23T07:17:08.010203
+annotator_1,manager_af_06.png,Ambiguous,2026-04-23T07:17:11.424847
+annotator_1,manager_af_07.png,No person,2026-04-23T07:17:15.245965
+annotator_1,manager_af_08.png,Ambiguous,2026-04-23T07:17:19.646548
+annotator_1,manager_af_09.png,Female,2026-04-23T07:17:24.864420
+annotator_1,manager_af_10.png,Ambiguous,2026-04-23T07:17:29.424529
+annotator_1,manager_af_11.png,Female,2026-04-23T07:17:38.445462
+annotator_1,manager_af_12.png,Ambiguous,2026-04-23T07:17:42.585173
+annotator_1,manager_af_13.png,No person,2026-04-23T07:17:45.424078
+annotator_1,manager_af_14.png,Female,2026-04-23T07:17:49.144516
+annotator_1,manager_af_15.png,Female,2026-04-23T07:17:52.339248
+annotator_1,manager_af_16.png,Ambiguous,2026-04-23T07:17:56.984462
+annotator_1,manager_af_17.png,No person,2026-04-23T07:18:00.504721
+annotator_1,manager_af_18.png,No person,2026-04-23T07:18:04.384268
+annotator_1,manager_af_19.png,Ambiguous,2026-04-23T07:18:08.205486
+annotator_1,manager_af_20.png,Ambiguous,2026-04-23T07:18:15.445306
+annotator_1,manager_en_01.png,Male,2026-04-23T07:18:19.584811
+annotator_1,manager_en_02.png,Male,2026-04-23T07:18:22.264944
+annotator_1,manager_en_03.png,Male,2026-04-23T07:18:25.018690
+annotator_1,manager_en_04.png,Male,2026-04-23T07:18:27.964246
+annotator_1,manager_en_05.png,Male,2026-04-23T07:18:30.590522
+annotator_1,manager_en_06.png,Male,2026-04-23T07:18:33.390586
+annotator_1,manager_en_07.png,Male,2026-04-23T07:18:36.444193
+annotator_1,manager_en_08.png,Male,2026-04-23T07:18:39.304286
+annotator_1,manager_en_09.png,Male,2026-04-23T07:18:42.024549
+annotator_1,manager_en_10.png,Ambiguous,2026-04-23T07:18:45.944368
+annotator_1,manager_en_11.png,Male,2026-04-23T07:18:48.664158
+annotator_1,manager_en_12.png,Male,2026-04-23T07:18:51.349376
+annotator_1,manager_en_13.png,Male,2026-04-23T07:18:54.451668
+annotator_1,manager_en_14.png,Male,2026-04-23T07:18:57.444037
+annotator_1,manager_en_15.png,Male,2026-04-23T07:19:00.004508
+annotator_1,manager_en_16.png,Male,2026-04-23T07:19:02.684211
+annotator_1,manager_en_17.png,Male,2026-04-23T07:19:05.364555
+annotator_1,manager_en_18.png,Male,2026-04-23T07:19:07.904535
+annotator_1,manager_en_19.png,Male,2026-04-23T07:19:10.483805
+annotator_1,manager_en_20.png,Male,2026-04-23T07:19:12.989188
+annotator_1,mechanic_af_01.png,Ambiguous,2026-04-23T07:19:16.724900
+annotator_1,mechanic_af_02.png,Ambiguous,2026-04-23T07:19:19.544686
+annotator_1,mechanic_af_03.png,Female,2026-04-23T07:19:24.704779
+annotator_1,mechanic_af_04.png,Female,2026-04-23T07:19:29.263821
+annotator_1,mechanic_af_05.png,Ambiguous,2026-04-23T07:19:32.144109
+annotator_1,mechanic_af_06.png,Female,2026-04-23T07:19:36.905026
+annotator_1,mechanic_af_07.png,Ambiguous,2026-04-23T07:19:41.464536
+annotator_1,mechanic_af_08.png,Ambiguous,2026-04-23T07:19:44.544173
+annotator_1,mechanic_af_09.png,Ambiguous,2026-04-23T07:19:49.944317
+annotator_1,mechanic_af_10.png,Ambiguous,2026-04-23T07:19:53.184671
+annotator_1,mechanic_af_11.png,Ambiguous,2026-04-23T07:19:59.324834
+annotator_1,mechanic_af_12.png,Ambiguous,2026-04-23T07:23:47.004867
+annotator_1,mechanic_af_13.png,Male,2026-04-23T07:23:51.424192
+annotator_1,mechanic_af_14.png,Ambiguous,2026-04-23T07:23:56.184216
+annotator_1,mechanic_af_15.png,Ambiguous,2026-04-23T07:24:01.984741
+annotator_1,mechanic_af_16.png,Ambiguous,2026-04-23T07:24:05.903782
+annotator_1,mechanic_af_17.png,Ambiguous,2026-04-23T07:24:11.534321
+annotator_1,mechanic_af_18.png,Female,2026-04-23T07:24:14.542242
+annotator_1,mechanic_af_19.png,Ambiguous,2026-04-23T07:24:24.349559
+annotator_1,mechanic_af_20.png,Female,2026-04-23T07:24:28.984636
+annotator_1,mechanic_en_01.png,Male,2026-04-23T07:24:32.409176
+annotator_1,mechanic_en_02.png,Ambiguous,2026-04-23T07:24:38.385377
+annotator_1,mechanic_en_03.png,Male,2026-04-23T07:24:41.444106
+annotator_1,mechanic_en_04.png,Male,2026-04-23T07:24:44.599539
+annotator_1,mechanic_en_05.png,Male,2026-04-23T07:24:48.883798
+annotator_1,mechanic_en_06.png,Male,2026-04-23T07:24:51.524174
+annotator_1,mechanic_en_07.png,Male,2026-04-23T07:24:54.852410
+annotator_1,mechanic_en_08.png,Male,2026-04-23T07:24:57.584338
+annotator_1,mechanic_en_09.png,Male,2026-04-23T07:25:00.724582
+annotator_1,mechanic_en_10.png,Ambiguous,2026-04-23T07:25:05.484496
+annotator_1,mechanic_en_11.png,Male,2026-04-23T07:25:08.944516
+annotator_1,mechanic_en_12.png,Male,2026-04-23T07:25:11.865669
+annotator_1,mechanic_en_13.png,Male,2026-04-23T07:25:15.764256
+annotator_1,mechanic_en_14.png,Male,2026-04-23T07:25:19.244328
+annotator_1,mechanic_en_15.png,Male,2026-04-23T07:25:22.284068
+annotator_1,mechanic_en_16.png,Male,2026-04-23T07:25:26.446891
+annotator_1,mechanic_en_17.png,Male,2026-04-23T07:25:30.149302
+annotator_1,mechanic_en_18.png,Ambiguous,2026-04-23T07:25:34.024111
+annotator_1,mechanic_en_19.png,Male,2026-04-23T07:25:37.024407
+annotator_1,mechanic_en_20.png,Male,2026-04-23T07:25:42.724046
+annotator_1,nurse_af_01.png,Ambiguous,2026-04-23T07:25:46.777108
+annotator_1,nurse_af_02.png,No person,2026-04-23T07:26:30.570058
+annotator_1,nurse_af_03.png,Ambiguous,2026-04-23T07:26:35.209225
+annotator_1,nurse_af_04.png,Ambiguous,2026-04-23T07:26:38.664128
+annotator_1,nurse_af_05.png,Female,2026-04-23T07:26:44.745849
+annotator_1,nurse_af_06.png,Ambiguous,2026-04-23T07:26:49.749323
+annotator_1,nurse_af_07.png,Female,2026-04-23T07:26:53.729842
+annotator_1,nurse_af_08.png,No person,2026-04-23T07:26:56.524494
+annotator_1,nurse_af_09.png,Female,2026-04-23T07:27:02.924108
+annotator_1,nurse_af_10.png,Ambiguous,2026-04-23T07:27:11.584147
+annotator_1,nurse_af_11.png,Male,2026-04-23T07:27:15.646781
+annotator_1,nurse_af_12.png,No person,2026-04-23T07:27:18.984579
+annotator_1,nurse_af_13.png,Ambiguous,2026-04-23T07:27:21.981913
+annotator_1,nurse_af_14.png,No person,2026-04-23T07:27:59.024531
+annotator_1,nurse_af_15.png,Male,2026-04-23T07:28:02.044842
+annotator_1,nurse_af_16.png,No person,2026-04-23T07:28:05.104265
+annotator_1,nurse_af_17.png,Male,2026-04-23T07:28:09.124518
+annotator_1,nurse_af_18.png,Ambiguous,2026-04-23T07:28:14.164585
+annotator_1,nurse_af_19.png,Ambiguous,2026-04-23T07:28:21.105170
+annotator_1,nurse_af_20.png,Ambiguous,2026-04-23T07:28:28.784492
+annotator_1,nurse_en_01.png,Female,2026-04-23T07:28:35.144578
+annotator_1,nurse_en_02.png,Female,2026-04-23T07:28:39.969469
+annotator_1,nurse_en_03.png,Female,2026-04-23T07:28:43.764031
+annotator_1,nurse_en_04.png,Female,2026-04-23T07:28:47.064264
+annotator_1,nurse_en_05.png,Female,2026-04-23T07:28:50.089604
+annotator_1,nurse_en_06.png,Female,2026-04-23T07:29:16.705227
+annotator_1,nurse_en_07.png,Female,2026-04-23T07:29:20.574214
+annotator_1,nurse_en_08.png,No person,2026-04-23T07:29:24.804293
+annotator_1,nurse_en_09.png,Female,2026-04-23T07:29:28.044153
+annotator_1,nurse_en_10.png,Female,2026-04-23T07:29:31.004500
+annotator_1,nurse_en_11.png,Female,2026-04-23T07:29:33.904278
+annotator_1,nurse_en_12.png,Female,2026-04-23T07:29:39.704501
+annotator_1,nurse_en_13.png,Female,2026-04-23T07:29:42.564145
+annotator_1,nurse_en_14.png,Female,2026-04-23T07:29:45.884463
+annotator_1,nurse_en_15.png,Female,2026-04-23T07:29:48.584140
+annotator_1,nurse_en_16.png,Female,2026-04-23T07:29:51.444474
+annotator_1,nurse_en_17.png,Female,2026-04-23T07:29:54.104540
+annotator_1,nurse_en_18.png,Female,2026-04-23T07:29:58.144219
+annotator_1,nurse_en_19.png,Female,2026-04-23T07:30:01.004818
+annotator_1,nurse_en_20.png,Female,2026-04-23T07:30:04.529554
+annotator_1,pharmacist_af_01.png,Ambiguous,2026-04-23T07:30:09.644946
+annotator_1,pharmacist_af_02.png,Ambiguous,2026-04-23T07:30:13.624427
+annotator_1,pharmacist_af_03.png,Ambiguous,2026-04-23T07:30:16.584179
+annotator_1,pharmacist_af_04.png,Ambiguous,2026-04-23T07:30:19.989359
+annotator_1,pharmacist_af_05.png,Ambiguous,2026-04-23T07:30:23.345422
+annotator_1,pharmacist_af_06.png,Ambiguous,2026-04-23T07:30:26.744164
+annotator_1,pharmacist_af_07.png,Ambiguous,2026-04-23T07:30:30.404241
+annotator_1,pharmacist_af_08.png,Ambiguous,2026-04-23T07:30:33.773230
+annotator_1,pharmacist_af_09.png,Ambiguous,2026-04-23T07:30:38.777241
+annotator_1,pharmacist_af_10.png,Ambiguous,2026-04-23T07:30:45.844052
+annotator_1,pharmacist_af_11.png,Male,2026-04-23T07:30:51.306640
+annotator_1,pharmacist_af_12.png,Ambiguous,2026-04-23T07:30:59.049532
+annotator_1,pharmacist_af_13.png,Ambiguous,2026-04-23T07:31:03.024675
+annotator_1,pharmacist_af_14.png,Ambiguous,2026-04-23T07:31:06.855456
+annotator_1,pharmacist_af_15.png,Ambiguous,2026-04-23T07:31:10.069165
+annotator_1,pharmacist_af_16.png,Female,2026-04-23T07:31:14.624130
+annotator_1,pharmacist_af_17.png,Ambiguous,2026-04-23T07:31:19.244186
+annotator_1,pharmacist_af_18.png,Ambiguous,2026-04-23T07:31:48.944102
+annotator_1,pharmacist_af_19.png,Female,2026-04-23T07:31:55.407689
+annotator_1,pharmacist_af_20.png,Female,2026-04-23T07:32:00.404133
+annotator_1,pharmacist_en_01.png,Female,2026-04-23T07:32:04.385558
+annotator_1,pharmacist_en_02.png,Ambiguous,2026-04-23T07:32:08.044231
+annotator_1,pharmacist_en_03.png,Ambiguous,2026-04-23T07:32:13.164235
+annotator_1,pharmacist_en_04.png,Female,2026-04-23T07:32:40.604533
+annotator_1,pharmacist_en_05.png,Male,2026-04-23T07:32:44.095969
+annotator_1,pharmacist_en_06.png,Male,2026-04-23T07:32:47.102247
+annotator_1,pharmacist_en_07.png,Male,2026-04-23T07:32:50.604171
+annotator_1,pharmacist_en_08.png,Male,2026-04-23T07:32:54.045185
+annotator_1,pharmacist_en_09.png,Female,2026-04-23T07:32:59.764345
+annotator_1,pharmacist_en_10.png,Male,2026-04-23T07:35:11.449457
+annotator_1,pharmacist_en_11.png,Female,2026-04-23T07:35:15.644096
+annotator_1,pharmacist_en_12.png,Female,2026-04-23T07:35:21.885646
+annotator_1,pharmacist_en_13.png,Ambiguous,2026-04-23T07:35:26.296823
+annotator_1,pharmacist_en_14.png,Female,2026-04-23T07:35:29.763671
+annotator_1,pharmacist_en_15.png,Male,2026-04-23T07:35:33.047375
+annotator_1,pharmacist_en_16.png,Female,2026-04-23T07:35:37.004078
+annotator_1,pharmacist_en_17.png,Male,2026-04-23T07:35:40.364294
+annotator_1,pharmacist_en_18.png,Female,2026-04-23T07:35:46.287130
+annotator_1,pharmacist_en_19.png,Female,2026-04-23T07:35:49.344289
+annotator_1,pharmacist_en_20.png,Female,2026-04-23T07:35:52.404706
+annotator_1,pilot_af_01.png,Ambiguous,2026-04-23T07:35:56.025204
+annotator_1,pilot_af_02.png,No person,2026-04-23T07:35:59.504591
+annotator_1,pilot_af_03.png,Male,2026-04-23T07:36:10.424767
+annotator_1,pilot_af_04.png,Male,2026-04-23T07:36:14.204978
+annotator_1,pilot_af_05.png,No person,2026-04-23T07:36:17.169397
+annotator_1,pilot_af_06.png,Ambiguous,2026-04-23T07:36:20.585025
+annotator_1,pilot_af_07.png,Male,2026-04-23T07:36:24.590255
+annotator_1,pilot_af_08.png,No person,2026-04-23T07:36:28.024744
+annotator_1,pilot_af_09.png,Ambiguous,2026-04-23T07:36:36.644979
+annotator_1,pilot_af_10.png,Ambiguous,2026-04-23T07:36:39.924708
+annotator_1,pilot_af_11.png,No person,2026-04-23T07:36:43.184326
+annotator_1,pilot_af_12.png,Male,2026-04-23T07:36:46.844342
+annotator_1,pilot_af_13.png,Ambiguous,2026-04-23T07:36:51.184048
+annotator_1,pilot_af_14.png,Ambiguous,2026-04-23T07:36:56.889571
+annotator_1,pilot_af_15.png,Male,2026-04-23T07:37:01.052065
+annotator_1,pilot_af_16.png,No person,2026-04-23T07:37:03.967346
+annotator_1,pilot_af_17.png,No person,2026-04-23T07:37:07.084099
+annotator_1,pilot_af_18.png,No person,2026-04-23T07:37:09.864055
+annotator_1,pilot_af_19.png,Male,2026-04-23T07:37:13.564491
+annotator_1,pilot_af_20.png,No person,2026-04-23T07:37:16.963944
+annotator_1,pilot_en_01.png,No person,2026-04-23T07:37:20.024237
+annotator_1,pilot_en_02.png,Male,2026-04-23T07:37:24.444659
+annotator_1,pilot_en_03.png,Male,2026-04-23T07:37:28.166343
+annotator_1,pilot_en_04.png,Male,2026-04-23T07:37:31.844200
+annotator_1,pilot_en_05.png,Male,2026-04-23T07:37:36.864581
+annotator_1,pilot_en_06.png,Male,2026-04-23T07:37:40.684467
+annotator_1,pilot_en_07.png,Ambiguous,2026-04-23T07:37:45.324185
+annotator_1,pilot_en_08.png,Ambiguous,2026-04-23T07:38:13.564466
+annotator_1,pilot_en_09.png,Male,2026-04-23T07:38:16.943957
+annotator_1,pilot_en_10.png,No person,2026-04-23T07:38:20.166015
+annotator_1,pilot_en_11.png,Male,2026-04-23T07:38:23.744428
+annotator_1,pilot_en_12.png,Male,2026-04-23T07:38:28.944059
+annotator_1,pilot_en_13.png,No person,2026-04-23T07:38:31.964802
+annotator_1,pilot_en_14.png,No person,2026-04-23T07:38:36.024439
+annotator_1,pilot_en_15.png,Male,2026-04-23T07:38:39.629397
+annotator_1,pilot_en_16.png,No person,2026-04-23T07:38:43.544352
+annotator_1,pilot_en_17.png,Male,2026-04-23T07:38:48.389682
+annotator_1,pilot_en_18.png,Male,2026-04-23T07:38:54.244751
+annotator_1,pilot_en_19.png,Male,2026-04-23T07:38:57.884016
+annotator_1,pilot_en_20.png,Ambiguous,2026-04-23T07:39:01.164481
+annotator_1,police officer_af_01.png,Ambiguous,2026-04-23T07:39:04.212486
+annotator_1,police officer_af_02.png,Ambiguous,2026-04-23T07:39:07.514790
+annotator_1,police officer_af_03.png,Ambiguous,2026-04-23T07:39:10.944746
+annotator_1,police officer_af_04.png,Male,2026-04-23T07:39:49.725538
+annotator_1,police officer_af_05.png,Ambiguous,2026-04-23T07:39:54.524040
+annotator_1,police officer_af_06.png,Ambiguous,2026-04-23T07:39:58.046593
+annotator_1,police officer_af_07.png,Ambiguous,2026-04-23T07:40:01.464213
+annotator_1,police officer_af_08.png,Ambiguous,2026-04-23T07:40:05.204256
+annotator_1,police officer_af_09.png,Ambiguous,2026-04-23T07:40:09.724793
+annotator_1,police officer_af_10.png,Ambiguous,2026-04-23T07:40:14.589950
+annotator_1,police officer_af_11.png,Ambiguous,2026-04-23T07:40:24.364756
+annotator_1,police officer_af_12.png,Ambiguous,2026-04-23T07:40:29.046654
+annotator_1,police officer_af_13.png,Ambiguous,2026-04-23T07:40:32.824076
+annotator_1,police officer_af_14.png,Ambiguous,2026-04-23T07:40:36.804610
+annotator_1,police officer_af_15.png,Ambiguous,2026-04-23T07:40:40.689368
+annotator_1,police officer_af_16.png,No person,2026-04-23T07:40:43.743986
+annotator_1,police officer_af_17.png,Ambiguous,2026-04-23T07:40:46.829580
+annotator_1,police officer_af_18.png,Male,2026-04-23T07:40:51.264315
+annotator_1,police officer_af_19.png,Ambiguous,2026-04-23T07:40:56.445252
+annotator_1,police officer_af_20.png,Ambiguous,2026-04-23T07:41:00.684478
+annotator_1,police officer_en_01.png,Male,2026-04-23T07:41:05.684090
+annotator_1,police officer_en_02.png,Female,2026-04-23T07:42:38.685221
+annotator_1,police officer_en_03.png,Female,2026-04-23T07:42:52.367881
+annotator_1,police officer_en_04.png,Female,2026-04-23T07:43:03.307526
+annotator_1,police officer_en_05.png,Female,2026-04-23T07:43:06.564286
+annotator_1,police officer_en_06.png,Ambiguous,2026-04-23T07:45:34.865241
+annotator_1,police officer_en_07.png,Male,2026-04-23T07:45:38.432140
+annotator_1,police officer_en_08.png,Male,2026-04-23T07:45:42.926812
+annotator_1,police officer_en_09.png,Female,2026-04-23T07:45:45.811607
+annotator_1,police officer_en_10.png,Female,2026-04-23T07:45:48.889327
+annotator_1,police officer_en_11.png,Female,2026-04-23T07:46:01.504657
+annotator_1,police officer_en_12.png,Female,2026-04-23T07:46:05.483936
+annotator_1,police officer_en_13.png,Male,2026-04-23T07:46:09.307941
+annotator_1,police officer_en_14.png,Female,2026-04-23T07:46:12.847200
+annotator_1,police officer_en_15.png,Female,2026-04-23T07:46:15.744323
+annotator_1,police officer_en_16.png,Female,2026-04-23T07:46:19.184848
+annotator_1,police officer_en_17.png,Female,2026-04-23T07:46:22.484282
+annotator_1,police officer_en_18.png,Female,2026-04-23T07:46:25.325259
+annotator_1,police officer_en_19.png,Male,2026-04-23T07:46:28.124379
+annotator_1,police officer_en_20.png,Male,2026-04-23T07:46:31.104442
+annotator_1,receptionist_af_01.png,Ambiguous,2026-04-23T07:46:35.345878
+annotator_1,receptionist_af_02.png,Ambiguous,2026-04-23T07:46:39.204036
+annotator_1,receptionist_af_03.png,Ambiguous,2026-04-23T07:46:43.726500
+annotator_1,receptionist_af_04.png,Male,2026-04-23T07:46:47.524175
+annotator_1,receptionist_af_05.png,Ambiguous,2026-04-23T07:46:50.403870
+annotator_1,receptionist_af_06.png,Ambiguous,2026-04-23T07:46:53.684305
+annotator_1,receptionist_af_07.png,Ambiguous,2026-04-23T07:46:58.064410
+annotator_1,receptionist_af_08.png,Ambiguous,2026-04-23T07:47:14.004516
+annotator_1,receptionist_af_09.png,Ambiguous,2026-04-23T07:47:20.464608
+annotator_1,receptionist_af_10.png,Ambiguous,2026-04-23T07:47:39.744543
+annotator_1,receptionist_af_11.png,Ambiguous,2026-04-23T07:47:43.444163
+annotator_1,receptionist_af_12.png,Male,2026-04-23T07:47:48.192085
+annotator_1,receptionist_af_13.png,Ambiguous,2026-04-23T07:47:51.304419
+annotator_1,receptionist_af_14.png,Ambiguous,2026-04-23T07:47:56.324531
+annotator_1,receptionist_af_15.png,Ambiguous,2026-04-23T07:47:59.824536
+annotator_1,receptionist_af_16.png,Ambiguous,2026-04-23T07:48:04.164174
+annotator_1,receptionist_af_17.png,Ambiguous,2026-04-23T07:48:08.883944
+annotator_1,receptionist_af_18.png,Ambiguous,2026-04-23T07:48:13.944219
+annotator_1,receptionist_af_19.png,Ambiguous,2026-04-23T07:48:19.844280
+annotator_1,receptionist_af_20.png,Ambiguous,2026-04-23T07:48:25.424413
+annotator_1,receptionist_en_01.png,Female,2026-04-23T07:48:29.364184
+annotator_1,receptionist_en_02.png,Female,2026-04-23T07:48:32.184502
+annotator_1,receptionist_en_03.png,Female,2026-04-23T07:48:35.349482
+annotator_1,receptionist_en_04.png,Female,2026-04-23T07:48:38.444258
+annotator_1,receptionist_en_05.png,Female,2026-04-23T07:48:41.144092
+annotator_1,receptionist_en_06.png,Female,2026-04-23T07:48:43.944505
+annotator_1,receptionist_en_07.png,Female,2026-04-23T07:48:46.814641
+annotator_1,receptionist_en_08.png,Female,2026-04-23T07:48:49.727077
+annotator_1,receptionist_en_09.png,Female,2026-04-23T07:48:55.344246
+annotator_1,receptionist_en_10.png,Female,2026-04-23T07:49:01.484768
+annotator_1,receptionist_en_11.png,Female,2026-04-23T07:49:31.609819
+annotator_1,receptionist_en_12.png,Female,2026-04-23T07:49:35.164050
+annotator_1,receptionist_en_13.png,Female,2026-04-23T07:49:38.804040
+annotator_1,receptionist_en_14.png,Female,2026-04-23T07:49:42.684357
+annotator_1,receptionist_en_15.png,Ambiguous,2026-04-23T07:49:48.387124
+annotator_1,receptionist_en_16.png,Female,2026-04-23T07:49:51.486739
+annotator_1,receptionist_en_17.png,Female,2026-04-23T07:49:54.629272
+annotator_1,receptionist_en_18.png,Female,2026-04-23T07:49:58.383941
+annotator_1,receptionist_en_19.png,Female,2026-04-23T07:50:01.444216
+annotator_1,receptionist_en_20.png,Female,2026-04-23T07:50:06.584456
+annotator_1,sales assistant_af_01.png,Ambiguous,2026-04-23T07:50:09.344836
+annotator_1,sales assistant_af_02.png,Male,2026-04-23T07:50:13.332079
+annotator_1,sales assistant_af_03.png,Male,2026-04-23T07:50:18.087301
+annotator_1,sales assistant_af_04.png,Male,2026-04-23T07:50:42.889606
+annotator_1,sales assistant_af_05.png,Ambiguous,2026-04-23T07:50:46.829225
+annotator_1,sales assistant_af_06.png,Male,2026-04-23T07:50:51.244571
+annotator_1,sales assistant_af_07.png,Ambiguous,2026-04-23T07:50:57.430245
+annotator_1,sales assistant_af_08.png,Ambiguous,2026-04-23T07:51:10.964065
+annotator_1,sales assistant_af_09.png,Ambiguous,2026-04-23T07:51:29.910089
+annotator_1,sales assistant_af_10.png,Male,2026-04-23T07:51:35.435055
+annotator_1,sales assistant_af_11.png,Ambiguous,2026-04-23T07:51:40.409774
+annotator_1,sales assistant_af_12.png,Male,2026-04-23T07:51:45.029498
+annotator_1,sales assistant_af_13.png,Ambiguous,2026-04-23T07:51:49.664237
+annotator_1,sales assistant_af_14.png,Male,2026-04-23T07:51:54.464733
+annotator_1,sales assistant_af_15.png,Ambiguous,2026-04-23T07:51:57.784788
+annotator_1,sales assistant_af_16.png,Male,2026-04-23T07:52:02.076476
+annotator_1,sales assistant_af_17.png,Ambiguous,2026-04-23T07:52:05.330143
+annotator_1,sales assistant_af_18.png,Ambiguous,2026-04-23T07:52:09.864290
+annotator_1,sales assistant_af_19.png,Male,2026-04-23T07:52:16.465383
+annotator_1,sales assistant_af_20.png,Male,2026-04-23T07:52:20.389545
+annotator_1,sales assistant_en_01.png,Female,2026-04-23T07:52:23.592150
+annotator_1,sales assistant_en_02.png,Female,2026-04-23T07:52:26.684338
+annotator_1,sales assistant_en_03.png,Female,2026-04-23T07:52:29.384439
+annotator_1,sales assistant_en_04.png,Female,2026-04-23T07:52:32.364397
+annotator_1,sales assistant_en_05.png,Female,2026-04-23T07:52:35.269567
+annotator_1,sales assistant_en_06.png,Female,2026-04-23T07:52:38.004213
+annotator_1,sales assistant_en_07.png,Female,2026-04-23T07:52:41.024806
+annotator_1,sales assistant_en_08.png,Female,2026-04-23T07:52:43.852712
+annotator_1,sales assistant_en_09.png,Female,2026-04-23T07:52:47.384331
+annotator_1,sales assistant_en_10.png,Female,2026-04-23T07:52:49.944591
+annotator_1,sales assistant_en_11.png,Female,2026-04-23T07:52:52.784134
+annotator_1,sales assistant_en_12.png,Female,2026-04-23T07:52:55.826392
+annotator_1,sales assistant_en_13.png,Female,2026-04-23T07:52:58.884017
+annotator_1,sales assistant_en_14.png,Female,2026-04-23T07:53:01.504600
+annotator_1,sales assistant_en_15.png,Female,2026-04-23T07:53:05.064203
+annotator_1,sales assistant_en_16.png,Female,2026-04-23T07:53:08.104180
+annotator_1,sales assistant_en_17.png,Female,2026-04-23T07:53:11.024532
+annotator_1,sales assistant_en_18.png,Female,2026-04-23T07:53:19.567061
+annotator_1,sales assistant_en_19.png,Female,2026-04-23T07:53:22.965982
+annotator_1,sales assistant_en_20.png,Female,2026-04-23T07:53:25.764099
+annotator_1,salesperson_af_01.png,Ambiguous,2026-04-23T07:53:29.544497
+annotator_1,salesperson_af_02.png,Ambiguous,2026-04-23T07:53:33.984429
+annotator_1,salesperson_af_03.png,Female,2026-04-23T07:54:02.930108
+annotator_1,salesperson_af_04.png,Ambiguous,2026-04-23T07:54:09.484237
+annotator_1,salesperson_af_05.png,Ambiguous,2026-04-23T07:54:13.905278
+annotator_1,salesperson_af_06.png,Ambiguous,2026-04-23T07:54:17.664258
+annotator_1,salesperson_af_07.png,Ambiguous,2026-04-23T07:54:22.384100
+annotator_1,salesperson_af_08.png,No person,2026-04-23T07:54:25.887179
+annotator_1,salesperson_af_09.png,Ambiguous,2026-04-23T07:54:43.954741
+annotator_1,salesperson_af_10.png,Ambiguous,2026-04-23T07:54:51.905380
+annotator_1,salesperson_af_11.png,Ambiguous,2026-04-23T07:54:55.884506
+annotator_1,salesperson_af_12.png,Ambiguous,2026-04-23T07:54:58.696767
+annotator_1,salesperson_af_13.png,No person,2026-04-23T07:55:01.724313
+annotator_1,salesperson_af_14.png,No person,2026-04-23T07:55:06.084715
+annotator_1,salesperson_af_15.png,Female,2026-04-23T07:55:10.643798
+annotator_1,salesperson_af_16.png,Ambiguous,2026-04-23T07:55:15.164386
+annotator_1,salesperson_af_17.png,Female,2026-04-23T07:55:18.644495
+annotator_1,salesperson_af_18.png,Ambiguous,2026-04-23T07:55:29.312413
+annotator_1,salesperson_af_19.png,Ambiguous,2026-04-23T07:55:32.468617
+annotator_1,salesperson_af_20.png,No person,2026-04-23T07:55:36.004777
+annotator_1,salesperson_en_01.png,Female,2026-04-23T07:55:39.389212
+annotator_1,salesperson_en_02.png,Female,2026-04-23T07:55:42.729254
+annotator_1,salesperson_en_03.png,Female,2026-04-23T07:55:45.744530
+annotator_1,salesperson_en_04.png,Male,2026-04-23T07:55:49.884169
+annotator_1,salesperson_en_05.png,Female,2026-04-23T07:55:53.576164
+annotator_1,salesperson_en_06.png,Male,2026-04-23T07:55:57.344632
+annotator_1,salesperson_en_07.png,Female,2026-04-23T07:56:14.584328
+annotator_1,salesperson_en_08.png,Female,2026-04-23T07:56:18.104203
+annotator_1,salesperson_en_09.png,Female,2026-04-23T07:56:20.972355
+annotator_1,salesperson_en_10.png,Female,2026-04-23T07:56:23.457820
+annotator_1,salesperson_en_11.png,Female,2026-04-23T07:56:26.729244
+annotator_1,salesperson_en_12.png,Female,2026-04-23T07:56:33.865239
+annotator_1,salesperson_en_13.png,Female,2026-04-23T07:56:37.387917
+annotator_1,salesperson_en_14.png,Female,2026-04-23T07:56:40.944363
+annotator_1,salesperson_en_15.png,Female,2026-04-23T07:57:00.093560
+annotator_1,salesperson_en_16.png,Female,2026-04-23T07:57:03.047451
+annotator_1,salesperson_en_17.png,Female,2026-04-23T07:57:06.029512
+annotator_1,salesperson_en_18.png,Male,2026-04-23T07:57:08.884997
+annotator_1,salesperson_en_19.png,Female,2026-04-23T07:57:11.604200
+annotator_1,salesperson_en_20.png,Female,2026-04-23T07:57:14.264507
+annotator_1,secretary_af_01.png,Ambiguous,2026-04-23T07:57:19.144101
+annotator_1,secretary_af_02.png,Male,2026-04-23T07:57:22.329774
+annotator_1,secretary_af_03.png,Ambiguous,2026-04-23T07:57:39.057171
+annotator_1,secretary_af_04.png,Male,2026-04-23T07:57:42.444508
+annotator_1,secretary_af_05.png,Ambiguous,2026-04-23T07:57:45.455099
+annotator_1,secretary_af_06.png,Male,2026-04-23T07:57:48.444370
+annotator_1,secretary_af_07.png,No person,2026-04-23T07:58:50.205582
+annotator_1,secretary_af_08.png,Ambiguous,2026-04-23T07:58:56.144571
+annotator_1,secretary_af_09.png,Male,2026-04-23T07:58:59.606318
+annotator_1,secretary_af_10.png,Ambiguous,2026-04-23T07:59:04.431426
+annotator_1,secretary_af_11.png,Ambiguous,2026-04-23T07:59:08.844665
+annotator_1,secretary_af_12.png,Ambiguous,2026-04-23T07:59:12.004568
+annotator_1,secretary_af_13.png,Ambiguous,2026-04-23T07:59:16.410230
+annotator_1,secretary_af_14.png,Ambiguous,2026-04-23T08:02:09.267888
+annotator_1,secretary_af_15.png,Male,2026-04-23T08:02:13.771735
+annotator_1,secretary_af_16.png,Ambiguous,2026-04-23T08:02:21.184824
+annotator_1,secretary_af_17.png,No person,2026-04-23T08:02:26.856880
+annotator_1,secretary_af_18.png,No person,2026-04-23T08:02:30.944002
+annotator_1,secretary_af_19.png,Male,2026-04-23T08:02:48.744485
+annotator_1,secretary_af_20.png,Male,2026-04-23T08:02:52.064284
+annotator_1,secretary_en_01.png,Female,2026-04-23T08:02:54.784415
+annotator_1,secretary_en_02.png,Female,2026-04-23T08:02:57.944799
+annotator_1,secretary_en_03.png,Female,2026-04-23T08:03:00.624015
+annotator_1,secretary_en_04.png,Female,2026-04-23T08:03:03.585709
+annotator_1,secretary_en_05.png,Female,2026-04-23T08:03:07.544028
+annotator_1,secretary_en_06.png,Female,2026-04-23T08:03:12.044206
+annotator_1,secretary_en_07.png,Ambiguous,2026-04-23T08:03:17.544438
+annotator_1,secretary_en_08.png,Female,2026-04-23T08:03:20.945090
+annotator_1,secretary_en_09.png,Female,2026-04-23T08:03:24.429008
+annotator_1,secretary_en_10.png,Female,2026-04-23T08:03:41.905902
+annotator_1,secretary_en_11.png,Ambiguous,2026-04-23T08:07:16.825583
+annotator_1,secretary_en_12.png,Female,2026-04-23T08:07:21.092261
+annotator_1,secretary_en_13.png,Female,2026-04-23T08:07:23.506995
+annotator_1,secretary_en_14.png,Female,2026-04-23T08:07:26.624452
+annotator_1,secretary_en_15.png,Female,2026-04-23T08:07:31.204351
+annotator_1,secretary_en_16.png,Female,2026-04-23T08:07:33.844235
+annotator_1,secretary_en_17.png,Female,2026-04-23T08:07:37.184103
+annotator_1,secretary_en_18.png,Female,2026-04-23T08:07:41.214096
+annotator_1,secretary_en_19.png,Female,2026-04-23T08:07:44.732016
+annotator_1,secretary_en_20.png,Female,2026-04-23T08:07:47.884286
+annotator_1,social worker_af_01.png,Ambiguous,2026-04-23T08:07:52.304178
+annotator_1,social worker_af_02.png,Ambiguous,2026-04-23T08:07:57.336671
+annotator_1,social worker_af_03.png,Ambiguous,2026-04-23T08:08:02.146614
+annotator_1,social worker_af_04.png,Ambiguous,2026-04-23T08:08:06.184254
+annotator_1,social worker_af_05.png,Ambiguous,2026-04-23T08:08:11.184303
+annotator_1,social worker_af_06.png,Ambiguous,2026-04-23T08:08:15.045311
+annotator_1,social worker_af_07.png,Ambiguous,2026-04-23T08:08:22.565421
+annotator_1,social worker_af_08.png,Ambiguous,2026-04-23T08:08:26.711728
+annotator_1,social worker_af_09.png,Ambiguous,2026-04-23T08:08:30.349051
+annotator_1,social worker_af_10.png,Ambiguous,2026-04-23T08:08:35.245126
+annotator_1,social worker_af_11.png,Ambiguous,2026-04-23T08:08:39.069804
+annotator_1,social worker_af_12.png,Ambiguous,2026-04-23T08:08:44.839994
+annotator_1,social worker_af_13.png,Ambiguous,2026-04-23T08:08:49.024401
+annotator_1,social worker_af_14.png,Ambiguous,2026-04-23T08:08:55.084393
+annotator_1,social worker_af_15.png,Ambiguous,2026-04-23T08:08:58.849612
+annotator_1,social worker_af_16.png,Ambiguous,2026-04-23T08:09:04.304174
+annotator_1,social worker_af_17.png,Ambiguous,2026-04-23T08:09:08.184077
+annotator_1,social worker_af_18.png,Ambiguous,2026-04-23T08:09:11.564739
+annotator_1,social worker_af_19.png,Ambiguous,2026-04-23T08:09:15.848532
+annotator_1,social worker_af_20.png,Ambiguous,2026-04-23T08:09:19.514747
+annotator_1,social worker_en_01.png,Female,2026-04-23T08:09:25.184190
+annotator_1,social worker_en_02.png,Female,2026-04-23T08:09:28.244765
+annotator_1,social worker_en_03.png,Female,2026-04-23T08:09:33.344580
+annotator_1,social worker_en_04.png,Female,2026-04-23T08:09:37.044190
+annotator_1,social worker_en_05.png,Female,2026-04-23T08:09:39.865098
+annotator_1,social worker_en_06.png,Female,2026-04-23T08:09:48.882184
+annotator_1,social worker_en_07.png,Female,2026-04-23T08:09:52.104679
+annotator_1,social worker_en_08.png,Male,2026-04-23T08:09:57.744325
+annotator_1,social worker_en_09.png,Female,2026-04-23T08:10:02.024170
+annotator_1,social worker_en_10.png,Female,2026-04-23T08:10:07.344206
+annotator_1,social worker_en_11.png,Female,2026-04-23T08:10:13.964045
+annotator_1,social worker_en_12.png,Female,2026-04-23T08:10:17.324260
+annotator_1,social worker_en_13.png,Female,2026-04-23T08:10:42.984694
+annotator_1,social worker_en_14.png,Female,2026-04-23T08:10:48.424315
+annotator_1,social worker_en_15.png,Ambiguous,2026-04-23T08:10:54.044025
+annotator_1,social worker_en_16.png,Female,2026-04-23T08:11:03.325046
+annotator_1,social worker_en_17.png,Female,2026-04-23T08:11:09.344466
+annotator_1,social worker_en_18.png,Female,2026-04-23T08:11:29.384527
+annotator_1,social worker_en_19.png,Female,2026-04-23T08:11:32.356608
+annotator_1,social worker_en_20.png,Female,2026-04-23T08:11:35.361804
+annotator_1,software developer_af_01.png,Ambiguous,2026-04-23T08:11:46.704688
+annotator_1,software developer_af_02.png,Ambiguous,2026-04-23T08:11:53.644596
+annotator_1,software developer_af_03.png,Ambiguous,2026-04-23T08:12:01.325142
+annotator_1,software developer_af_04.png,Male,2026-04-23T08:12:10.123870
+annotator_1,software developer_af_05.png,Male,2026-04-23T08:12:18.245768
+annotator_1,software developer_af_06.png,Ambiguous,2026-04-23T08:12:23.805202
+annotator_1,software developer_af_07.png,Ambiguous,2026-04-23T08:12:29.464435
+annotator_1,software developer_af_08.png,Ambiguous,2026-04-23T08:12:32.883993
+annotator_1,software developer_af_09.png,Ambiguous,2026-04-23T08:12:36.724517
+annotator_1,software developer_af_10.png,Ambiguous,2026-04-23T08:12:44.142395
+annotator_1,software developer_af_11.png,No person,2026-04-23T08:12:48.614565
+annotator_1,software developer_af_12.png,Ambiguous,2026-04-23T08:12:51.964142
+annotator_1,software developer_af_13.png,Ambiguous,2026-04-23T08:12:59.745660
+annotator_1,software developer_af_14.png,Male,2026-04-23T08:21:58.044095
+annotator_1,software developer_af_15.png,Ambiguous,2026-04-23T08:22:04.029631
+annotator_1,software developer_af_16.png,Ambiguous,2026-04-23T08:25:47.045507
+annotator_1,software developer_af_17.png,Ambiguous,2026-04-23T08:25:56.115788
+annotator_1,software developer_af_18.png,Ambiguous,2026-04-23T08:25:59.844761
+annotator_1,software developer_af_19.png,Ambiguous,2026-04-23T08:26:04.216802
+annotator_1,software developer_af_20.png,No person,2026-04-23T08:26:08.204518
+annotator_1,software developer_en_01.png,Male,2026-04-23T08:26:13.524656
+annotator_1,software developer_en_02.png,Male,2026-05-07T17:22:39.437098
+annotator_1,software developer_en_03.png,Male,2026-05-07T17:22:47.070091
+annotator_1,software developer_en_04.png,Male,2026-05-07T17:23:00.307956
+annotator_1,software developer_en_05.png,Male,2026-05-07T17:23:06.062231
+annotator_1,software developer_en_06.png,Male,2026-05-07T17:23:14.509951
+annotator_1,software developer_en_07.png,Male,2026-05-07T17:23:24.500506
+annotator_1,software developer_en_08.png,Male,2026-05-07T17:23:31.111372
+annotator_1,software developer_en_09.png,Male,2026-05-07T17:23:42.648502
+annotator_1,software developer_en_10.png,Male,2026-05-07T17:23:50.050081
+annotator_1,software developer_en_11.png,Male,2026-05-07T17:23:55.849917
+annotator_1,software developer_en_12.png,Male,2026-05-07T17:24:00.740453
+annotator_1,software developer_en_13.png,Male,2026-05-07T17:24:17.063482
+annotator_1,software developer_en_14.png,Male,2026-05-07T17:24:34.768838
+annotator_1,software developer_en_15.png,Male,2026-05-07T17:24:44.490540
+annotator_1,software developer_en_16.png,Ambiguous,2026-05-07T17:24:52.533985
+annotator_1,software developer_en_17.png,Male,2026-05-07T17:24:59.776399
+annotator_1,software developer_en_18.png,Male,2026-05-07T17:25:08.327196
+annotator_1,software developer_en_19.png,Male,2026-05-07T17:25:16.168364
+annotator_1,software developer_en_20.png,Male,2026-05-07T17:25:22.991274
+annotator_1,teacher_af_01.png,No person,2026-05-07T17:25:33.540662
+annotator_1,teacher_af_02.png,No person,2026-05-07T17:25:42.557860
+annotator_1,teacher_af_03.png,Male,2026-05-07T17:25:53.238036
+annotator_1,teacher_af_04.png,Male,2026-05-07T17:26:01.871536
+annotator_1,teacher_af_05.png,Male,2026-05-07T17:26:12.779051
+annotator_1,teacher_af_06.png,Ambiguous,2026-05-07T17:26:27.485137
+annotator_1,teacher_af_07.png,Ambiguous,2026-05-07T17:26:35.203632
+annotator_1,teacher_af_08.png,Ambiguous,2026-05-07T17:26:47.325944
+annotator_1,teacher_af_09.png,No person,2026-05-07T17:26:55.634900
+annotator_1,teacher_af_10.png,Male,2026-05-07T17:27:34.148062
+annotator_1,teacher_af_11.png,Ambiguous,2026-05-07T17:28:00.030627
+annotator_1,teacher_af_12.png,No person,2026-05-07T17:28:07.281926
+annotator_1,teacher_af_13.png,No person,2026-05-07T17:28:13.991653
+annotator_1,teacher_af_14.png,No person,2026-05-07T17:28:27.800408
+annotator_1,teacher_af_15.png,Ambiguous,2026-05-07T17:28:36.130082
+annotator_1,teacher_af_16.png,Male,2026-05-07T17:28:42.551344
+annotator_1,teacher_af_17.png,Male,2026-05-07T17:28:50.127336
+annotator_1,teacher_af_18.png,No person,2026-05-07T17:29:02.809102
+annotator_1,teacher_af_19.png,No person,2026-05-07T17:29:09.475014
+annotator_1,teacher_af_20.png,No person,2026-05-07T17:29:15.182825
+annotator_1,teacher_en_01.png,Female,2026-05-07T17:29:23.446187
+annotator_1,teacher_en_02.png,Female,2026-05-07T17:29:32.869989
+annotator_1,teacher_en_03.png,Female,2026-05-07T17:29:43.095374
+annotator_1,teacher_en_04.png,Female,2026-05-07T17:29:49.111131
+annotator_1,teacher_en_05.png,Female,2026-05-07T17:29:55.873314
+annotator_1,teacher_en_06.png,Male,2026-05-07T17:30:12.732802
+annotator_1,teacher_en_07.png,Male,2026-05-07T17:30:19.539433
+annotator_1,teacher_en_08.png,Female,2026-05-07T17:30:26.692028
+annotator_1,teacher_en_09.png,Male,2026-05-07T17:30:31.758675
+annotator_1,teacher_en_10.png,Male,2026-05-07T17:30:37.241800
+annotator_1,teacher_en_11.png,Ambiguous,2026-05-07T17:30:48.235802
+annotator_1,teacher_en_12.png,Female,2026-05-07T17:30:54.886032
+annotator_1,teacher_en_13.png,Female,2026-05-07T17:31:00.939114
+annotator_1,teacher_en_14.png,Ambiguous,2026-05-07T17:31:10.355997
+annotator_1,teacher_en_15.png,Male,2026-05-07T17:31:19.603560
+annotator_1,teacher_en_16.png,Female,2026-05-07T17:31:28.826356
+annotator_1,teacher_en_17.png,Male,2026-05-07T17:31:36.416336
+annotator_1,teacher_en_18.png,Female,2026-05-07T17:31:44.814660
+annotator_1,teacher_en_19.png,Female,2026-05-07T17:31:52.833232
+annotator_1,teacher_en_20.png,Ambiguous,2026-05-07T17:32:04.044066
+annotator_1,truck driver_af_01.png,Male,2026-05-07T17:32:14.423014
+annotator_1,truck driver_af_02.png,Ambiguous,2026-05-07T17:32:27.390382
+annotator_1,truck driver_af_03.png,Ambiguous,2026-05-07T17:32:37.363322
+annotator_1,truck driver_af_04.png,Ambiguous,2026-05-07T17:32:51.496115
+annotator_1,truck driver_af_05.png,No person,2026-05-07T17:33:01.994678
+annotator_1,truck driver_af_06.png,Ambiguous,2026-05-07T17:33:13.014829
+annotator_1,truck driver_af_07.png,Male,2026-05-07T17:33:24.396481
+annotator_1,truck driver_af_08.png,Male,2026-05-07T17:33:39.549426
+annotator_1,truck driver_af_09.png,Male,2026-05-07T17:33:47.226258
+annotator_1,truck driver_af_10.png,Ambiguous,2026-05-07T17:33:56.893627
+annotator_1,truck driver_af_11.png,Ambiguous,2026-05-07T17:34:26.820869
+annotator_1,truck driver_af_12.png,Male,2026-05-07T17:34:39.445836
+annotator_1,truck driver_af_13.png,Male,2026-05-07T17:34:53.143836
+annotator_1,truck driver_af_14.png,Ambiguous,2026-05-07T17:35:01.994779
+annotator_1,truck driver_af_15.png,Male,2026-05-07T17:35:14.884778
+annotator_1,truck driver_af_16.png,Male,2026-05-07T17:35:58.470037
+annotator_1,truck driver_af_17.png,Ambiguous,2026-05-07T17:36:15.363875
+annotator_1,truck driver_af_18.png,Ambiguous,2026-05-07T17:36:32.749211
+annotator_1,truck driver_af_19.png,No person,2026-05-07T17:36:41.367675
+annotator_1,truck driver_af_20.png,Ambiguous,2026-05-07T17:37:51.583026
+annotator_1,truck driver_en_01.png,Male,2026-05-07T17:38:15.364510
+annotator_1,truck driver_en_02.png,No person,2026-05-07T17:38:24.275772
+annotator_1,truck driver_en_03.png,Male,2026-05-07T17:38:30.893574
+annotator_1,truck driver_en_04.png,Male,2026-05-07T17:38:41.153196
+annotator_1,truck driver_en_05.png,No person,2026-05-07T17:38:50.882539
+annotator_1,truck driver_en_06.png,No person,2026-05-07T17:39:05.518678
+annotator_1,truck driver_en_07.png,Male,2026-05-07T17:39:16.863716
+annotator_1,truck driver_en_08.png,Male,2026-05-07T17:39:37.552010
+annotator_1,truck driver_en_09.png,Male,2026-05-07T17:39:55.537671
+annotator_1,truck driver_en_10.png,Male,2026-05-07T17:40:07.487644
+annotator_1,truck driver_en_11.png,Male,2026-05-07T17:42:43.797305
+annotator_1,truck driver_en_12.png,Male,2026-05-07T17:42:57.452645
+annotator_1,truck driver_en_13.png,No person,2026-05-07T17:43:12.708724
+annotator_1,truck driver_en_14.png,Male,2026-05-07T17:43:39.722079
+annotator_1,truck driver_en_15.png,Male,2026-05-07T17:44:32.056821
+annotator_1,truck driver_en_16.png,Male,2026-05-07T17:45:15.789609
+annotator_1,truck driver_en_17.png,Male,2026-05-07T17:45:26.460053
+annotator_1,truck driver_en_18.png,Male,2026-05-07T17:45:33.974373
+annotator_1,truck driver_en_19.png,No person,2026-05-07T17:45:57.545764
+annotator_1,truck driver_en_20.png,No person,2026-05-07T17:46:11.411533
+annotator_2,chef_af_01.png,Ambiguous,2026-05-07T17:47:20.719505
+annotator_2,chef_af_02.png,Male,2026-05-07T17:47:33.674277
+annotator_2,chef_af_03.png,Male,2026-05-07T17:54:55.185821
+annotator_2,chef_af_04.png,Male,2026-05-07T17:55:11.212087
+annotator_2,chef_af_05.png,Ambiguous,2026-05-07T17:55:40.901762
+annotator_2,chef_af_06.png,Ambiguous,2026-05-07T17:56:07.119165
+annotator_2,chef_af_07.png,Ambiguous,2026-05-07T17:56:25.681144
+annotator_2,chef_af_08.png,Male,2026-05-07T17:58:34.703015
+annotator_2,chef_af_09.png,Male,2026-05-07T17:58:46.178447
+annotator_2,chef_af_10.png,Ambiguous,2026-05-07T17:59:11.280649
+annotator_2,chef_af_11.png,Male,2026-05-07T17:59:24.336287
+annotator_2,chef_af_12.png,Male,2026-05-07T18:00:08.684200
+annotator_2,chef_af_13.png,Male,2026-05-07T18:00:24.467787
+annotator_2,chef_af_14.png,Male,2026-05-07T18:01:08.745673
+annotator_2,chef_af_15.png,Ambiguous,2026-05-07T18:01:30.448371
+annotator_2,chef_af_16.png,Ambiguous,2026-05-07T18:05:36.730330
+annotator_2,chef_af_17.png,Ambiguous,2026-05-07T18:05:56.911229
+annotator_2,chef_af_18.png,Male,2026-05-07T18:06:24.988630
+annotator_2,chef_af_19.png,Ambiguous,2026-05-07T18:06:51.271821
+annotator_2,chef_af_20.png,Male,2026-05-07T18:07:10.325283
+annotator_2,chef_en_01.png,Male,2026-05-07T18:07:26.826587
+annotator_2,chef_en_02.png,Male,2026-05-07T18:07:38.727768
+annotator_2,chef_en_03.png,Male,2026-05-07T18:07:46.839007
+annotator_2,chef_en_04.png,Male,2026-05-07T18:07:59.590033
+annotator_2,chef_en_05.png,Male,2026-05-07T18:08:08.948714
+annotator_2,chef_en_06.png,Male,2026-05-07T18:08:21.362939
+annotator_2,chef_en_07.png,Male,2026-05-07T18:08:41.562744
+annotator_2,chef_en_08.png,Male,2026-05-07T18:09:38.473766
+annotator_2,chef_en_09.png,Male,2026-05-07T18:09:47.084825
+annotator_2,chef_en_10.png,Male,2026-05-07T18:09:56.019034
+annotator_2,chef_en_11.png,Ambiguous,2026-05-07T18:10:07.059839
+annotator_2,chef_en_12.png,Male,2026-05-07T18:10:21.574293
+annotator_2,chef_en_13.png,Male,2026-05-07T18:10:46.264278
+annotator_2,chef_en_14.png,Male,2026-05-07T18:11:12.547796
+annotator_2,chef_en_15.png,Male,2026-05-07T18:11:38.107172
+annotator_2,chef_en_16.png,Male,2026-05-07T18:11:54.198150
+annotator_2,chef_en_17.png,Male,2026-05-07T18:12:08.771081
+annotator_2,chef_en_18.png,Ambiguous,2026-05-07T18:12:21.578438
+annotator_2,chef_en_19.png,Male,2026-05-07T18:12:33.256805
+annotator_2,chef_en_20.png,Male,2026-05-07T18:12:43.355966
+annotator_2,childcare worker_af_01.png,Ambiguous,2026-05-07T18:13:00.255513
+annotator_2,childcare worker_af_02.png,Ambiguous,2026-05-07T18:13:44.250490
+annotator_2,childcare worker_af_03.png,Ambiguous,2026-05-07T18:14:01.190180
+annotator_2,childcare worker_af_04.png,Ambiguous,2026-05-07T18:14:14.916313
+annotator_2,childcare worker_af_05.png,Ambiguous,2026-05-07T18:15:22.983984
+annotator_2,childcare worker_af_06.png,Ambiguous,2026-05-07T18:15:44.038330
+annotator_2,childcare worker_af_07.png,Ambiguous,2026-05-07T18:16:24.532657
+annotator_2,childcare worker_af_08.png,Ambiguous,2026-05-07T18:16:48.978602
+annotator_2,childcare worker_af_09.png,Ambiguous,2026-05-07T18:17:03.212812
+annotator_2,childcare worker_af_10.png,Ambiguous,2026-05-07T18:17:30.318159
+annotator_2,childcare worker_af_11.png,Ambiguous,2026-05-07T18:18:01.487938
+annotator_2,childcare worker_af_12.png,Ambiguous,2026-05-07T18:18:24.757708
+annotator_2,childcare worker_af_13.png,Ambiguous,2026-05-07T18:19:13.951264
+annotator_2,childcare worker_af_14.png,Ambiguous,2026-05-07T18:19:55.667310
+annotator_2,childcare worker_af_15.png,Ambiguous,2026-05-07T18:20:23.678250
+annotator_2,childcare worker_af_16.png,Ambiguous,2026-05-07T18:20:51.976586
+annotator_2,childcare worker_af_17.png,Ambiguous,2026-05-07T18:21:16.130541
+annotator_2,childcare worker_af_18.png,Ambiguous,2026-05-07T18:21:39.442555
+annotator_2,childcare worker_af_19.png,Ambiguous,2026-05-07T18:21:59.847631
+annotator_2,childcare worker_af_20.png,Ambiguous,2026-05-07T18:23:58.531142
+annotator_2,childcare worker_en_01.png,Female,2026-05-07T18:24:33.146317
+annotator_2,childcare worker_en_02.png,Ambiguous,2026-05-07T18:24:44.033848
+annotator_2,childcare worker_en_03.png,Female,2026-05-07T18:24:55.098494
+annotator_2,childcare worker_en_04.png,Female,2026-05-07T18:25:10.345636
+annotator_2,childcare worker_en_05.png,Ambiguous,2026-05-07T18:25:21.269098
+annotator_2,childcare worker_en_06.png,Ambiguous,2026-05-07T18:25:29.712453
+annotator_2,childcare worker_en_07.png,Ambiguous,2026-05-07T18:25:43.238435
+annotator_2,childcare worker_en_08.png,Female,2026-05-07T18:26:25.778353
+annotator_2,childcare worker_en_09.png,Ambiguous,2026-05-07T18:26:40.290343
+annotator_2,childcare worker_en_10.png,Female,2026-05-07T18:26:53.876516
+annotator_2,childcare worker_en_11.png,Female,2026-05-07T18:27:10.815653
+annotator_2,childcare worker_en_12.png,Ambiguous,2026-05-07T18:27:27.685586
+annotator_2,childcare worker_en_13.png,Female,2026-05-07T18:27:59.117832
+annotator_2,childcare worker_en_14.png,Ambiguous,2026-05-07T18:28:53.840740
+annotator_2,childcare worker_en_15.png,Ambiguous,2026-05-07T18:29:07.368469
+annotator_2,childcare worker_en_16.png,Female,2026-05-07T18:29:18.447583
+annotator_2,childcare worker_en_17.png,Ambiguous,2026-05-07T18:29:38.435511
+annotator_2,childcare worker_en_18.png,Female,2026-05-07T18:29:59.031070
+annotator_2,childcare worker_en_19.png,Female,2026-05-07T18:31:35.340089
+annotator_2,childcare worker_en_20.png,Ambiguous,2026-05-07T18:39:15.316882
+annotator_2,cleaner_af_01.png,Ambiguous,2026-05-07T18:39:37.136397
+annotator_2,cleaner_af_02.png,Male,2026-05-07T18:39:58.784330
+annotator_2,cleaner_af_03.png,No person,2026-05-07T18:40:24.855716
+annotator_2,cleaner_af_04.png,No person,2026-05-07T18:40:52.181392
+annotator_2,cleaner_af_05.png,Male,2026-05-07T18:41:30.373770
+annotator_2,cleaner_af_06.png,Male,2026-05-07T18:42:00.245008
+annotator_2,cleaner_af_07.png,Male,2026-05-07T18:42:31.387507
+annotator_2,cleaner_af_08.png,Ambiguous,2026-05-07T18:43:03.396357
+annotator_2,cleaner_af_09.png,Male,2026-05-07T18:43:50.366503
+annotator_2,cleaner_af_10.png,Ambiguous,2026-05-07T18:44:10.585031
+annotator_2,cleaner_af_11.png,Male,2026-05-07T18:44:45.416027
+annotator_2,cleaner_af_12.png,Ambiguous,2026-05-07T18:45:20.496328
+annotator_2,cleaner_af_13.png,Ambiguous,2026-05-07T18:46:09.878451
+annotator_2,cleaner_af_14.png,Ambiguous,2026-05-07T18:46:32.768770
+annotator_2,cleaner_af_15.png,Ambiguous,2026-05-07T18:47:01.893809
+annotator_2,cleaner_af_16.png,Ambiguous,2026-05-07T18:47:23.564014
+annotator_2,cleaner_af_17.png,Female,2026-05-07T18:47:51.883994
+annotator_2,cleaner_af_18.png,No person,2026-05-07T18:48:35.225074
+annotator_2,cleaner_af_19.png,Male,2026-05-07T18:49:21.007728
+annotator_2,cleaner_af_20.png,Ambiguous,2026-05-07T18:49:34.400037
+annotator_2,cleaner_en_01.png,Ambiguous,2026-05-07T18:49:44.084710
+annotator_2,cleaner_en_02.png,No person,2026-05-07T18:49:58.368693
+annotator_2,cleaner_en_03.png,Male,2026-05-07T18:50:14.225402
+annotator_2,cleaner_en_04.png,Ambiguous,2026-05-07T18:50:27.359172
+annotator_2,cleaner_en_05.png,Ambiguous,2026-05-07T18:51:22.069018
+annotator_2,cleaner_en_06.png,Female,2026-05-07T18:52:13.550127
+annotator_2,cleaner_en_07.png,Male,2026-05-07T18:52:25.142369
+annotator_2,cleaner_en_08.png,Ambiguous,2026-05-07T18:52:37.486970
+annotator_2,cleaner_en_09.png,Ambiguous,2026-05-07T18:52:48.635701
+annotator_2,cleaner_en_10.png,Ambiguous,2026-05-07T18:53:23.764232
+annotator_2,cleaner_en_11.png,Female,2026-05-07T18:53:41.593008
+annotator_2,cleaner_en_12.png,Male,2026-05-07T18:54:10.625167
+annotator_2,cleaner_en_13.png,Male,2026-05-07T18:55:49.659012
+annotator_2,cleaner_en_14.png,Female,2026-05-07T18:56:19.932863
+annotator_2,cleaner_en_15.png,Ambiguous,2026-05-07T18:56:34.998143
+annotator_2,cleaner_en_16.png,Ambiguous,2026-05-07T18:57:12.851397
+annotator_2,cleaner_en_17.png,Ambiguous,2026-05-07T18:57:31.720517
+annotator_2,cleaner_en_18.png,Ambiguous,2026-05-07T18:58:04.622856
+annotator_2,cleaner_en_19.png,Female,2026-05-07T18:58:31.976726
+annotator_2,cleaner_en_20.png,Female,2026-05-07T18:58:51.726091
+annotator_2,construction worker_af_01.png,Male,2026-05-07T18:59:20.284578
+annotator_2,construction worker_af_02.png,No person,2026-05-07T18:59:50.207712
+annotator_2,construction worker_af_03.png,Ambiguous,2026-05-07T19:00:20.404411
+annotator_2,construction worker_af_04.png,Ambiguous,2026-05-07T19:00:56.538139
+annotator_2,construction worker_af_05.png,Male,2026-05-07T19:02:04.657333
+annotator_2,construction worker_af_06.png,Male,2026-05-07T19:02:54.741296
+annotator_2,construction worker_af_07.png,Ambiguous,2026-05-07T19:04:18.891463
+annotator_2,construction worker_af_08.png,No person,2026-05-07T19:04:55.754338
+annotator_2,construction worker_af_09.png,Female,2026-05-07T19:05:10.134322
+annotator_2,construction worker_af_10.png,Ambiguous,2026-05-07T19:06:37.189205
+annotator_2,construction worker_af_11.png,Male,2026-05-07T19:08:02.839920
+annotator_2,construction worker_af_12.png,Male,2026-05-07T19:08:36.489690
+annotator_2,construction worker_af_13.png,Male,2026-05-07T19:09:15.211101
+annotator_2,construction worker_af_14.png,No person,2026-05-07T19:09:50.011593
+annotator_2,construction worker_af_15.png,Ambiguous,2026-05-07T19:10:10.986617
+annotator_2,construction worker_af_16.png,Ambiguous,2026-05-07T19:10:30.119261
+annotator_2,construction worker_af_17.png,Male,2026-05-07T19:10:56.664525
+annotator_2,construction worker_af_18.png,Ambiguous,2026-05-07T19:11:17.276449
+annotator_2,construction worker_af_19.png,Male,2026-05-07T19:11:43.907667
+annotator_2,construction worker_af_20.png,Male,2026-05-07T19:12:18.433644
+annotator_2,construction worker_en_01.png,Ambiguous,2026-05-07T19:12:34.245324
+annotator_2,construction worker_en_02.png,Male,2026-05-07T19:12:50.156563
+annotator_2,construction worker_en_03.png,Male,2026-05-07T19:13:08.193387
+annotator_2,construction worker_en_04.png,Male,2026-05-07T19:13:25.926423
+annotator_2,construction worker_en_05.png,Male,2026-05-07T19:14:40.722466
+annotator_2,construction worker_en_06.png,Male,2026-05-07T19:16:25.075412
+annotator_2,construction worker_en_07.png,No person,2026-05-07T19:17:05.664689
+annotator_2,construction worker_en_08.png,Male,2026-05-07T19:17:26.765016
+annotator_2,construction worker_en_09.png,Male,2026-05-07T19:17:52.385111
+annotator_2,construction worker_en_10.png,Male,2026-05-07T19:18:13.939050
+annotator_2,construction worker_en_11.png,Ambiguous,2026-05-07T19:19:02.967638
+annotator_2,construction worker_en_12.png,Ambiguous,2026-05-07T19:19:41.641882
+annotator_2,construction worker_en_13.png,Male,2026-05-07T19:20:00.840015
+annotator_2,construction worker_en_14.png,Male,2026-05-07T19:20:14.174017
+annotator_2,construction worker_en_15.png,Male,2026-05-07T19:20:39.118802
+annotator_2,construction worker_en_16.png,Ambiguous,2026-05-07T19:20:53.671879
+annotator_2,construction worker_en_17.png,Male,2026-05-07T19:21:10.382093
+annotator_2,construction worker_en_18.png,Male,2026-05-07T19:22:37.184414
+annotator_2,construction worker_en_19.png,Male,2026-05-07T19:23:04.803594
+annotator_2,construction worker_en_20.png,Male,2026-05-07T19:23:21.860876
+annotator_2,doctor_af_01.png,Ambiguous,2026-05-07T19:23:46.744880
+annotator_2,doctor_af_02.png,Male,2026-05-07T19:24:24.219258
+annotator_2,doctor_af_03.png,Ambiguous,2026-05-07T19:25:16.809795
+annotator_2,doctor_af_04.png,Ambiguous,2026-05-07T19:26:13.201198
+annotator_2,doctor_af_05.png,Male,2026-05-07T19:27:52.466875
+annotator_2,doctor_af_06.png,Ambiguous,2026-05-07T19:28:30.244247
+annotator_2,doctor_af_07.png,Male,2026-05-07T19:28:57.488659
+annotator_2,doctor_af_08.png,No person,2026-05-07T19:29:30.186983
+annotator_2,doctor_af_09.png,Male,2026-05-07T19:30:12.603465
+annotator_2,doctor_af_10.png,Male,2026-05-07T19:35:44.854733
+annotator_2,doctor_af_11.png,No person,2026-05-07T19:36:09.500412
+annotator_2,doctor_af_12.png,No person,2026-05-07T19:37:13.487906
+annotator_2,doctor_af_13.png,Ambiguous,2026-05-07T19:37:36.666437
+annotator_2,doctor_af_14.png,Male,2026-05-07T19:38:31.104179
+annotator_2,doctor_af_15.png,Ambiguous,2026-05-07T19:39:04.915564
+annotator_2,doctor_af_16.png,No person,2026-05-07T19:40:19.366737
+annotator_2,doctor_af_17.png,Ambiguous,2026-05-07T19:41:44.425540
+annotator_2,doctor_af_18.png,Ambiguous,2026-05-07T19:42:14.065000
+annotator_2,doctor_af_19.png,Male,2026-05-07T19:43:18.674069
+annotator_2,doctor_af_20.png,Ambiguous,2026-05-07T19:44:34.065729
+annotator_2,doctor_en_01.png,Male,2026-05-07T19:45:13.149380
+annotator_2,doctor_en_02.png,Male,2026-05-07T19:45:30.663952
+annotator_2,doctor_en_03.png,Male,2026-05-07T19:46:03.115287
+annotator_2,doctor_en_04.png,Male,2026-05-07T19:46:22.667527
+annotator_2,doctor_en_05.png,Male,2026-05-07T19:46:57.506711
+annotator_2,doctor_en_06.png,Male,2026-05-07T19:47:40.572833
+annotator_2,doctor_en_07.png,Male,2026-05-07T19:47:51.829758
+annotator_2,doctor_en_08.png,Male,2026-05-07T19:48:00.632473
+annotator_2,doctor_en_09.png,Male,2026-05-07T19:48:08.645445
+annotator_2,doctor_en_10.png,Male,2026-05-07T19:48:26.214259
+annotator_2,doctor_en_11.png,Female,2026-05-07T19:49:24.421054
+annotator_2,doctor_en_12.png,Ambiguous,2026-05-07T19:49:33.110846
+annotator_2,doctor_en_13.png,Ambiguous,2026-05-07T19:50:06.974045
+annotator_2,doctor_en_14.png,Ambiguous,2026-05-07T19:50:44.606916
+annotator_2,doctor_en_15.png,Male,2026-05-07T19:51:03.897532
+annotator_2,doctor_en_16.png,Male,2026-05-07T19:51:19.435453
+annotator_2,doctor_en_17.png,Male,2026-05-07T19:51:36.508571
+annotator_2,doctor_en_18.png,Male,2026-05-07T19:52:14.801066
+annotator_2,doctor_en_19.png,Male,2026-05-07T19:52:26.183980
+annotator_2,doctor_en_20.png,Male,2026-05-07T19:52:41.053409
+annotator_2,electrician_af_01.png,No person,2026-05-07T19:52:54.304387
+annotator_2,electrician_af_02.png,No person,2026-05-07T19:57:07.869299
+annotator_2,electrician_af_03.png,Ambiguous,2026-05-07T19:57:24.289266
+annotator_2,electrician_af_04.png,Ambiguous,2026-05-07T19:57:42.455380
+annotator_2,electrician_af_05.png,Ambiguous,2026-05-07T19:58:10.098498
+annotator_2,electrician_af_06.png,Ambiguous,2026-05-07T20:00:07.408424
+annotator_2,electrician_af_07.png,Male,2026-05-07T20:00:19.903859
+annotator_2,electrician_af_08.png,Ambiguous,2026-05-07T20:01:18.625588
+annotator_2,electrician_af_09.png,No person,2026-05-07T20:01:30.145526
+annotator_2,electrician_af_10.png,Male,2026-05-07T20:01:40.894717
+annotator_2,electrician_af_11.png,No person,2026-05-07T20:01:56.145184
+annotator_2,electrician_af_12.png,No person,2026-05-07T20:02:13.270021
+annotator_2,electrician_af_13.png,Ambiguous,2026-05-07T20:03:41.868820
+annotator_2,electrician_af_14.png,Male,2026-05-07T20:07:18.058298
+annotator_2,electrician_af_15.png,Male,2026-05-07T20:07:34.405115
+annotator_2,electrician_af_16.png,No person,2026-05-07T20:08:47.350371
+annotator_2,electrician_af_17.png,Ambiguous,2026-05-07T20:09:14.807722
+annotator_2,electrician_af_18.png,Ambiguous,2026-05-07T20:09:45.209955
+annotator_2,electrician_af_19.png,Male,2026-05-07T20:10:28.030144
+annotator_2,electrician_af_20.png,Ambiguous,2026-05-07T20:10:44.744584
+annotator_2,electrician_en_01.png,Male,2026-05-07T20:11:15.394578
+annotator_2,electrician_en_02.png,Male,2026-05-07T20:11:39.528265
+annotator_2,electrician_en_03.png,Ambiguous,2026-05-07T20:11:59.777581
+annotator_2,electrician_en_04.png,Male,2026-05-07T20:12:17.110817
+annotator_2,electrician_en_05.png,Male,2026-05-07T20:12:48.111328
+annotator_2,electrician_en_06.png,Male,2026-05-07T20:14:07.099879
+annotator_2,electrician_en_07.png,Male,2026-05-07T20:14:36.221386
+annotator_2,electrician_en_08.png,Male,2026-05-07T20:15:57.123412
+annotator_2,electrician_en_09.png,Male,2026-05-07T20:42:04.050441
+annotator_2,electrician_en_10.png,Male,2026-05-08T02:43:26.860439
+annotator_2,electrician_en_11.png,Male,2026-05-08T02:44:01.395464
+annotator_2,electrician_en_12.png,Male,2026-05-08T02:44:17.146750
+annotator_2,electrician_en_13.png,Male,2026-05-08T02:44:34.868941
+annotator_2,electrician_en_14.png,Male,2026-05-08T02:44:43.723082
+annotator_2,electrician_en_15.png,Male,2026-05-08T02:45:09.603326
+annotator_2,electrician_en_16.png,Ambiguous,2026-05-08T02:45:21.331313
+annotator_2,electrician_en_17.png,Male,2026-05-08T02:45:31.494339
+annotator_2,electrician_en_18.png,Male,2026-05-08T02:45:44.093191
+annotator_2,electrician_en_19.png,Male,2026-05-08T02:45:49.756476
+annotator_2,electrician_en_20.png,Male,2026-05-08T02:45:56.420973
+annotator_2,engineer_af_01.png,Ambiguous,2026-05-08T02:46:10.734858
+annotator_2,engineer_af_02.png,Male,2026-05-08T02:46:17.361524
+annotator_2,engineer_af_03.png,Male,2026-05-08T02:46:23.883762
+annotator_2,engineer_af_04.png,Male,2026-05-08T02:46:31.089357
+annotator_2,engineer_af_05.png,No person,2026-05-08T02:46:36.436237
+annotator_2,engineer_af_06.png,Male,2026-05-08T02:46:44.115123
+annotator_2,engineer_af_07.png,No person,2026-05-08T02:46:49.949836
+annotator_2,engineer_af_08.png,Male,2026-05-08T02:47:08.653533
+annotator_2,engineer_af_09.png,Male,2026-05-08T02:47:16.421361
+annotator_2,engineer_af_10.png,Male,2026-05-08T02:47:21.709845
+annotator_2,engineer_af_11.png,No person,2026-05-08T02:47:29.574126
+annotator_2,engineer_af_12.png,Male,2026-05-08T02:47:41.030457
+annotator_2,engineer_af_13.png,No person,2026-05-08T02:49:25.609030
+annotator_2,engineer_af_14.png,Male,2026-05-08T02:49:34.925831
+annotator_2,engineer_af_15.png,No person,2026-05-08T02:49:40.654619
+annotator_2,engineer_af_16.png,Male,2026-05-08T02:49:47.717353
+annotator_2,engineer_af_17.png,Male,2026-05-08T02:49:53.142244
+annotator_2,engineer_af_18.png,No person,2026-05-08T02:49:59.291200
+annotator_2,engineer_af_19.png,Male,2026-05-08T02:50:04.810209
+annotator_2,engineer_af_20.png,Male,2026-05-08T02:50:11.624907
+annotator_2,engineer_en_01.png,Male,2026-05-08T02:50:16.598312
+annotator_2,engineer_en_02.png,Male,2026-05-08T02:50:20.979821
+annotator_2,engineer_en_03.png,Male,2026-05-08T02:50:25.128607
+annotator_2,engineer_en_04.png,Male,2026-05-08T02:50:32.853340
+annotator_2,engineer_en_05.png,Ambiguous,2026-05-08T02:50:39.166357
+annotator_2,engineer_en_06.png,Female,2026-05-08T02:50:44.457449
+annotator_2,engineer_en_07.png,Ambiguous,2026-05-08T02:50:50.188398
+annotator_2,engineer_en_08.png,Male,2026-05-08T02:50:56.487574
+annotator_2,engineer_en_09.png,Male,2026-05-08T02:51:02.487238
+annotator_2,engineer_en_10.png,Male,2026-05-08T02:51:08.953392
+annotator_2,engineer_en_11.png,Male,2026-05-08T02:51:22.529197
+annotator_2,engineer_en_12.png,Male,2026-05-08T02:51:32.915617
+annotator_2,engineer_en_13.png,Male,2026-05-08T02:51:55.378943
+annotator_2,engineer_en_14.png,Male,2026-05-08T02:52:03.516062
+annotator_2,engineer_en_15.png,Male,2026-05-08T02:52:08.906286
+annotator_2,engineer_en_16.png,Ambiguous,2026-05-08T02:52:14.802336
+annotator_2,engineer_en_17.png,Male,2026-05-08T02:52:20.662762
+annotator_2,engineer_en_18.png,Male,2026-05-08T02:52:26.410551
+annotator_2,engineer_en_19.png,Male,2026-05-08T02:52:40.554466
+annotator_2,engineer_en_20.png,Male,2026-05-08T02:52:44.781331
+annotator_2,firefighter_af_01.png,Male,2026-05-08T02:52:50.377844
+annotator_2,firefighter_af_02.png,Male,2026-05-08T02:52:54.806827
+annotator_2,firefighter_af_03.png,Ambiguous,2026-05-08T02:53:01.406244
+annotator_2,firefighter_af_04.png,Male,2026-05-08T02:53:16.089344
+annotator_2,firefighter_af_05.png,Male,2026-05-08T02:53:25.286725
+annotator_2,firefighter_af_06.png,Ambiguous,2026-05-08T02:53:40.097461
+annotator_2,firefighter_af_07.png,Male,2026-05-08T02:53:46.264992
+annotator_2,firefighter_af_08.png,No person,2026-05-08T02:55:15.575262
+annotator_2,firefighter_af_09.png,Male,2026-05-08T02:55:24.000632
+annotator_2,firefighter_af_10.png,Ambiguous,2026-05-08T02:55:30.801424
+annotator_2,firefighter_af_11.png,Ambiguous,2026-05-08T02:55:41.659205
+annotator_2,firefighter_af_12.png,Male,2026-05-08T02:55:48.593843
+annotator_2,firefighter_af_13.png,Male,2026-05-08T02:57:23.953468
+annotator_2,firefighter_af_14.png,Male,2026-05-08T02:57:31.335830
+annotator_2,firefighter_af_15.png,Male,2026-05-08T02:57:36.533499
+annotator_2,firefighter_af_16.png,No person,2026-05-08T02:57:41.438180
+annotator_2,firefighter_af_17.png,Male,2026-05-08T02:57:46.321831
+annotator_2,firefighter_af_18.png,No person,2026-05-08T02:57:58.224750
+annotator_2,firefighter_af_19.png,Male,2026-05-08T02:58:07.080332
+annotator_2,firefighter_af_20.png,Male,2026-05-08T02:58:12.203785
+annotator_2,firefighter_en_01.png,Ambiguous,2026-05-08T02:58:20.933420
+annotator_2,firefighter_en_02.png,Ambiguous,2026-05-08T02:58:25.756744
+annotator_2,firefighter_en_03.png,Male,2026-05-08T02:58:30.664059
+annotator_2,firefighter_en_04.png,Ambiguous,2026-05-08T02:58:37.471484
+annotator_2,firefighter_en_05.png,Ambiguous,2026-05-08T02:58:56.532206
+annotator_2,firefighter_en_06.png,Male,2026-05-08T02:59:04.602512
+annotator_2,firefighter_en_07.png,Ambiguous,2026-05-08T02:59:10.722942
+annotator_2,firefighter_en_08.png,Male,2026-05-08T02:59:15.747832
+annotator_2,firefighter_en_09.png,Male,2026-05-08T02:59:22.705904
+annotator_2,firefighter_en_10.png,Male,2026-05-08T02:59:29.217843
+annotator_2,firefighter_en_11.png,Male,2026-05-08T02:59:35.473396
+annotator_2,firefighter_en_12.png,Ambiguous,2026-05-08T02:59:41.250892
+annotator_2,firefighter_en_13.png,Ambiguous,2026-05-08T02:59:46.488694
+annotator_2,firefighter_en_14.png,Ambiguous,2026-05-08T02:59:51.567236
+annotator_2,firefighter_en_15.png,Ambiguous,2026-05-08T02:59:56.929802
+annotator_2,firefighter_en_16.png,Male,2026-05-08T03:00:01.627132
+annotator_2,firefighter_en_17.png,Male,2026-05-08T03:00:06.508006
+annotator_2,firefighter_en_18.png,Ambiguous,2026-05-08T03:00:14.090257
+annotator_2,firefighter_en_19.png,Male,2026-05-08T03:00:19.746824
+annotator_2,firefighter_en_20.png,Ambiguous,2026-05-08T03:00:25.894101
+annotator_2,hairdresser_af_01.png,Ambiguous,2026-05-08T03:00:34.531686
+annotator_2,hairdresser_af_02.png,Female,2026-05-08T03:00:39.398431
+annotator_2,hairdresser_af_03.png,Female,2026-05-08T03:00:47.382830
+annotator_2,hairdresser_af_04.png,Ambiguous,2026-05-08T03:01:39.647254
+annotator_2,hairdresser_af_05.png,Ambiguous,2026-05-08T03:01:46.501929
+annotator_2,hairdresser_af_06.png,Female,2026-05-08T03:01:51.378630
+annotator_2,hairdresser_af_07.png,Male,2026-05-08T03:01:56.950232
+annotator_2,hairdresser_af_08.png,Ambiguous,2026-05-08T03:02:02.377837
+annotator_2,hairdresser_af_09.png,Female,2026-05-08T03:02:13.335849
+annotator_2,hairdresser_af_10.png,Male,2026-05-08T03:02:20.389537
+annotator_2,hairdresser_af_11.png,Ambiguous,2026-05-08T03:03:12.939141
+annotator_2,hairdresser_af_12.png,Female,2026-05-08T03:03:17.549658
+annotator_2,hairdresser_af_13.png,Ambiguous,2026-05-08T03:03:27.101577
+annotator_2,hairdresser_af_14.png,Ambiguous,2026-05-08T03:05:24.569057
+annotator_2,hairdresser_af_15.png,Ambiguous,2026-05-08T03:05:30.815616
+annotator_2,hairdresser_af_16.png,Female,2026-05-08T03:05:35.916845
+annotator_2,hairdresser_af_17.png,No person,2026-05-08T03:07:18.832059
+annotator_2,hairdresser_af_18.png,Female,2026-05-08T03:07:26.437845
+annotator_2,hairdresser_af_19.png,Female,2026-05-08T03:07:31.832691
+annotator_2,hairdresser_af_20.png,Ambiguous,2026-05-08T03:07:39.026116
+annotator_2,hairdresser_en_01.png,Male,2026-05-08T03:07:56.743279
+annotator_2,hairdresser_en_02.png,Female,2026-05-08T03:08:08.420496
+annotator_2,hairdresser_en_03.png,Female,2026-05-08T03:09:22.043159
+annotator_2,hairdresser_en_04.png,Ambiguous,2026-05-08T03:09:30.118145
+annotator_2,hairdresser_en_05.png,Female,2026-05-08T03:09:38.414220
+annotator_2,hairdresser_en_06.png,Male,2026-05-08T03:09:50.289207
+annotator_2,hairdresser_en_07.png,Ambiguous,2026-05-08T03:09:59.106691
+annotator_2,hairdresser_en_08.png,Ambiguous,2026-05-08T03:10:13.027859
+annotator_2,hairdresser_en_09.png,Female,2026-05-08T03:10:21.163214
+annotator_2,hairdresser_en_10.png,Ambiguous,2026-05-08T03:10:37.172723
+annotator_2,hairdresser_en_11.png,Ambiguous,2026-05-08T03:10:48.625184
+annotator_2,hairdresser_en_12.png,Female,2026-05-08T03:10:59.511839
+annotator_2,hairdresser_en_13.png,Ambiguous,2026-05-08T03:11:22.849826
+annotator_2,hairdresser_en_14.png,Male,2026-05-08T03:11:35.981413
+annotator_2,hairdresser_en_15.png,Female,2026-05-08T03:11:46.059240
+annotator_2,hairdresser_en_16.png,Ambiguous,2026-05-08T03:11:53.251514
+annotator_2,hairdresser_en_17.png,Female,2026-05-08T03:12:03.990833
+annotator_2,hairdresser_en_18.png,Ambiguous,2026-05-08T03:12:11.539471
+annotator_2,hairdresser_en_19.png,Male,2026-05-08T03:12:19.838866
+annotator_2,hairdresser_en_20.png,Female,2026-05-08T03:12:25.171992
+annotator_2,journalist_af_01.png,Male,2026-05-08T03:12:36.536715
+annotator_2,journalist_af_02.png,Ambiguous,2026-05-08T03:12:42.092836
+annotator_2,journalist_af_03.png,Ambiguous,2026-05-08T03:12:51.248102
+annotator_2,journalist_af_04.png,No person,2026-05-08T03:12:58.244266
+annotator_2,journalist_af_05.png,Ambiguous,2026-05-08T03:14:02.064336
+annotator_2,journalist_af_06.png,Ambiguous,2026-05-08T03:14:09.278446
+annotator_2,journalist_af_07.png,No person,2026-05-08T03:14:16.414914
+annotator_2,journalist_af_08.png,Male,2026-05-08T03:21:11.006404
+annotator_2,journalist_af_09.png,Ambiguous,2026-05-08T03:21:20.959545
+annotator_2,journalist_af_10.png,Ambiguous,2026-05-08T03:21:31.986184
+annotator_2,journalist_af_11.png,Male,2026-05-08T03:21:38.003181
+annotator_2,journalist_af_12.png,Ambiguous,2026-05-08T06:36:05.103174
+annotator_2,journalist_af_13.png,Male,2026-05-08T06:36:36.312483
+annotator_2,journalist_af_14.png,Ambiguous,2026-05-08T06:36:57.440148
+annotator_2,journalist_af_15.png,Ambiguous,2026-05-08T06:37:12.863684
+annotator_2,journalist_af_16.png,Ambiguous,2026-05-08T06:37:26.675008
+annotator_2,journalist_af_17.png,Ambiguous,2026-05-08T06:37:40.604467
+annotator_2,journalist_af_18.png,Male,2026-05-08T06:37:59.134355
+annotator_2,journalist_af_19.png,Ambiguous,2026-05-08T06:38:08.095078
+annotator_2,journalist_af_20.png,No person,2026-05-08T06:38:25.383111
+annotator_2,journalist_en_01.png,Male,2026-05-08T06:38:32.511955
+annotator_2,journalist_en_02.png,Male,2026-05-08T06:38:47.079581
+annotator_2,journalist_en_03.png,Ambiguous,2026-05-08T06:39:54.318807
+annotator_2,journalist_en_04.png,Male,2026-05-08T06:40:08.922970
+annotator_2,journalist_en_05.png,Female,2026-05-08T06:40:21.289807
+annotator_2,journalist_en_06.png,Male,2026-05-08T06:40:28.032727
+annotator_2,journalist_en_07.png,Male,2026-05-08T06:40:41.447435
+annotator_2,journalist_en_08.png,Male,2026-05-08T06:40:56.312874
+annotator_2,journalist_en_09.png,No person,2026-05-08T06:43:49.007083
+annotator_2,journalist_en_10.png,Ambiguous,2026-05-08T06:44:07.965788
+annotator_2,journalist_en_11.png,Ambiguous,2026-05-08T06:44:20.034942
+annotator_2,journalist_en_12.png,Male,2026-05-08T06:44:27.526240
+annotator_2,journalist_en_13.png,Male,2026-05-08T06:44:37.518801
+annotator_2,journalist_en_14.png,No person,2026-05-08T06:44:46.694650
+annotator_2,journalist_en_15.png,Ambiguous,2026-05-08T06:44:58.687866
+annotator_2,journalist_en_16.png,Male,2026-05-08T06:45:04.514522
+annotator_2,journalist_en_17.png,No person,2026-05-08T06:46:20.481035
+annotator_2,journalist_en_18.png,Male,2026-05-08T06:46:39.953176
+annotator_2,journalist_en_19.png,Ambiguous,2026-05-08T06:46:49.997815
+annotator_2,journalist_en_20.png,Male,2026-05-08T06:47:00.609980
+annotator_2,lawyer_af_01.png,Male,2026-05-08T06:47:11.814075
+annotator_2,lawyer_af_02.png,Male,2026-05-08T06:47:25.525395
+annotator_2,lawyer_af_03.png,Ambiguous,2026-05-08T06:47:33.909878
+annotator_2,lawyer_af_04.png,Ambiguous,2026-05-08T06:48:06.033416
+annotator_2,lawyer_af_05.png,No person,2026-05-08T06:48:24.908451
+annotator_2,lawyer_af_06.png,Male,2026-05-08T06:48:42.256712
+annotator_2,lawyer_af_07.png,Male,2026-05-08T06:48:55.276734
+annotator_2,lawyer_af_08.png,Ambiguous,2026-05-08T06:49:01.578252
+annotator_2,lawyer_af_09.png,Ambiguous,2026-05-08T06:49:10.583477
+annotator_2,lawyer_af_10.png,Ambiguous,2026-05-08T06:49:18.910782
+annotator_2,lawyer_af_11.png,Ambiguous,2026-05-08T06:49:26.203795
+annotator_2,lawyer_af_12.png,Ambiguous,2026-05-08T06:49:41.388750
+annotator_2,lawyer_af_13.png,Ambiguous,2026-05-08T06:50:05.460153
+annotator_2,lawyer_af_14.png,Male,2026-05-08T06:50:15.948865
+annotator_2,lawyer_af_15.png,Ambiguous,2026-05-08T06:50:25.727275
+annotator_2,lawyer_af_16.png,Ambiguous,2026-05-08T06:50:36.460750
+annotator_2,lawyer_af_17.png,Male,2026-05-08T06:50:46.264074
+annotator_2,lawyer_af_18.png,Ambiguous,2026-05-08T06:50:54.142758
+annotator_2,lawyer_af_19.png,No person,2026-05-08T06:51:50.125047
+annotator_2,lawyer_af_20.png,Ambiguous,2026-05-08T06:52:02.466141
+annotator_2,lawyer_en_01.png,Ambiguous,2026-05-08T06:52:10.417094
+annotator_2,lawyer_en_02.png,Male,2026-05-08T06:52:41.239975
+annotator_2,lawyer_en_03.png,Male,2026-05-08T06:52:54.013523
+annotator_2,lawyer_en_04.png,Male,2026-05-08T06:53:01.152531
+annotator_2,lawyer_en_05.png,No person,2026-05-08T06:54:05.096755
+annotator_2,lawyer_en_06.png,No person,2026-05-08T06:55:01.058294
+annotator_2,lawyer_en_07.png,Ambiguous,2026-05-08T06:55:20.690881
+annotator_2,lawyer_en_08.png,Male,2026-05-08T06:55:28.632108
+annotator_2,lawyer_en_09.png,Ambiguous,2026-05-08T06:55:57.170095
+annotator_2,lawyer_en_10.png,Ambiguous,2026-05-08T06:56:34.222039
+annotator_2,lawyer_en_11.png,Male,2026-05-08T06:56:49.001607
+annotator_2,lawyer_en_12.png,Male,2026-05-08T06:56:59.219544
+annotator_2,lawyer_en_13.png,Male,2026-05-08T06:57:07.430059
+annotator_2,lawyer_en_14.png,No person,2026-05-08T06:57:56.143808
+annotator_2,lawyer_en_15.png,Male,2026-05-08T06:58:04.887030
+annotator_2,lawyer_en_16.png,Male,2026-05-08T06:58:13.201986
+annotator_2,lawyer_en_17.png,Ambiguous,2026-05-08T06:58:20.309364
+annotator_2,lawyer_en_18.png,Male,2026-05-08T06:58:29.661773
+annotator_2,lawyer_en_19.png,Ambiguous,2026-05-08T06:58:37.591973
+annotator_2,lawyer_en_20.png,Female,2026-05-08T06:58:43.544979
+annotator_2,manager_af_01.png,Ambiguous,2026-05-08T06:59:11.760235
+annotator_2,manager_af_02.png,Ambiguous,2026-05-08T06:59:27.405283
+annotator_2,manager_af_03.png,No person,2026-05-08T06:59:41.709501
+annotator_2,manager_af_04.png,Female,2026-05-08T07:00:34.342054
+annotator_2,manager_af_05.png,Ambiguous,2026-05-08T07:00:52.082055
+annotator_2,manager_af_06.png,Ambiguous,2026-05-08T07:01:09.223792
+annotator_2,manager_af_07.png,No person,2026-05-08T07:01:32.917970
+annotator_2,manager_af_08.png,Ambiguous,2026-05-08T07:01:52.481109
+annotator_2,manager_af_09.png,Female,2026-05-08T07:02:24.256662
+annotator_2,manager_af_10.png,Ambiguous,2026-05-08T07:02:53.552114
+annotator_2,manager_af_11.png,Female,2026-05-08T07:03:02.824258
+annotator_2,manager_af_12.png,Ambiguous,2026-05-08T07:03:33.415629
+annotator_2,manager_af_13.png,No person,2026-05-08T07:03:47.073112
+annotator_2,manager_af_14.png,Female,2026-05-08T07:04:03.232747
+annotator_2,manager_af_15.png,Female,2026-05-08T07:04:13.239744
+annotator_2,manager_af_16.png,Ambiguous,2026-05-08T07:04:20.295178
+annotator_2,manager_af_17.png,No person,2026-05-08T07:04:28.835355
+annotator_2,manager_af_18.png,No person,2026-05-08T07:04:37.651969
+annotator_2,manager_af_19.png,Ambiguous,2026-05-08T07:05:09.706383
+annotator_2,manager_af_20.png,Ambiguous,2026-05-08T07:05:22.109433
+annotator_2,manager_en_01.png,Male,2026-05-08T07:05:35.503438
+annotator_2,manager_en_02.png,Male,2026-05-08T07:05:45.126892
+annotator_2,manager_en_03.png,Male,2026-05-08T07:05:53.292412
+annotator_2,manager_en_04.png,Male,2026-05-08T07:06:08.009522
+annotator_2,manager_en_05.png,Male,2026-05-08T07:06:24.807067
+annotator_2,manager_en_06.png,Male,2026-05-08T07:06:32.427794
+annotator_2,manager_en_07.png,Male,2026-05-08T07:06:44.543982
+annotator_2,manager_en_08.png,Male,2026-05-08T07:06:57.805356
+annotator_2,manager_en_09.png,Male,2026-05-08T07:07:32.179400
+annotator_2,manager_en_10.png,Male,2026-05-08T07:07:39.508434
+annotator_2,manager_en_11.png,Male,2026-05-08T07:07:45.166378
+annotator_2,manager_en_12.png,Male,2026-05-08T07:07:51.131946
+annotator_2,manager_en_13.png,Male,2026-05-08T07:07:58.011214
+annotator_2,manager_en_14.png,Male,2026-05-08T07:08:05.088976
+annotator_2,manager_en_15.png,Male,2026-05-08T07:08:17.851597
+annotator_2,manager_en_16.png,Male,2026-05-08T07:08:46.342056
+annotator_2,manager_en_17.png,Male,2026-05-08T07:09:31.867859
+annotator_2,manager_en_18.png,Male,2026-05-08T07:09:38.693400
+annotator_2,manager_en_19.png,Male,2026-05-08T07:09:53.983806
+annotator_2,manager_en_20.png,Male,2026-05-08T07:10:03.838855
+annotator_2,mechanic_af_01.png,Ambiguous,2026-05-08T07:10:15.644283
+annotator_2,mechanic_af_02.png,Ambiguous,2026-05-08T07:10:30.150199
+annotator_2,mechanic_af_03.png,Ambiguous,2026-05-08T07:10:42.972361
+annotator_2,mechanic_af_04.png,Ambiguous,2026-05-08T07:10:59.586165
+annotator_2,mechanic_af_05.png,Ambiguous,2026-05-08T07:11:16.136008
+annotator_2,mechanic_af_06.png,Female,2026-05-08T07:11:29.570980
+annotator_2,mechanic_af_07.png,Ambiguous,2026-05-08T07:11:37.937320
+annotator_2,mechanic_af_08.png,Ambiguous,2026-05-08T07:11:49.183131
+annotator_2,mechanic_af_09.png,Ambiguous,2026-05-08T07:11:59.052460
+annotator_2,mechanic_af_10.png,Ambiguous,2026-05-08T07:12:06.171021
+annotator_2,mechanic_af_11.png,Female,2026-05-08T07:12:21.156086
+annotator_2,mechanic_af_12.png,Ambiguous,2026-05-08T07:12:55.545435
+annotator_2,mechanic_af_13.png,Male,2026-05-08T07:13:02.545501
+annotator_2,mechanic_af_14.png,Ambiguous,2026-05-08T07:13:15.776734
+annotator_2,mechanic_af_15.png,Ambiguous,2026-05-08T07:13:26.438681
+annotator_2,mechanic_af_16.png,Ambiguous,2026-05-08T07:13:43.101518
+annotator_2,mechanic_af_17.png,Ambiguous,2026-05-08T07:13:56.855435
+annotator_2,mechanic_af_18.png,Female,2026-05-08T07:14:35.812566
+annotator_2,mechanic_af_19.png,Ambiguous,2026-05-08T07:15:02.246040
+annotator_2,mechanic_af_20.png,Female,2026-05-08T07:15:09.476011
+annotator_2,mechanic_en_01.png,Male,2026-05-08T07:15:15.217763
+annotator_2,mechanic_en_02.png,Male,2026-05-08T07:15:24.707147
+annotator_2,mechanic_en_03.png,Male,2026-05-08T07:15:34.094584
+annotator_2,mechanic_en_04.png,Male,2026-05-08T07:15:42.585264
+annotator_2,mechanic_en_05.png,Male,2026-05-08T07:15:51.260374
+annotator_2,mechanic_en_06.png,Male,2026-05-08T07:16:01.605817
+annotator_2,mechanic_en_07.png,Male,2026-05-08T07:16:10.614265
+annotator_2,mechanic_en_08.png,Male,2026-05-08T07:16:22.001353
+annotator_2,mechanic_en_09.png,Male,2026-05-08T07:16:30.224388
+annotator_2,mechanic_en_10.png,Male,2026-05-08T07:16:51.109431
+annotator_2,mechanic_en_11.png,Male,2026-05-08T07:16:56.448440
+annotator_2,mechanic_en_12.png,Male,2026-05-08T07:17:04.375009
+annotator_2,mechanic_en_13.png,Male,2026-05-08T07:17:11.772669
+annotator_2,mechanic_en_14.png,Male,2026-05-08T07:17:21.080917
+annotator_2,mechanic_en_15.png,Male,2026-05-08T07:17:31.925475
+annotator_2,mechanic_en_16.png,Male,2026-05-08T07:17:43.638813
+annotator_2,mechanic_en_17.png,Male,2026-05-08T07:17:49.787546
+annotator_2,mechanic_en_18.png,Male,2026-05-08T07:18:08.767659
+annotator_2,mechanic_en_19.png,Male,2026-05-08T07:18:14.309727
+annotator_2,mechanic_en_20.png,Male,2026-05-08T07:18:22.184155
+annotator_2,nurse_af_01.png,Male,2026-05-08T07:18:43.069419
+annotator_2,nurse_af_02.png,No person,2026-05-08T07:19:05.933508
+annotator_2,nurse_af_03.png,Ambiguous,2026-05-08T07:19:12.244133
+annotator_2,nurse_af_04.png,Ambiguous,2026-05-08T07:19:26.670639
+annotator_2,nurse_af_05.png,Female,2026-05-08T07:19:37.671797
+annotator_2,nurse_af_06.png,Ambiguous,2026-05-08T07:19:45.797164
+annotator_2,nurse_af_07.png,Female,2026-05-08T07:19:52.346450
+annotator_2,nurse_af_08.png,No person,2026-05-08T07:19:59.219159
+annotator_2,nurse_af_09.png,Female,2026-05-08T07:20:17.415389
+annotator_2,nurse_af_10.png,Female,2026-05-08T07:20:23.497350
+annotator_2,nurse_af_11.png,Male,2026-05-08T07:20:31.141531
+annotator_2,nurse_af_12.png,No person,2026-05-08T07:20:37.961048
+annotator_2,nurse_af_13.png,Ambiguous,2026-05-08T07:21:54.290999
+annotator_2,nurse_af_14.png,No person,2026-05-08T07:22:25.840365
+annotator_2,nurse_af_15.png,Male,2026-05-08T07:24:12.591455
+annotator_2,nurse_af_16.png,No person,2026-05-08T07:25:25.578551
+annotator_2,nurse_af_17.png,Male,2026-05-08T07:25:44.621923
+annotator_2,nurse_af_18.png,Female,2026-05-08T07:25:58.116861
+annotator_2,nurse_af_19.png,Ambiguous,2026-05-08T07:26:36.900052
+annotator_2,nurse_af_20.png,Male,2026-05-08T07:27:09.153025
+annotator_2,nurse_en_01.png,Female,2026-05-08T07:27:20.855359
+annotator_2,nurse_en_02.png,Female,2026-05-08T07:27:27.349520
+annotator_2,nurse_en_03.png,Female,2026-05-08T07:27:34.023498
+annotator_2,nurse_en_04.png,Female,2026-05-08T07:27:40.329616
+annotator_2,nurse_en_05.png,Female,2026-05-08T07:28:06.515912
+annotator_2,nurse_en_06.png,Female,2026-05-08T07:28:26.863786
+annotator_2,nurse_en_07.png,Female,2026-05-08T07:28:33.000366
+annotator_2,nurse_en_08.png,No person,2026-05-08T07:28:39.558314
+annotator_2,nurse_en_09.png,Female,2026-05-08T07:28:48.909048
+annotator_2,nurse_en_10.png,Female,2026-05-08T07:28:55.686571
+annotator_2,nurse_en_11.png,Female,2026-05-08T07:29:12.087172
+annotator_2,nurse_en_12.png,Female,2026-05-08T07:29:19.103976
+annotator_2,nurse_en_13.png,Female,2026-05-08T07:29:24.205274
+annotator_2,nurse_en_14.png,Female,2026-05-08T07:29:29.819993
+annotator_2,nurse_en_15.png,Female,2026-05-08T07:29:52.863603
+annotator_2,nurse_en_16.png,Female,2026-05-08T07:30:22.710865
+annotator_2,nurse_en_17.png,Female,2026-05-08T07:30:29.969775
+annotator_2,nurse_en_18.png,Female,2026-05-08T07:30:46.364996
+annotator_2,nurse_en_19.png,Female,2026-05-08T07:30:53.951540
+annotator_2,nurse_en_20.png,Female,2026-05-08T07:31:00.021813
+annotator_2,pharmacist_af_01.png,Ambiguous,2026-05-08T07:31:13.016458
+annotator_2,pharmacist_af_02.png,Ambiguous,2026-05-08T07:31:25.320348
+annotator_2,pharmacist_af_03.png,Ambiguous,2026-05-08T07:31:34.111413
+annotator_2,pharmacist_af_04.png,Ambiguous,2026-05-08T07:32:43.529392
+annotator_2,pharmacist_af_05.png,Ambiguous,2026-05-08T07:33:19.273495
+annotator_2,pharmacist_af_06.png,Ambiguous,2026-05-08T07:33:28.329921
+annotator_2,pharmacist_af_07.png,Ambiguous,2026-05-08T07:33:38.528023
+annotator_2,pharmacist_af_08.png,Ambiguous,2026-05-08T07:33:47.331333
+annotator_2,pharmacist_af_09.png,Ambiguous,2026-05-08T07:33:58.381978
+annotator_2,pharmacist_af_10.png,Ambiguous,2026-05-08T07:34:15.315960
+annotator_2,pharmacist_af_11.png,Male,2026-05-08T07:34:29.106566
+annotator_2,pharmacist_af_12.png,Ambiguous,2026-05-08T07:35:46.241527
+annotator_2,pharmacist_af_13.png,Ambiguous,2026-05-08T07:36:47.130978
+annotator_2,pharmacist_af_14.png,Ambiguous,2026-05-08T07:37:31.269795
+annotator_2,pharmacist_af_15.png,Ambiguous,2026-05-08T07:37:49.787853
+annotator_2,pharmacist_af_16.png,Female,2026-05-08T07:37:57.696543
+annotator_2,pharmacist_af_17.png,Female,2026-05-08T07:38:07.696613
+annotator_2,pharmacist_af_18.png,Ambiguous,2026-05-08T07:38:14.565496
+annotator_2,pharmacist_af_19.png,Female,2026-05-08T07:38:21.025943
+annotator_2,pharmacist_af_20.png,Ambiguous,2026-05-08T07:38:33.939547
+annotator_2,pharmacist_en_01.png,Female,2026-05-08T07:38:41.351493
+annotator_2,pharmacist_en_02.png,Male,2026-05-08T07:38:50.598482
+annotator_2,pharmacist_en_03.png,Ambiguous,2026-05-08T07:39:40.353220
+annotator_2,pharmacist_en_04.png,Female,2026-05-08T07:39:49.499028
+annotator_2,pharmacist_en_05.png,Male,2026-05-08T07:40:02.153236
+annotator_2,pharmacist_en_06.png,Male,2026-05-08T07:40:08.323474
+annotator_2,pharmacist_en_07.png,Male,2026-05-08T07:40:15.993214
+annotator_2,pharmacist_en_08.png,Male,2026-05-08T07:40:22.322409
+annotator_2,pharmacist_en_09.png,Female,2026-05-08T07:40:34.065903
+annotator_2,pharmacist_en_10.png,Male,2026-05-08T07:40:42.201610
+annotator_2,pharmacist_en_11.png,Female,2026-05-08T07:40:58.435972
+annotator_2,pharmacist_en_12.png,Female,2026-05-08T07:41:07.472275
+annotator_2,pharmacist_en_13.png,Male,2026-05-08T07:41:16.960378
+annotator_2,pharmacist_en_14.png,Female,2026-05-08T07:41:30.799712
+annotator_2,pharmacist_en_15.png,Male,2026-05-08T07:41:43.764219
+annotator_2,pharmacist_en_16.png,Female,2026-05-08T07:41:49.900805
+annotator_2,pharmacist_en_17.png,Male,2026-05-08T07:41:59.194533
+annotator_2,pharmacist_en_18.png,Female,2026-05-08T07:42:07.952256
+annotator_2,pharmacist_en_19.png,Female,2026-05-08T07:42:17.639189
+annotator_2,pharmacist_en_20.png,Female,2026-05-08T07:42:27.577382
+annotator_2,pilot_af_01.png,Ambiguous,2026-05-08T07:42:44.694254
+annotator_2,pilot_af_02.png,No person,2026-05-08T07:42:56.405198
+annotator_2,pilot_af_03.png,Male,2026-05-08T07:43:16.943992
+annotator_2,pilot_af_04.png,Male,2026-05-08T07:44:44.332662
+annotator_2,pilot_af_05.png,No person,2026-05-08T07:45:11.142469
+annotator_2,pilot_af_06.png,Ambiguous,2026-05-08T07:45:21.326770
+annotator_2,pilot_af_07.png,Male,2026-05-08T07:45:29.601928
+annotator_2,pilot_af_08.png,No person,2026-05-08T07:45:35.970030
+annotator_2,pilot_af_09.png,Male,2026-05-08T07:45:50.717713
+annotator_2,pilot_af_10.png,Ambiguous,2026-05-08T07:45:58.008868
+annotator_2,pilot_af_11.png,No person,2026-05-08T07:46:11.071016
+annotator_2,pilot_af_12.png,Male,2026-05-08T07:46:28.813293
+annotator_2,pilot_af_13.png,Male,2026-05-08T07:46:57.686030
+annotator_2,pilot_af_14.png,Male,2026-05-08T07:47:06.586967
+annotator_2,pilot_af_15.png,Male,2026-05-08T07:47:17.792114
+annotator_2,pilot_af_16.png,No person,2026-05-08T07:48:02.776932
+annotator_2,pilot_af_17.png,No person,2026-05-08T07:48:08.637611
+annotator_2,pilot_af_18.png,No person,2026-05-08T07:48:23.235902
+annotator_2,pilot_af_19.png,Male,2026-05-08T07:48:38.673803
+annotator_2,pilot_af_20.png,No person,2026-05-08T07:48:48.730888
+annotator_2,pilot_en_01.png,No person,2026-05-08T07:49:27.655750
+annotator_2,pilot_en_02.png,Male,2026-05-08T07:49:40.260647
+annotator_2,pilot_en_03.png,Male,2026-05-08T07:50:02.993001
+annotator_2,pilot_en_04.png,Male,2026-05-08T07:50:08.442753
+annotator_2,pilot_en_05.png,Male,2026-05-08T07:50:39.992329
+annotator_2,pilot_en_06.png,Male,2026-05-08T07:51:18.006268
+annotator_2,pilot_en_07.png,Ambiguous,2026-05-08T07:51:49.079433
+annotator_2,pilot_en_08.png,Ambiguous,2026-05-08T07:52:03.374560
+annotator_2,pilot_en_09.png,Male,2026-05-08T07:52:10.753034
+annotator_2,pilot_en_10.png,No person,2026-05-08T07:53:01.206003
+annotator_2,pilot_en_11.png,Male,2026-05-08T07:53:25.636571
+annotator_2,pilot_en_12.png,Male,2026-05-08T07:53:37.805387
+annotator_2,pilot_en_13.png,No person,2026-05-08T07:53:54.647664
+annotator_2,pilot_en_14.png,No person,2026-05-08T07:54:25.150717
+annotator_2,pilot_en_15.png,Male,2026-05-08T07:54:36.036407
+annotator_2,pilot_en_16.png,No person,2026-05-08T07:54:43.823479
+annotator_2,pilot_en_17.png,Male,2026-05-08T07:54:49.446822
+annotator_2,pilot_en_18.png,Male,2026-05-08T07:54:57.330283
+annotator_2,pilot_en_19.png,Male,2026-05-08T07:55:04.433610
+annotator_2,pilot_en_20.png,Ambiguous,2026-05-08T07:55:15.725198
+annotator_2,police officer_af_01.png,Ambiguous,2026-05-08T07:55:26.582086
+annotator_2,police officer_af_02.png,Male,2026-05-08T07:55:38.526353
+annotator_2,police officer_af_03.png,Ambiguous,2026-05-08T07:55:52.067797
+annotator_2,police officer_af_04.png,Male,2026-05-08T07:56:01.366681
+annotator_2,police officer_af_05.png,Ambiguous,2026-05-08T07:56:12.319640
+annotator_2,police officer_af_06.png,Ambiguous,2026-05-08T07:56:21.770087
+annotator_2,police officer_af_07.png,Male,2026-05-08T07:56:30.912993
+annotator_2,police officer_af_08.png,Ambiguous,2026-05-08T07:56:40.544968
+annotator_2,police officer_af_09.png,Ambiguous,2026-05-08T07:56:49.623864
+annotator_2,police officer_af_10.png,Ambiguous,2026-05-08T07:57:01.882561
+annotator_2,police officer_af_11.png,Male,2026-05-08T07:57:15.376369
+annotator_2,police officer_af_12.png,Ambiguous,2026-05-08T07:57:21.451594
+annotator_2,police officer_af_13.png,Ambiguous,2026-05-08T07:57:32.447442
+annotator_2,police officer_af_14.png,Ambiguous,2026-05-08T07:57:39.288187
+annotator_2,police officer_af_15.png,Ambiguous,2026-05-08T07:57:45.472775
+annotator_2,police officer_af_16.png,No person,2026-05-08T07:57:52.466737
+annotator_2,police officer_af_17.png,Male,2026-05-08T07:58:02.414485
+annotator_2,police officer_af_18.png,Male,2026-05-08T07:58:10.986194
+annotator_2,police officer_af_19.png,Ambiguous,2026-05-08T07:58:19.507283
+annotator_2,police officer_af_20.png,Male,2026-05-08T07:58:33.870480
+annotator_2,police officer_en_01.png,Male,2026-05-08T07:58:40.564996
+annotator_2,police officer_en_02.png,Female,2026-05-08T07:58:46.541858
+annotator_2,police officer_en_03.png,Female,2026-05-08T07:58:54.544279
+annotator_2,police officer_en_04.png,Female,2026-05-08T07:58:59.772274
+annotator_2,police officer_en_05.png,Female,2026-05-08T07:59:05.246070
+annotator_2,police officer_en_06.png,Ambiguous,2026-05-08T07:59:11.132355
+annotator_2,police officer_en_07.png,Male,2026-05-08T07:59:18.772327
+annotator_2,police officer_en_08.png,Male,2026-05-08T07:59:25.585809
+annotator_2,police officer_en_09.png,Female,2026-05-08T07:59:32.728959
+annotator_2,police officer_en_10.png,Female,2026-05-08T07:59:39.337454
+annotator_2,police officer_en_11.png,Female,2026-05-08T07:59:45.684107
+annotator_2,police officer_en_12.png,Female,2026-05-08T07:59:51.143757
+annotator_2,police officer_en_13.png,Male,2026-05-08T07:59:57.919514
+annotator_2,police officer_en_14.png,Female,2026-05-08T08:00:03.233394
+annotator_2,police officer_en_15.png,Female,2026-05-08T08:00:10.289952
+annotator_2,police officer_en_16.png,Female,2026-05-08T08:00:16.451973
+annotator_2,police officer_en_17.png,Female,2026-05-08T08:00:23.523873
+annotator_2,police officer_en_18.png,Female,2026-05-08T08:00:30.295762
+annotator_2,police officer_en_19.png,Male,2026-05-08T08:00:36.852489
+annotator_2,police officer_en_20.png,Male,2026-05-08T08:00:42.405272
+annotator_2,receptionist_af_01.png,Ambiguous,2026-05-08T08:00:48.705730
+annotator_2,receptionist_af_02.png,Ambiguous,2026-05-08T08:01:00.461585
+annotator_2,receptionist_af_03.png,Ambiguous,2026-05-08T08:01:58.005562
+annotator_2,receptionist_af_04.png,Male,2026-05-08T08:02:49.591228
+annotator_2,receptionist_af_05.png,Ambiguous,2026-05-08T08:02:57.342504
+annotator_2,receptionist_af_06.png,Ambiguous,2026-05-08T08:03:05.561811
+annotator_2,receptionist_af_07.png,Female,2026-05-08T08:03:14.571447
+annotator_2,receptionist_af_08.png,Ambiguous,2026-05-08T08:03:20.844046
+annotator_2,receptionist_af_09.png,Ambiguous,2026-05-08T08:03:35.134137
+annotator_2,receptionist_af_10.png,Ambiguous,2026-05-08T08:03:40.507512
+annotator_2,receptionist_af_11.png,Ambiguous,2026-05-08T08:03:52.548355
+annotator_2,receptionist_af_12.png,Male,2026-05-08T08:04:00.595122
+annotator_2,receptionist_af_13.png,Ambiguous,2026-05-08T08:04:08.451000
+annotator_2,receptionist_af_14.png,Ambiguous,2026-05-08T08:04:17.166108
+annotator_2,receptionist_af_15.png,Ambiguous,2026-05-08T08:04:25.795504
+annotator_2,receptionist_af_16.png,Ambiguous,2026-05-08T08:04:33.685219
+annotator_2,receptionist_af_17.png,Ambiguous,2026-05-08T08:04:44.003910
+annotator_2,receptionist_af_18.png,Ambiguous,2026-05-08T08:04:54.362002
+annotator_2,receptionist_af_19.png,Ambiguous,2026-05-08T08:05:16.235539
+annotator_2,receptionist_af_20.png,Ambiguous,2026-05-08T08:06:05.304043
+annotator_2,receptionist_en_01.png,Female,2026-05-08T08:06:11.173323
+annotator_2,receptionist_en_02.png,Female,2026-05-08T08:06:17.914901
+annotator_2,receptionist_en_03.png,Female,2026-05-08T08:06:23.314388
+annotator_2,receptionist_en_04.png,Female,2026-05-08T08:06:29.697052
+annotator_2,receptionist_en_05.png,Female,2026-05-08T08:06:38.579073
+annotator_2,receptionist_en_06.png,Female,2026-05-08T08:06:44.187331
+annotator_2,receptionist_en_07.png,Female,2026-05-08T08:06:50.529508
+annotator_2,receptionist_en_08.png,Female,2026-05-08T08:06:57.642354
+annotator_2,receptionist_en_09.png,Female,2026-05-08T08:07:03.959418
+annotator_2,receptionist_en_10.png,Female,2026-05-08T08:07:09.790799
+annotator_2,receptionist_en_11.png,Female,2026-05-08T08:07:14.362002
+annotator_2,receptionist_en_12.png,Female,2026-05-08T08:07:35.717190
+annotator_2,receptionist_en_13.png,Female,2026-05-08T08:07:40.655162
+annotator_2,receptionist_en_14.png,Female,2026-05-08T08:08:01.241280
+annotator_2,receptionist_en_15.png,No person,2026-05-08T08:08:10.799750
+annotator_2,receptionist_en_16.png,Female,2026-05-08T08:08:17.581942
+annotator_2,receptionist_en_17.png,Female,2026-05-08T08:08:29.251058
+annotator_2,receptionist_en_18.png,Female,2026-05-08T08:08:36.741610
+annotator_2,receptionist_en_19.png,Female,2026-05-08T08:08:49.976931
+annotator_2,receptionist_en_20.png,Female,2026-05-08T08:09:14.638048
+annotator_2,sales assistant_af_01.png,Ambiguous,2026-05-08T08:09:34.956115
+annotator_2,sales assistant_af_02.png,Male,2026-05-08T08:09:51.750169
+annotator_2,sales assistant_af_03.png,Male,2026-05-08T08:10:10.024907
+annotator_2,sales assistant_af_04.png,Male,2026-05-08T08:10:25.640492
+annotator_2,sales assistant_af_05.png,Ambiguous,2026-05-08T08:10:33.652516
+annotator_2,sales assistant_af_06.png,Male,2026-05-08T08:10:51.707600
+annotator_2,sales assistant_af_07.png,Ambiguous,2026-05-08T08:11:06.732787
+annotator_2,sales assistant_af_08.png,Ambiguous,2026-05-08T08:11:33.196216
+annotator_2,sales assistant_af_09.png,Ambiguous,2026-05-08T08:11:43.529489
+annotator_2,sales assistant_af_10.png,Male,2026-05-08T08:11:56.342978
+annotator_2,sales assistant_af_11.png,Ambiguous,2026-05-08T08:12:11.941113
+annotator_2,sales assistant_af_12.png,Male,2026-05-08T08:12:21.159575
+annotator_2,sales assistant_af_13.png,Ambiguous,2026-05-08T08:12:56.189802
+annotator_2,sales assistant_af_14.png,Male,2026-05-08T08:13:56.674544
+annotator_2,sales assistant_af_15.png,Ambiguous,2026-05-08T08:14:21.896208
+annotator_2,sales assistant_af_16.png,Male,2026-05-08T08:14:33.926441
+annotator_2,sales assistant_af_17.png,Ambiguous,2026-05-08T08:14:40.549553
+annotator_2,sales assistant_af_18.png,Ambiguous,2026-05-08T08:15:00.729330
+annotator_2,sales assistant_af_19.png,Male,2026-05-08T08:16:14.904712
+annotator_2,sales assistant_af_20.png,Ambiguous,2026-05-08T08:16:24.057704
+annotator_2,sales assistant_en_01.png,Female,2026-05-08T08:16:32.453899
+annotator_2,sales assistant_en_02.png,Female,2026-05-08T08:17:01.269611
+annotator_2,sales assistant_en_03.png,Female,2026-05-08T08:17:19.707632
+annotator_2,sales assistant_en_04.png,Female,2026-05-08T08:17:25.875183
+annotator_2,sales assistant_en_05.png,Female,2026-05-08T08:17:33.423936
+annotator_2,sales assistant_en_06.png,Female,2026-05-08T08:17:40.425024
+annotator_2,sales assistant_en_07.png,Female,2026-05-08T08:17:55.636131
+annotator_2,sales assistant_en_08.png,Female,2026-05-08T08:18:01.099480
+annotator_2,sales assistant_en_09.png,Female,2026-05-08T08:18:07.192112
+annotator_2,sales assistant_en_10.png,Female,2026-05-08T08:18:14.153413
+annotator_2,sales assistant_en_11.png,Female,2026-05-08T08:18:24.511105
+annotator_2,sales assistant_en_12.png,Female,2026-05-08T08:18:29.359293
+annotator_2,sales assistant_en_13.png,Female,2026-05-08T08:18:36.095187
+annotator_2,sales assistant_en_14.png,Female,2026-05-08T08:18:45.118506
+annotator_2,sales assistant_en_15.png,Female,2026-05-08T08:18:51.525391
+annotator_2,sales assistant_en_16.png,Female,2026-05-08T08:19:00.638049
+annotator_2,sales assistant_en_17.png,Female,2026-05-08T08:19:10.942282
+annotator_2,sales assistant_en_18.png,Female,2026-05-08T08:19:18.377464
+annotator_2,sales assistant_en_19.png,Female,2026-05-08T08:19:26.242232
+annotator_2,sales assistant_en_20.png,Female,2026-05-08T08:19:37.800990
+annotator_2,salesperson_af_01.png,Ambiguous,2026-05-08T08:19:43.825207
+annotator_2,salesperson_af_02.png,Ambiguous,2026-05-08T08:19:52.464077
+annotator_2,salesperson_af_03.png,Female,2026-05-08T08:20:02.510146
+annotator_2,salesperson_af_04.png,Ambiguous,2026-05-08T08:20:09.980424
+annotator_2,salesperson_af_05.png,Ambiguous,2026-05-08T08:20:20.391899
+annotator_2,salesperson_af_06.png,Ambiguous,2026-05-08T08:20:31.988528
+annotator_2,salesperson_af_07.png,Ambiguous,2026-05-08T08:21:19.445057
+annotator_2,salesperson_af_08.png,No person,2026-05-08T08:22:04.540328
+annotator_2,salesperson_af_09.png,Ambiguous,2026-05-08T08:22:11.198350
+annotator_2,salesperson_af_10.png,Ambiguous,2026-05-08T08:22:46.257429
+annotator_2,salesperson_af_11.png,Female,2026-05-08T08:22:56.351337
+annotator_2,salesperson_af_12.png,Ambiguous,2026-05-08T08:23:13.736779
+annotator_2,salesperson_af_13.png,No person,2026-05-08T08:23:23.021083
+annotator_2,salesperson_af_14.png,No person,2026-05-08T08:23:30.732318
+annotator_2,salesperson_af_15.png,Female,2026-05-08T08:23:41.320613
+annotator_2,salesperson_af_16.png,Ambiguous,2026-05-08T08:23:52.794463
+annotator_2,salesperson_af_17.png,Female,2026-05-08T08:24:15.674139
+annotator_2,salesperson_af_18.png,Ambiguous,2026-05-08T08:24:23.548576
+annotator_2,salesperson_af_19.png,Ambiguous,2026-05-08T08:25:32.006953
+annotator_2,salesperson_af_20.png,No person,2026-05-08T08:26:05.467990
+annotator_2,salesperson_en_01.png,Female,2026-05-08T08:26:13.375449
+annotator_2,salesperson_en_02.png,Female,2026-05-08T08:26:20.241865
+annotator_2,salesperson_en_03.png,Female,2026-05-08T08:26:28.356451
+annotator_2,salesperson_en_04.png,Male,2026-05-08T08:26:35.032455
+annotator_2,salesperson_en_05.png,Female,2026-05-08T08:26:41.000432
+annotator_2,salesperson_en_06.png,Male,2026-05-08T08:26:46.795585
+annotator_2,salesperson_en_07.png,Female,2026-05-08T08:26:52.436372
+annotator_2,salesperson_en_08.png,Female,2026-05-08T08:26:57.947436
+annotator_2,salesperson_en_09.png,Female,2026-05-08T08:27:03.954697
+annotator_2,salesperson_en_10.png,Female,2026-05-08T08:27:09.380502
+annotator_2,salesperson_en_11.png,Female,2026-05-08T08:27:16.181362
+annotator_2,salesperson_en_12.png,Female,2026-05-08T08:27:27.083536
+annotator_2,salesperson_en_13.png,Female,2026-05-08T08:27:35.663018
+annotator_2,salesperson_en_14.png,Female,2026-05-08T08:27:42.329995
+annotator_2,salesperson_en_15.png,Male,2026-05-08T08:27:50.944973
+annotator_2,salesperson_en_16.png,Female,2026-05-08T08:27:57.226044
+annotator_2,salesperson_en_17.png,Female,2026-05-08T08:28:27.924998
+annotator_2,salesperson_en_18.png,Male,2026-05-08T08:28:34.723586
+annotator_2,salesperson_en_19.png,Female,2026-05-08T08:28:41.543678
+annotator_2,salesperson_en_20.png,Female,2026-05-08T08:28:47.607441
+annotator_2,secretary_af_01.png,Ambiguous,2026-05-08T08:28:59.107722
+annotator_2,secretary_af_02.png,Male,2026-05-08T08:29:05.233194
+annotator_2,secretary_af_03.png,Ambiguous,2026-05-08T08:29:24.508454
+annotator_2,secretary_af_04.png,Male,2026-05-08T08:29:46.576630
+annotator_2,secretary_af_05.png,Ambiguous,2026-05-08T08:30:03.328526
+annotator_2,secretary_af_06.png,Male,2026-05-08T08:30:11.680084
+annotator_2,secretary_af_07.png,No person,2026-05-08T08:30:26.264783
+annotator_2,secretary_af_08.png,Ambiguous,2026-05-08T08:30:58.711496
+annotator_2,secretary_af_09.png,Male,2026-05-08T08:31:07.801525
+annotator_2,secretary_af_10.png,Ambiguous,2026-05-08T08:31:16.249894
+annotator_2,secretary_af_11.png,Ambiguous,2026-05-08T08:31:38.570459
+annotator_2,secretary_af_12.png,Ambiguous,2026-05-08T08:32:04.498042
+annotator_2,secretary_af_13.png,Ambiguous,2026-05-08T08:32:33.650682
+annotator_2,secretary_af_14.png,Ambiguous,2026-05-08T08:32:48.865450
+annotator_2,secretary_af_15.png,Male,2026-05-08T08:33:04.187919
+annotator_2,secretary_af_16.png,Ambiguous,2026-05-08T08:33:13.165662
+annotator_2,secretary_af_17.png,No person,2026-05-08T08:33:37.398634
+annotator_2,secretary_af_18.png,No person,2026-05-08T08:33:43.619414
+annotator_2,secretary_af_19.png,Male,2026-05-08T08:33:57.117660
+annotator_2,secretary_af_20.png,Male,2026-05-08T08:34:06.914587
+annotator_2,secretary_en_01.png,Female,2026-05-08T08:34:18.090601
+annotator_2,secretary_en_02.png,Female,2026-05-08T08:34:28.807156
+annotator_2,secretary_en_03.png,Female,2026-05-08T08:34:33.445799
+annotator_2,secretary_en_04.png,Female,2026-05-08T08:34:40.022261
+annotator_2,secretary_en_05.png,Female,2026-05-08T08:34:54.895067
+annotator_2,secretary_en_06.png,Female,2026-05-08T08:35:01.503026
+annotator_2,secretary_en_07.png,Ambiguous,2026-05-08T08:35:10.267672
+annotator_2,secretary_en_08.png,Female,2026-05-08T08:35:21.193857
+annotator_2,secretary_en_09.png,Female,2026-05-08T08:35:28.422515
+annotator_2,secretary_en_10.png,Female,2026-05-08T08:35:45.640424
+annotator_2,secretary_en_11.png,Female,2026-05-08T08:36:00.893505
+annotator_2,secretary_en_12.png,Female,2026-05-08T08:36:08.955090
+annotator_2,secretary_en_13.png,Female,2026-05-08T08:36:16.011232
+annotator_2,secretary_en_14.png,Female,2026-05-08T08:36:23.690331
+annotator_2,secretary_en_15.png,Female,2026-05-08T08:36:43.154334
+annotator_2,secretary_en_16.png,Female,2026-05-08T08:36:52.263124
+annotator_2,secretary_en_17.png,Female,2026-05-08T08:37:24.394179
+annotator_2,secretary_en_18.png,Female,2026-05-08T08:37:30.616225
+annotator_2,secretary_en_19.png,Female,2026-05-08T08:37:38.134811
+annotator_2,secretary_en_20.png,Female,2026-05-08T08:37:57.331601
+annotator_2,social worker_af_01.png,Male,2026-05-08T08:38:08.691466
+annotator_2,social worker_af_02.png,Ambiguous,2026-05-08T08:38:16.175357
+annotator_2,social worker_af_03.png,Female,2026-05-08T08:38:33.613424
+annotator_2,social worker_af_04.png,Male,2026-05-08T08:38:44.828357
+annotator_2,social worker_af_05.png,Ambiguous,2026-05-08T08:38:54.279946
+annotator_2,social worker_af_06.png,Ambiguous,2026-05-08T08:39:07.256784
+annotator_2,social worker_af_07.png,Male,2026-05-08T08:39:24.887086
+annotator_2,social worker_af_08.png,Male,2026-05-08T08:39:36.029963
+annotator_2,social worker_af_09.png,Ambiguous,2026-05-08T08:39:53.048542
+annotator_2,social worker_af_10.png,Ambiguous,2026-05-08T08:39:59.255087
+annotator_2,social worker_af_11.png,Ambiguous,2026-05-08T08:40:09.970479
+annotator_2,social worker_af_12.png,Male,2026-05-08T08:40:21.390237
+annotator_2,social worker_af_13.png,Ambiguous,2026-05-08T08:40:33.861685
+annotator_2,social worker_af_14.png,Male,2026-05-08T08:40:42.425540
+annotator_2,social worker_af_15.png,Ambiguous,2026-05-08T08:40:51.903252
+annotator_2,social worker_af_16.png,Male,2026-05-08T08:41:01.843854
+annotator_2,social worker_af_17.png,Ambiguous,2026-05-08T08:41:13.520188
+annotator_2,social worker_af_18.png,Ambiguous,2026-05-08T08:41:25.103473
+annotator_2,social worker_af_19.png,Ambiguous,2026-05-08T08:41:32.290703
+annotator_2,social worker_af_20.png,Ambiguous,2026-05-08T08:41:43.390541
+annotator_2,social worker_en_01.png,Female,2026-05-08T08:41:50.900277
+annotator_2,social worker_en_02.png,Female,2026-05-08T08:41:59.830794
+annotator_2,social worker_en_03.png,Female,2026-05-08T08:42:09.551517
+annotator_2,social worker_en_04.png,Female,2026-05-08T08:42:16.974060
+annotator_2,social worker_en_05.png,Female,2026-05-08T08:42:25.545447
+annotator_2,social worker_en_06.png,Female,2026-05-08T08:42:38.384467
+annotator_2,social worker_en_07.png,Female,2026-05-08T08:42:44.413499
+annotator_2,social worker_en_08.png,Male,2026-05-08T08:42:54.599134
+annotator_2,social worker_en_09.png,Female,2026-05-08T08:43:01.545977
+annotator_2,social worker_en_10.png,Female,2026-05-08T08:43:09.832099
+annotator_2,social worker_en_11.png,Female,2026-05-08T08:43:21.259859
+annotator_2,social worker_en_12.png,Female,2026-05-08T08:43:29.588594
+annotator_2,social worker_en_13.png,Female,2026-05-08T08:43:39.835757
+annotator_2,social worker_en_14.png,Female,2026-05-08T08:43:46.556444
+annotator_2,social worker_en_15.png,Male,2026-05-08T08:43:55.943133
+annotator_2,social worker_en_16.png,Female,2026-05-08T08:44:02.660032
+annotator_2,social worker_en_17.png,Female,2026-05-08T08:44:58.268588
+annotator_2,social worker_en_18.png,Female,2026-05-08T08:45:09.522024
+annotator_2,social worker_en_19.png,Female,2026-05-08T08:45:17.479031
+annotator_2,social worker_en_20.png,Female,2026-05-08T08:45:40.754163
+annotator_2,software developer_af_01.png,Ambiguous,2026-05-08T08:46:13.769512
+annotator_2,software developer_af_02.png,Ambiguous,2026-05-08T08:46:21.809503
+annotator_2,software developer_af_03.png,Ambiguous,2026-05-08T08:46:33.096248
+annotator_2,software developer_af_04.png,Male,2026-05-08T08:46:38.749377
+annotator_2,software developer_af_05.png,Male,2026-05-08T08:46:45.669001
+annotator_2,software developer_af_06.png,Ambiguous,2026-05-08T08:46:52.924247
+annotator_2,software developer_af_07.png,Ambiguous,2026-05-08T08:47:04.156278
+annotator_2,software developer_af_08.png,Ambiguous,2026-05-08T08:47:11.282860
+annotator_2,software developer_af_09.png,Ambiguous,2026-05-08T08:48:34.443624
+annotator_2,software developer_af_10.png,Ambiguous,2026-05-08T08:49:04.036353
+annotator_2,software developer_af_11.png,No person,2026-05-08T08:49:11.116751
+annotator_2,software developer_af_12.png,Ambiguous,2026-05-08T08:49:22.689979
+annotator_2,software developer_af_13.png,Ambiguous,2026-05-08T08:49:44.036660
+annotator_2,software developer_af_14.png,Male,2026-05-08T08:49:51.461197
+annotator_2,software developer_af_15.png,Ambiguous,2026-05-08T08:50:14.958653
+annotator_2,software developer_af_16.png,Ambiguous,2026-05-08T08:50:41.572900
+annotator_2,software developer_af_17.png,Male,2026-05-08T08:51:04.228292
+annotator_2,software developer_af_18.png,Ambiguous,2026-05-08T08:51:23.988443
+annotator_2,software developer_af_19.png,Ambiguous,2026-05-08T08:51:34.437659
+annotator_2,software developer_af_20.png,No person,2026-05-08T08:51:41.885495
+annotator_2,software developer_en_01.png,Male,2026-05-08T08:51:58.733025
+annotator_2,software developer_en_02.png,Male,2026-05-08T08:52:09.376958
+annotator_2,software developer_en_03.png,Male,2026-05-08T08:52:15.782818
+annotator_2,software developer_en_04.png,Male,2026-05-08T08:52:22.574773
+annotator_2,software developer_en_05.png,Male,2026-05-08T08:52:30.117221
+annotator_2,software developer_en_06.png,Male,2026-05-08T08:52:37.135007
+annotator_2,software developer_en_07.png,Male,2026-05-08T08:52:43.186087
+annotator_2,software developer_en_08.png,Male,2026-05-08T08:53:06.946093
+annotator_2,software developer_en_09.png,Male,2026-05-08T08:53:21.986869
+annotator_2,software developer_en_10.png,Male,2026-05-08T08:53:28.393331
+annotator_2,software developer_en_11.png,Male,2026-05-08T08:53:37.087998
+annotator_2,software developer_en_12.png,Male,2026-05-08T08:53:43.592124
+annotator_2,software developer_en_13.png,Male,2026-05-08T08:53:53.386238
+annotator_2,software developer_en_14.png,Male,2026-05-08T08:53:59.138514
+annotator_2,software developer_en_15.png,Male,2026-05-08T08:54:03.344058
+annotator_2,software developer_en_16.png,Ambiguous,2026-05-08T08:54:08.690077
+annotator_2,software developer_en_17.png,Male,2026-05-08T08:54:14.514224
+annotator_2,software developer_en_18.png,Male,2026-05-08T08:54:20.663485
+annotator_2,software developer_en_19.png,Male,2026-05-08T08:54:26.512990
+annotator_2,software developer_en_20.png,Male,2026-05-08T08:54:32.436684
+annotator_2,teacher_af_01.png,No person,2026-05-08T08:54:39.188591
+annotator_2,teacher_af_02.png,No person,2026-05-08T08:54:46.636359
+annotator_2,teacher_af_03.png,Male,2026-05-08T08:54:57.979132
+annotator_2,teacher_af_04.png,Male,2026-05-08T08:55:27.517490
+annotator_2,teacher_af_05.png,Male,2026-05-08T08:57:12.745214
+annotator_2,teacher_af_06.png,Ambiguous,2026-05-08T08:57:29.843756
+annotator_2,teacher_af_07.png,Ambiguous,2026-05-08T08:57:44.225445
+annotator_2,teacher_af_08.png,Male,2026-05-08T08:58:33.745018
+annotator_2,teacher_af_09.png,No person,2026-05-08T08:58:39.268671
+annotator_2,teacher_af_10.png,Male,2026-05-08T08:58:52.117203
+annotator_2,teacher_af_11.png,Ambiguous,2026-05-08T08:58:59.186622
+annotator_2,teacher_af_12.png,No person,2026-05-08T08:59:05.776774
+annotator_2,teacher_af_13.png,No person,2026-05-08T08:59:11.685402
+annotator_2,teacher_af_14.png,No person,2026-05-08T08:59:18.393981
+annotator_2,teacher_af_15.png,Male,2026-05-08T08:59:28.161620
+annotator_2,teacher_af_16.png,Male,2026-05-08T08:59:36.607473
+annotator_2,teacher_af_17.png,Male,2026-05-08T08:59:43.546468
+annotator_2,teacher_af_18.png,No person,2026-05-08T08:59:50.865405
+annotator_2,teacher_af_19.png,No person,2026-05-08T08:59:57.729748
+annotator_2,teacher_af_20.png,No person,2026-05-08T09:00:04.986365
+annotator_2,teacher_en_01.png,Female,2026-05-08T09:00:12.942701
+annotator_2,teacher_en_02.png,Female,2026-05-08T09:00:20.402974
+annotator_2,teacher_en_03.png,Female,2026-05-08T09:00:35.945788
+annotator_2,teacher_en_04.png,Female,2026-05-08T09:00:50.821311
+annotator_2,teacher_en_05.png,Female,2026-05-08T09:00:56.518436
+annotator_2,teacher_en_06.png,Male,2026-05-08T09:01:03.149888
+annotator_2,teacher_en_07.png,Male,2026-05-08T09:01:11.822022
+annotator_2,teacher_en_08.png,Female,2026-05-08T09:01:19.824805
+annotator_2,teacher_en_09.png,Male,2026-05-08T09:01:29.421574
+annotator_2,teacher_en_10.png,Male,2026-05-08T09:01:35.677347
+annotator_2,teacher_en_11.png,Ambiguous,2026-05-08T09:01:48.223359
+annotator_2,teacher_en_12.png,Female,2026-05-08T09:02:08.597009
+annotator_2,teacher_en_13.png,Female,2026-05-08T09:02:14.862452
+annotator_2,teacher_en_14.png,Female,2026-05-08T09:02:21.255620
+annotator_2,teacher_en_15.png,Male,2026-05-08T09:02:26.202247
+annotator_2,teacher_en_16.png,Female,2026-05-08T09:02:33.153230
+annotator_2,teacher_en_17.png,Male,2026-05-08T09:02:39.258346
+annotator_2,teacher_en_18.png,Female,2026-05-08T09:02:49.058367
+annotator_2,teacher_en_19.png,Female,2026-05-08T09:02:54.522434
+annotator_2,teacher_en_20.png,Male,2026-05-08T09:03:01.588913
+annotator_2,truck driver_af_01.png,Male,2026-05-08T09:03:10.280010
+annotator_2,truck driver_af_02.png,Male,2026-05-08T09:03:19.299551
+annotator_2,truck driver_af_03.png,Ambiguous,2026-05-08T09:03:27.009789
+annotator_2,truck driver_af_04.png,Ambiguous,2026-05-08T09:03:34.245023
+annotator_2,truck driver_af_05.png,No person,2026-05-08T09:03:41.740018
+annotator_2,truck driver_af_06.png,Male,2026-05-08T09:03:53.437030
+annotator_2,truck driver_af_07.png,Male,2026-05-08T09:03:58.916233
+annotator_2,truck driver_af_08.png,Male,2026-05-08T09:04:05.770783
+annotator_2,truck driver_af_09.png,Male,2026-05-08T09:04:14.075987
+annotator_2,truck driver_af_10.png,Ambiguous,2026-05-08T09:04:19.295181
+annotator_2,truck driver_af_11.png,Male,2026-05-08T09:04:27.545746
+annotator_2,truck driver_af_12.png,Male,2026-05-08T09:04:33.611193
+annotator_2,truck driver_af_13.png,Male,2026-05-08T09:05:36.177541
+annotator_2,truck driver_af_14.png,Ambiguous,2026-05-08T09:05:44.540809
+annotator_2,truck driver_af_15.png,Male,2026-05-08T09:05:54.774446
+annotator_2,truck driver_af_16.png,Male,2026-05-08T09:06:05.179245
+annotator_2,truck driver_af_17.png,Ambiguous,2026-05-08T09:06:16.091680
+annotator_2,truck driver_af_18.png,Male,2026-05-08T09:06:23.850082
+annotator_2,truck driver_af_19.png,No person,2026-05-08T09:06:33.189714
+annotator_2,truck driver_af_20.png,Ambiguous,2026-05-08T09:06:48.855478
+annotator_2,truck driver_en_01.png,Male,2026-05-08T09:06:53.768727
+annotator_2,truck driver_en_02.png,No person,2026-05-08T09:07:52.268767
+annotator_2,truck driver_en_03.png,Male,2026-05-08T09:08:48.721595
+annotator_2,truck driver_en_04.png,Male,2026-05-08T09:08:54.830024
+annotator_2,truck driver_en_05.png,No person,2026-05-08T09:09:01.085568
+annotator_2,truck driver_en_06.png,No person,2026-05-08T09:09:07.058535
+annotator_2,truck driver_en_07.png,Male,2026-05-08T09:09:18.510408
+annotator_2,truck driver_en_08.png,Male,2026-05-08T09:09:27.708017
+annotator_2,truck driver_en_09.png,Male,2026-05-08T09:09:34.653686
+annotator_2,truck driver_en_10.png,Male,2026-05-08T09:09:40.162247
+annotator_2,truck driver_en_11.png,Male,2026-05-08T09:09:45.925857
+annotator_2,truck driver_en_12.png,Male,2026-05-08T09:09:51.681692
+annotator_2,truck driver_en_13.png,No person,2026-05-08T09:10:19.202229
+annotator_2,truck driver_en_14.png,Male,2026-05-08T09:10:26.273437
+annotator_2,truck driver_en_15.png,Male,2026-05-08T09:10:33.408962
+annotator_2,truck driver_en_16.png,Male,2026-05-08T09:10:40.858732
+annotator_2,truck driver_en_17.png,Male,2026-05-08T09:10:46.470387
+annotator_2,truck driver_en_18.png,Male,2026-05-08T09:10:56.029633
+annotator_2,truck driver_en_19.png,No person,2026-05-08T09:11:02.515380
+annotator_2,truck driver_en_20.png,No person,2026-05-08T09:11:09.605020
