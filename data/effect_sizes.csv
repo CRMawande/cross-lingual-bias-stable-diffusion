@@ -1,0 +1,26 @@
+occupation,cramers_v,interpretation
+chef,,Strong
+childcare worker,0.533,Strong
+cleaner,0.395,Moderate
+construction worker,0.042,Negligible
+doctor,0.0,Negligible
+electrician,,Strong
+engineer,0.0,Negligible
+firefighter,,Strong
+hairdresser,0.044,Negligible
+journalist,0.0,Negligible
+lawyer,0.0,Negligible
+manager,0.773,Strong
+mechanic,0.799,Strong
+nurse,0.63,Strong
+pharmacist,0.0,Negligible
+pilot,,Strong
+police officer,0.455,Moderate
+receptionist,0.724,Strong
+sales assistant,0.925,Strong
+salesperson,0.05,Negligible
+secretary,0.901,Strong
+social worker,0.723,Strong
+software developer,,Strong
+teacher,0.499,Moderate
+truck driver,,Strong

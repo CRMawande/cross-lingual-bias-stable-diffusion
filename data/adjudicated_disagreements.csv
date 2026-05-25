@@ -1,0 +1,87 @@
+image_id,annotator_1,annotator_2,consensus_label
+chef_af_01.png,Male,Ambiguous,Male
+chef_af_07.png,Male,Ambiguous,Male
+chef_af_15.png,Male,Ambiguous,Male
+chef_af_19.png,Male,Ambiguous,Male
+chef_en_11.png,Male,Ambiguous,Male
+childcare worker_af_09.png,Female,Ambiguous,Female
+childcare worker_af_18.png,Male,Ambiguous,Male
+childcare worker_af_20.png,Male,Ambiguous,Male
+childcare worker_en_12.png,Female,Ambiguous,Female
+cleaner_af_01.png,Male,Ambiguous,Male
+cleaner_af_04.png,Ambiguous,No person,No person
+cleaner_af_10.png,Male,Ambiguous,Male
+cleaner_af_14.png,Male,Ambiguous,Male
+cleaner_en_20.png,Ambiguous,Female,Female
+construction worker_en_05.png,Ambiguous,Male,Male
+doctor_af_06.png,Male,Ambiguous,Male
+doctor_af_18.png,Male,Ambiguous,Male
+electrician_en_03.png,Male,Ambiguous,Male
+electrician_en_16.png,Male,Ambiguous,Male
+engineer_af_04.png,Ambiguous,Male,Male
+firefighter_af_04.png,Ambiguous,Male,Male
+firefighter_en_07.png,Male,Ambiguous,Male
+firefighter_en_19.png,Ambiguous,Male,Male
+hairdresser_af_09.png,Ambiguous,Female,Ambiguous
+hairdresser_af_10.png,Ambiguous,Male,Male
+hairdresser_en_02.png,Ambiguous,Female,Ambiguous
+hairdresser_en_04.png,Female,Ambiguous,Ambiguous
+hairdresser_en_17.png,Ambiguous,Female,Female
+journalist_af_08.png,Ambiguous,Male,Male
+journalist_af_18.png,Ambiguous,Male,Male
+journalist_en_06.png,Ambiguous,Male,Male
+lawyer_af_02.png,Ambiguous,Male,Male
+lawyer_af_10.png,Male,Ambiguous,Male
+lawyer_en_05.png,Ambiguous,No person,Ambiguous
+lawyer_en_11.png,Ambiguous,Male,Ambiguous
+lawyer_en_14.png,Ambiguous,No person,Ambiguous
+lawyer_en_16.png,Ambiguous,Male,Ambiguous
+manager_af_04.png,Ambiguous,Female,Female
+manager_af_05.png,Male,Ambiguous,Male
+manager_en_10.png,Ambiguous,Male,Ambiguous
+mechanic_af_03.png,Female,Ambiguous,Female
+mechanic_af_04.png,Female,Ambiguous,Female
+mechanic_af_11.png,Ambiguous,Female,Female
+mechanic_en_02.png,Ambiguous,Male,Male
+mechanic_en_10.png,Ambiguous,Male,Male
+mechanic_en_18.png,Ambiguous,Male,Ambiguous
+nurse_af_01.png,Ambiguous,Male,Male
+nurse_af_10.png,Ambiguous,Female,Ambiguous
+nurse_af_18.png,Ambiguous,Female,Ambiguous
+nurse_af_20.png,Ambiguous,Male,Male
+pharmacist_af_17.png,Ambiguous,Female,Ambiguous
+pharmacist_af_20.png,Female,Ambiguous,Ambiguous
+pharmacist_en_02.png,Ambiguous,Male,Male
+pharmacist_en_13.png,Ambiguous,Male,Male
+pilot_af_09.png,Ambiguous,Male,Ambiguous
+pilot_af_13.png,Ambiguous,Male,Ambiguous
+pilot_af_14.png,Ambiguous,Male,Male
+police officer_af_02.png,Ambiguous,Male,Ambiguous
+police officer_af_07.png,Ambiguous,Male,Ambiguous
+police officer_af_11.png,Ambiguous,Male,Male
+police officer_af_17.png,Ambiguous,Male,Male
+police officer_af_20.png,Ambiguous,Male,Male
+receptionist_af_07.png,Ambiguous,Female,Ambiguous
+receptionist_en_15.png,Ambiguous,No person,Ambiguous
+sales assistant_af_20.png,Male,Ambiguous,Male
+salesperson_af_11.png,Ambiguous,Female,Female
+salesperson_en_15.png,Female,Male,Male
+secretary_en_11.png,Ambiguous,Female,Ambiguous
+social worker_af_01.png,Ambiguous,Male,Male
+social worker_af_03.png,Ambiguous,Female,Ambiguous
+social worker_af_04.png,Ambiguous,Male,Ambiguous
+social worker_af_07.png,Ambiguous,Male,Male
+social worker_af_08.png,Ambiguous,Male,Male
+social worker_af_12.png,Ambiguous,Male,Male
+social worker_af_14.png,Ambiguous,Male,Male
+social worker_af_16.png,Ambiguous,Male,Male
+social worker_en_15.png,Ambiguous,Male,Male
+software developer_af_17.png,Ambiguous,Male,Male
+teacher_af_08.png,Ambiguous,Male,Male
+teacher_af_15.png,Ambiguous,Male,Male
+teacher_en_14.png,Ambiguous,Female,Female
+teacher_en_20.png,Ambiguous,Male,Male
+truck driver_af_02.png,Ambiguous,Male,Male
+truck driver_af_06.png,Ambiguous,Male,Male
+truck driver_af_11.png,Ambiguous,Male,Male
+truck driver_af_18.png,Ambiguous,Male,Male

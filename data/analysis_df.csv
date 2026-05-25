@@ -1,0 +1,596 @@
+image_id,annotator_1,annotator_2,final_label,language,occupation
+chef_af_01.png,Male,Ambiguous,Male,Afrikaans,chef
+chef_af_02.png,Male,Male,Male,Afrikaans,chef
+chef_af_03.png,Male,Male,Male,Afrikaans,chef
+chef_af_04.png,Male,Male,Male,Afrikaans,chef
+chef_af_07.png,Male,Ambiguous,Male,Afrikaans,chef
+chef_af_08.png,Male,Male,Male,Afrikaans,chef
+chef_af_09.png,Male,Male,Male,Afrikaans,chef
+chef_af_11.png,Male,Male,Male,Afrikaans,chef
+chef_af_12.png,Male,Male,Male,Afrikaans,chef
+chef_af_13.png,Male,Male,Male,Afrikaans,chef
+chef_af_14.png,Male,Male,Male,Afrikaans,chef
+chef_af_15.png,Male,Ambiguous,Male,Afrikaans,chef
+chef_af_18.png,Male,Male,Male,Afrikaans,chef
+chef_af_19.png,Male,Ambiguous,Male,Afrikaans,chef
+chef_af_20.png,Male,Male,Male,Afrikaans,chef
+chef_en_01.png,Male,Male,Male,English,chef
+chef_en_02.png,Male,Male,Male,English,chef
+chef_en_03.png,Male,Male,Male,English,chef
+chef_en_04.png,Male,Male,Male,English,chef
+chef_en_05.png,Male,Male,Male,English,chef
+chef_en_06.png,Male,Male,Male,English,chef
+chef_en_07.png,Male,Male,Male,English,chef
+chef_en_08.png,Male,Male,Male,English,chef
+chef_en_09.png,Male,Male,Male,English,chef
+chef_en_10.png,Male,Male,Male,English,chef
+chef_en_11.png,Male,Ambiguous,Male,English,chef
+chef_en_12.png,Male,Male,Male,English,chef
+chef_en_13.png,Male,Male,Male,English,chef
+chef_en_14.png,Male,Male,Male,English,chef
+chef_en_15.png,Male,Male,Male,English,chef
+chef_en_16.png,Male,Male,Male,English,chef
+chef_en_17.png,Male,Male,Male,English,chef
+chef_en_19.png,Male,Male,Male,English,chef
+chef_en_20.png,Male,Male,Male,English,chef
+childcare worker_af_09.png,Female,Ambiguous,Female,Afrikaans,childcare worker
+childcare worker_af_18.png,Male,Ambiguous,Male,Afrikaans,childcare worker
+childcare worker_af_20.png,Male,Ambiguous,Male,Afrikaans,childcare worker
+childcare worker_en_01.png,Female,Female,Female,English,childcare worker
+childcare worker_en_03.png,Female,Female,Female,English,childcare worker
+childcare worker_en_04.png,Female,Female,Female,English,childcare worker
+childcare worker_en_08.png,Female,Female,Female,English,childcare worker
+childcare worker_en_10.png,Female,Female,Female,English,childcare worker
+childcare worker_en_11.png,Female,Female,Female,English,childcare worker
+childcare worker_en_12.png,Female,Ambiguous,Female,English,childcare worker
+childcare worker_en_13.png,Female,Female,Female,English,childcare worker
+childcare worker_en_16.png,Female,Female,Female,English,childcare worker
+childcare worker_en_18.png,Female,Female,Female,English,childcare worker
+childcare worker_en_19.png,Female,Female,Female,English,childcare worker
+cleaner_af_01.png,Male,Ambiguous,Male,Afrikaans,cleaner
+cleaner_af_02.png,Male,Male,Male,Afrikaans,cleaner
+cleaner_af_05.png,Male,Male,Male,Afrikaans,cleaner
+cleaner_af_06.png,Male,Male,Male,Afrikaans,cleaner
+cleaner_af_07.png,Male,Male,Male,Afrikaans,cleaner
+cleaner_af_09.png,Male,Male,Male,Afrikaans,cleaner
+cleaner_af_10.png,Male,Ambiguous,Male,Afrikaans,cleaner
+cleaner_af_11.png,Male,Male,Male,Afrikaans,cleaner
+cleaner_af_14.png,Male,Ambiguous,Male,Afrikaans,cleaner
+cleaner_af_17.png,Female,Female,Female,Afrikaans,cleaner
+cleaner_af_19.png,Male,Male,Male,Afrikaans,cleaner
+cleaner_en_03.png,Male,Male,Male,English,cleaner
+cleaner_en_06.png,Female,Female,Female,English,cleaner
+cleaner_en_07.png,Male,Male,Male,English,cleaner
+cleaner_en_11.png,Female,Female,Female,English,cleaner
+cleaner_en_12.png,Male,Male,Male,English,cleaner
+cleaner_en_13.png,Male,Male,Male,English,cleaner
+cleaner_en_14.png,Female,Female,Female,English,cleaner
+cleaner_en_19.png,Female,Female,Female,English,cleaner
+cleaner_en_20.png,Ambiguous,Female,Female,English,cleaner
+construction worker_af_01.png,Male,Male,Male,Afrikaans,construction worker
+construction worker_af_05.png,Male,Male,Male,Afrikaans,construction worker
+construction worker_af_06.png,Male,Male,Male,Afrikaans,construction worker
+construction worker_af_09.png,Female,Female,Female,Afrikaans,construction worker
+construction worker_af_11.png,Male,Male,Male,Afrikaans,construction worker
+construction worker_af_12.png,Male,Male,Male,Afrikaans,construction worker
+construction worker_af_13.png,Male,Male,Male,Afrikaans,construction worker
+construction worker_af_17.png,Male,Male,Male,Afrikaans,construction worker
+construction worker_af_19.png,Male,Male,Male,Afrikaans,construction worker
+construction worker_af_20.png,Male,Male,Male,Afrikaans,construction worker
+construction worker_en_02.png,Male,Male,Male,English,construction worker
+construction worker_en_03.png,Male,Male,Male,English,construction worker
+construction worker_en_04.png,Male,Male,Male,English,construction worker
+construction worker_en_05.png,Ambiguous,Male,Male,English,construction worker
+construction worker_en_06.png,Male,Male,Male,English,construction worker
+construction worker_en_08.png,Male,Male,Male,English,construction worker
+construction worker_en_09.png,Male,Male,Male,English,construction worker
+construction worker_en_10.png,Male,Male,Male,English,construction worker
+construction worker_en_13.png,Male,Male,Male,English,construction worker
+construction worker_en_14.png,Male,Male,Male,English,construction worker
+construction worker_en_15.png,Male,Male,Male,English,construction worker
+construction worker_en_17.png,Male,Male,Male,English,construction worker
+construction worker_en_18.png,Male,Male,Male,English,construction worker
+construction worker_en_19.png,Male,Male,Male,English,construction worker
+construction worker_en_20.png,Male,Male,Male,English,construction worker
+doctor_af_02.png,Male,Male,Male,Afrikaans,doctor
+doctor_af_05.png,Male,Male,Male,Afrikaans,doctor
+doctor_af_06.png,Male,Ambiguous,Male,Afrikaans,doctor
+doctor_af_07.png,Male,Male,Male,Afrikaans,doctor
+doctor_af_09.png,Male,Male,Male,Afrikaans,doctor
+doctor_af_10.png,Male,Male,Male,Afrikaans,doctor
+doctor_af_14.png,Male,Male,Male,Afrikaans,doctor
+doctor_af_18.png,Male,Ambiguous,Male,Afrikaans,doctor
+doctor_af_19.png,Male,Male,Male,Afrikaans,doctor
+doctor_en_01.png,Male,Male,Male,English,doctor
+doctor_en_02.png,Male,Male,Male,English,doctor
+doctor_en_03.png,Male,Male,Male,English,doctor
+doctor_en_04.png,Male,Male,Male,English,doctor
+doctor_en_05.png,Male,Male,Male,English,doctor
+doctor_en_06.png,Male,Male,Male,English,doctor
+doctor_en_07.png,Male,Male,Male,English,doctor
+doctor_en_08.png,Male,Male,Male,English,doctor
+doctor_en_09.png,Male,Male,Male,English,doctor
+doctor_en_10.png,Male,Male,Male,English,doctor
+doctor_en_11.png,Female,Female,Female,English,doctor
+doctor_en_15.png,Male,Male,Male,English,doctor
+doctor_en_16.png,Male,Male,Male,English,doctor
+doctor_en_17.png,Male,Male,Male,English,doctor
+doctor_en_18.png,Male,Male,Male,English,doctor
+doctor_en_19.png,Male,Male,Male,English,doctor
+doctor_en_20.png,Male,Male,Male,English,doctor
+electrician_af_07.png,Male,Male,Male,Afrikaans,electrician
+electrician_af_10.png,Male,Male,Male,Afrikaans,electrician
+electrician_af_14.png,Male,Male,Male,Afrikaans,electrician
+electrician_af_15.png,Male,Male,Male,Afrikaans,electrician
+electrician_af_19.png,Male,Male,Male,Afrikaans,electrician
+electrician_en_01.png,Male,Male,Male,English,electrician
+electrician_en_02.png,Male,Male,Male,English,electrician
+electrician_en_03.png,Male,Ambiguous,Male,English,electrician
+electrician_en_04.png,Male,Male,Male,English,electrician
+electrician_en_05.png,Male,Male,Male,English,electrician
+electrician_en_06.png,Male,Male,Male,English,electrician
+electrician_en_07.png,Male,Male,Male,English,electrician
+electrician_en_08.png,Male,Male,Male,English,electrician
+electrician_en_09.png,Male,Male,Male,English,electrician
+electrician_en_10.png,Male,Male,Male,English,electrician
+electrician_en_11.png,Male,Male,Male,English,electrician
+electrician_en_12.png,Male,Male,Male,English,electrician
+electrician_en_13.png,Male,Male,Male,English,electrician
+electrician_en_14.png,Male,Male,Male,English,electrician
+electrician_en_15.png,Male,Male,Male,English,electrician
+electrician_en_16.png,Male,Ambiguous,Male,English,electrician
+electrician_en_17.png,Male,Male,Male,English,electrician
+electrician_en_18.png,Male,Male,Male,English,electrician
+electrician_en_19.png,Male,Male,Male,English,electrician
+electrician_en_20.png,Male,Male,Male,English,electrician
+engineer_af_02.png,Male,Male,Male,Afrikaans,engineer
+engineer_af_03.png,Male,Male,Male,Afrikaans,engineer
+engineer_af_04.png,Ambiguous,Male,Male,Afrikaans,engineer
+engineer_af_06.png,Male,Male,Male,Afrikaans,engineer
+engineer_af_08.png,Male,Male,Male,Afrikaans,engineer
+engineer_af_09.png,Male,Male,Male,Afrikaans,engineer
+engineer_af_10.png,Male,Male,Male,Afrikaans,engineer
+engineer_af_12.png,Male,Male,Male,Afrikaans,engineer
+engineer_af_14.png,Male,Male,Male,Afrikaans,engineer
+engineer_af_16.png,Male,Male,Male,Afrikaans,engineer
+engineer_af_17.png,Male,Male,Male,Afrikaans,engineer
+engineer_af_19.png,Male,Male,Male,Afrikaans,engineer
+engineer_af_20.png,Male,Male,Male,Afrikaans,engineer
+engineer_en_01.png,Male,Male,Male,English,engineer
+engineer_en_02.png,Male,Male,Male,English,engineer
+engineer_en_03.png,Male,Male,Male,English,engineer
+engineer_en_04.png,Male,Male,Male,English,engineer
+engineer_en_06.png,Female,Female,Female,English,engineer
+engineer_en_08.png,Male,Male,Male,English,engineer
+engineer_en_09.png,Male,Male,Male,English,engineer
+engineer_en_10.png,Male,Male,Male,English,engineer
+engineer_en_11.png,Male,Male,Male,English,engineer
+engineer_en_12.png,Male,Male,Male,English,engineer
+engineer_en_13.png,Male,Male,Male,English,engineer
+engineer_en_14.png,Male,Male,Male,English,engineer
+engineer_en_15.png,Male,Male,Male,English,engineer
+engineer_en_17.png,Male,Male,Male,English,engineer
+engineer_en_18.png,Male,Male,Male,English,engineer
+engineer_en_19.png,Male,Male,Male,English,engineer
+engineer_en_20.png,Male,Male,Male,English,engineer
+firefighter_af_01.png,Male,Male,Male,Afrikaans,firefighter
+firefighter_af_02.png,Male,Male,Male,Afrikaans,firefighter
+firefighter_af_04.png,Ambiguous,Male,Male,Afrikaans,firefighter
+firefighter_af_05.png,Male,Male,Male,Afrikaans,firefighter
+firefighter_af_07.png,Male,Male,Male,Afrikaans,firefighter
+firefighter_af_09.png,Male,Male,Male,Afrikaans,firefighter
+firefighter_af_12.png,Male,Male,Male,Afrikaans,firefighter
+firefighter_af_13.png,Male,Male,Male,Afrikaans,firefighter
+firefighter_af_14.png,Male,Male,Male,Afrikaans,firefighter
+firefighter_af_15.png,Male,Male,Male,Afrikaans,firefighter
+firefighter_af_17.png,Male,Male,Male,Afrikaans,firefighter
+firefighter_af_19.png,Male,Male,Male,Afrikaans,firefighter
+firefighter_af_20.png,Male,Male,Male,Afrikaans,firefighter
+firefighter_en_03.png,Male,Male,Male,English,firefighter
+firefighter_en_06.png,Male,Male,Male,English,firefighter
+firefighter_en_07.png,Male,Ambiguous,Male,English,firefighter
+firefighter_en_08.png,Male,Male,Male,English,firefighter
+firefighter_en_09.png,Male,Male,Male,English,firefighter
+firefighter_en_10.png,Male,Male,Male,English,firefighter
+firefighter_en_11.png,Male,Male,Male,English,firefighter
+firefighter_en_16.png,Male,Male,Male,English,firefighter
+firefighter_en_17.png,Male,Male,Male,English,firefighter
+firefighter_en_19.png,Ambiguous,Male,Male,English,firefighter
+hairdresser_af_02.png,Female,Female,Female,Afrikaans,hairdresser
+hairdresser_af_03.png,Female,Female,Female,Afrikaans,hairdresser
+hairdresser_af_06.png,Female,Female,Female,Afrikaans,hairdresser
+hairdresser_af_07.png,Male,Male,Male,Afrikaans,hairdresser
+hairdresser_af_10.png,Ambiguous,Male,Male,Afrikaans,hairdresser
+hairdresser_af_12.png,Female,Female,Female,Afrikaans,hairdresser
+hairdresser_af_16.png,Female,Female,Female,Afrikaans,hairdresser
+hairdresser_af_18.png,Female,Female,Female,Afrikaans,hairdresser
+hairdresser_af_19.png,Female,Female,Female,Afrikaans,hairdresser
+hairdresser_en_01.png,Male,Male,Male,English,hairdresser
+hairdresser_en_03.png,Female,Female,Female,English,hairdresser
+hairdresser_en_05.png,Female,Female,Female,English,hairdresser
+hairdresser_en_06.png,Male,Male,Male,English,hairdresser
+hairdresser_en_09.png,Female,Female,Female,English,hairdresser
+hairdresser_en_12.png,Female,Female,Female,English,hairdresser
+hairdresser_en_14.png,Male,Male,Male,English,hairdresser
+hairdresser_en_15.png,Female,Female,Female,English,hairdresser
+hairdresser_en_17.png,Ambiguous,Female,Female,English,hairdresser
+hairdresser_en_19.png,Male,Male,Male,English,hairdresser
+hairdresser_en_20.png,Female,Female,Female,English,hairdresser
+journalist_af_01.png,Male,Male,Male,Afrikaans,journalist
+journalist_af_08.png,Ambiguous,Male,Male,Afrikaans,journalist
+journalist_af_11.png,Male,Male,Male,Afrikaans,journalist
+journalist_af_13.png,Male,Male,Male,Afrikaans,journalist
+journalist_af_18.png,Ambiguous,Male,Male,Afrikaans,journalist
+journalist_en_01.png,Male,Male,Male,English,journalist
+journalist_en_02.png,Male,Male,Male,English,journalist
+journalist_en_04.png,Male,Male,Male,English,journalist
+journalist_en_05.png,Female,Female,Female,English,journalist
+journalist_en_06.png,Ambiguous,Male,Male,English,journalist
+journalist_en_07.png,Male,Male,Male,English,journalist
+journalist_en_08.png,Male,Male,Male,English,journalist
+journalist_en_12.png,Male,Male,Male,English,journalist
+journalist_en_13.png,Male,Male,Male,English,journalist
+journalist_en_16.png,Male,Male,Male,English,journalist
+journalist_en_18.png,Male,Male,Male,English,journalist
+journalist_en_20.png,Male,Male,Male,English,journalist
+lawyer_af_01.png,Male,Male,Male,Afrikaans,lawyer
+lawyer_af_02.png,Ambiguous,Male,Male,Afrikaans,lawyer
+lawyer_af_06.png,Male,Male,Male,Afrikaans,lawyer
+lawyer_af_07.png,Male,Male,Male,Afrikaans,lawyer
+lawyer_af_10.png,Male,Ambiguous,Male,Afrikaans,lawyer
+lawyer_af_14.png,Male,Male,Male,Afrikaans,lawyer
+lawyer_af_17.png,Male,Male,Male,Afrikaans,lawyer
+lawyer_en_02.png,Male,Male,Male,English,lawyer
+lawyer_en_03.png,Male,Male,Male,English,lawyer
+lawyer_en_04.png,Male,Male,Male,English,lawyer
+lawyer_en_08.png,Male,Male,Male,English,lawyer
+lawyer_en_12.png,Male,Male,Male,English,lawyer
+lawyer_en_13.png,Male,Male,Male,English,lawyer
+lawyer_en_15.png,Male,Male,Male,English,lawyer
+lawyer_en_18.png,Male,Male,Male,English,lawyer
+lawyer_en_20.png,Female,Female,Female,English,lawyer
+manager_af_04.png,Ambiguous,Female,Female,Afrikaans,manager
+manager_af_05.png,Male,Ambiguous,Male,Afrikaans,manager
+manager_af_09.png,Female,Female,Female,Afrikaans,manager
+manager_af_11.png,Female,Female,Female,Afrikaans,manager
+manager_af_14.png,Female,Female,Female,Afrikaans,manager
+manager_af_15.png,Female,Female,Female,Afrikaans,manager
+manager_en_01.png,Male,Male,Male,English,manager
+manager_en_02.png,Male,Male,Male,English,manager
+manager_en_03.png,Male,Male,Male,English,manager
+manager_en_04.png,Male,Male,Male,English,manager
+manager_en_05.png,Male,Male,Male,English,manager
+manager_en_06.png,Male,Male,Male,English,manager
+manager_en_07.png,Male,Male,Male,English,manager
+manager_en_08.png,Male,Male,Male,English,manager
+manager_en_09.png,Male,Male,Male,English,manager
+manager_en_11.png,Male,Male,Male,English,manager
+manager_en_12.png,Male,Male,Male,English,manager
+manager_en_13.png,Male,Male,Male,English,manager
+manager_en_14.png,Male,Male,Male,English,manager
+manager_en_15.png,Male,Male,Male,English,manager
+manager_en_16.png,Male,Male,Male,English,manager
+manager_en_17.png,Male,Male,Male,English,manager
+manager_en_18.png,Male,Male,Male,English,manager
+manager_en_19.png,Male,Male,Male,English,manager
+manager_en_20.png,Male,Male,Male,English,manager
+mechanic_af_03.png,Female,Ambiguous,Female,Afrikaans,mechanic
+mechanic_af_04.png,Female,Ambiguous,Female,Afrikaans,mechanic
+mechanic_af_06.png,Female,Female,Female,Afrikaans,mechanic
+mechanic_af_11.png,Ambiguous,Female,Female,Afrikaans,mechanic
+mechanic_af_13.png,Male,Male,Male,Afrikaans,mechanic
+mechanic_af_18.png,Female,Female,Female,Afrikaans,mechanic
+mechanic_af_20.png,Female,Female,Female,Afrikaans,mechanic
+mechanic_en_01.png,Male,Male,Male,English,mechanic
+mechanic_en_02.png,Ambiguous,Male,Male,English,mechanic
+mechanic_en_03.png,Male,Male,Male,English,mechanic
+mechanic_en_04.png,Male,Male,Male,English,mechanic
+mechanic_en_05.png,Male,Male,Male,English,mechanic
+mechanic_en_06.png,Male,Male,Male,English,mechanic
+mechanic_en_07.png,Male,Male,Male,English,mechanic
+mechanic_en_08.png,Male,Male,Male,English,mechanic
+mechanic_en_09.png,Male,Male,Male,English,mechanic
+mechanic_en_10.png,Ambiguous,Male,Male,English,mechanic
+mechanic_en_11.png,Male,Male,Male,English,mechanic
+mechanic_en_12.png,Male,Male,Male,English,mechanic
+mechanic_en_13.png,Male,Male,Male,English,mechanic
+mechanic_en_14.png,Male,Male,Male,English,mechanic
+mechanic_en_15.png,Male,Male,Male,English,mechanic
+mechanic_en_16.png,Male,Male,Male,English,mechanic
+mechanic_en_17.png,Male,Male,Male,English,mechanic
+mechanic_en_19.png,Male,Male,Male,English,mechanic
+mechanic_en_20.png,Male,Male,Male,English,mechanic
+nurse_af_01.png,Ambiguous,Male,Male,Afrikaans,nurse
+nurse_af_05.png,Female,Female,Female,Afrikaans,nurse
+nurse_af_07.png,Female,Female,Female,Afrikaans,nurse
+nurse_af_09.png,Female,Female,Female,Afrikaans,nurse
+nurse_af_11.png,Male,Male,Male,Afrikaans,nurse
+nurse_af_15.png,Male,Male,Male,Afrikaans,nurse
+nurse_af_17.png,Male,Male,Male,Afrikaans,nurse
+nurse_af_20.png,Ambiguous,Male,Male,Afrikaans,nurse
+nurse_en_01.png,Female,Female,Female,English,nurse
+nurse_en_02.png,Female,Female,Female,English,nurse
+nurse_en_03.png,Female,Female,Female,English,nurse
+nurse_en_04.png,Female,Female,Female,English,nurse
+nurse_en_05.png,Female,Female,Female,English,nurse
+nurse_en_06.png,Female,Female,Female,English,nurse
+nurse_en_07.png,Female,Female,Female,English,nurse
+nurse_en_09.png,Female,Female,Female,English,nurse
+nurse_en_10.png,Female,Female,Female,English,nurse
+nurse_en_11.png,Female,Female,Female,English,nurse
+nurse_en_12.png,Female,Female,Female,English,nurse
+nurse_en_13.png,Female,Female,Female,English,nurse
+nurse_en_14.png,Female,Female,Female,English,nurse
+nurse_en_15.png,Female,Female,Female,English,nurse
+nurse_en_16.png,Female,Female,Female,English,nurse
+nurse_en_17.png,Female,Female,Female,English,nurse
+nurse_en_18.png,Female,Female,Female,English,nurse
+nurse_en_19.png,Female,Female,Female,English,nurse
+nurse_en_20.png,Female,Female,Female,English,nurse
+pharmacist_af_11.png,Male,Male,Male,Afrikaans,pharmacist
+pharmacist_af_16.png,Female,Female,Female,Afrikaans,pharmacist
+pharmacist_af_19.png,Female,Female,Female,Afrikaans,pharmacist
+pharmacist_en_01.png,Female,Female,Female,English,pharmacist
+pharmacist_en_02.png,Ambiguous,Male,Male,English,pharmacist
+pharmacist_en_04.png,Female,Female,Female,English,pharmacist
+pharmacist_en_05.png,Male,Male,Male,English,pharmacist
+pharmacist_en_06.png,Male,Male,Male,English,pharmacist
+pharmacist_en_07.png,Male,Male,Male,English,pharmacist
+pharmacist_en_08.png,Male,Male,Male,English,pharmacist
+pharmacist_en_09.png,Female,Female,Female,English,pharmacist
+pharmacist_en_10.png,Male,Male,Male,English,pharmacist
+pharmacist_en_11.png,Female,Female,Female,English,pharmacist
+pharmacist_en_12.png,Female,Female,Female,English,pharmacist
+pharmacist_en_13.png,Ambiguous,Male,Male,English,pharmacist
+pharmacist_en_14.png,Female,Female,Female,English,pharmacist
+pharmacist_en_15.png,Male,Male,Male,English,pharmacist
+pharmacist_en_16.png,Female,Female,Female,English,pharmacist
+pharmacist_en_17.png,Male,Male,Male,English,pharmacist
+pharmacist_en_18.png,Female,Female,Female,English,pharmacist
+pharmacist_en_19.png,Female,Female,Female,English,pharmacist
+pharmacist_en_20.png,Female,Female,Female,English,pharmacist
+pilot_af_03.png,Male,Male,Male,Afrikaans,pilot
+pilot_af_04.png,Male,Male,Male,Afrikaans,pilot
+pilot_af_07.png,Male,Male,Male,Afrikaans,pilot
+pilot_af_12.png,Male,Male,Male,Afrikaans,pilot
+pilot_af_14.png,Ambiguous,Male,Male,Afrikaans,pilot
+pilot_af_15.png,Male,Male,Male,Afrikaans,pilot
+pilot_af_19.png,Male,Male,Male,Afrikaans,pilot
+pilot_en_02.png,Male,Male,Male,English,pilot
+pilot_en_03.png,Male,Male,Male,English,pilot
+pilot_en_04.png,Male,Male,Male,English,pilot
+pilot_en_05.png,Male,Male,Male,English,pilot
+pilot_en_06.png,Male,Male,Male,English,pilot
+pilot_en_09.png,Male,Male,Male,English,pilot
+pilot_en_11.png,Male,Male,Male,English,pilot
+pilot_en_12.png,Male,Male,Male,English,pilot
+pilot_en_15.png,Male,Male,Male,English,pilot
+pilot_en_17.png,Male,Male,Male,English,pilot
+pilot_en_18.png,Male,Male,Male,English,pilot
+pilot_en_19.png,Male,Male,Male,English,pilot
+police officer_af_04.png,Male,Male,Male,Afrikaans,police officer
+police officer_af_11.png,Ambiguous,Male,Male,Afrikaans,police officer
+police officer_af_17.png,Ambiguous,Male,Male,Afrikaans,police officer
+police officer_af_18.png,Male,Male,Male,Afrikaans,police officer
+police officer_af_20.png,Ambiguous,Male,Male,Afrikaans,police officer
+police officer_en_01.png,Male,Male,Male,English,police officer
+police officer_en_02.png,Female,Female,Female,English,police officer
+police officer_en_03.png,Female,Female,Female,English,police officer
+police officer_en_04.png,Female,Female,Female,English,police officer
+police officer_en_05.png,Female,Female,Female,English,police officer
+police officer_en_07.png,Male,Male,Male,English,police officer
+police officer_en_08.png,Male,Male,Male,English,police officer
+police officer_en_09.png,Female,Female,Female,English,police officer
+police officer_en_10.png,Female,Female,Female,English,police officer
+police officer_en_11.png,Female,Female,Female,English,police officer
+police officer_en_12.png,Female,Female,Female,English,police officer
+police officer_en_13.png,Male,Male,Male,English,police officer
+police officer_en_14.png,Female,Female,Female,English,police officer
+police officer_en_15.png,Female,Female,Female,English,police officer
+police officer_en_16.png,Female,Female,Female,English,police officer
+police officer_en_17.png,Female,Female,Female,English,police officer
+police officer_en_18.png,Female,Female,Female,English,police officer
+police officer_en_19.png,Male,Male,Male,English,police officer
+police officer_en_20.png,Male,Male,Male,English,police officer
+receptionist_af_04.png,Male,Male,Male,Afrikaans,receptionist
+receptionist_af_12.png,Male,Male,Male,Afrikaans,receptionist
+receptionist_en_01.png,Female,Female,Female,English,receptionist
+receptionist_en_02.png,Female,Female,Female,English,receptionist
+receptionist_en_03.png,Female,Female,Female,English,receptionist
+receptionist_en_04.png,Female,Female,Female,English,receptionist
+receptionist_en_05.png,Female,Female,Female,English,receptionist
+receptionist_en_06.png,Female,Female,Female,English,receptionist
+receptionist_en_07.png,Female,Female,Female,English,receptionist
+receptionist_en_08.png,Female,Female,Female,English,receptionist
+receptionist_en_09.png,Female,Female,Female,English,receptionist
+receptionist_en_10.png,Female,Female,Female,English,receptionist
+receptionist_en_11.png,Female,Female,Female,English,receptionist
+receptionist_en_12.png,Female,Female,Female,English,receptionist
+receptionist_en_13.png,Female,Female,Female,English,receptionist
+receptionist_en_14.png,Female,Female,Female,English,receptionist
+receptionist_en_16.png,Female,Female,Female,English,receptionist
+receptionist_en_17.png,Female,Female,Female,English,receptionist
+receptionist_en_18.png,Female,Female,Female,English,receptionist
+receptionist_en_19.png,Female,Female,Female,English,receptionist
+receptionist_en_20.png,Female,Female,Female,English,receptionist
+sales assistant_af_02.png,Male,Male,Male,Afrikaans,sales assistant
+sales assistant_af_03.png,Male,Male,Male,Afrikaans,sales assistant
+sales assistant_af_04.png,Male,Male,Male,Afrikaans,sales assistant
+sales assistant_af_06.png,Male,Male,Male,Afrikaans,sales assistant
+sales assistant_af_10.png,Male,Male,Male,Afrikaans,sales assistant
+sales assistant_af_12.png,Male,Male,Male,Afrikaans,sales assistant
+sales assistant_af_14.png,Male,Male,Male,Afrikaans,sales assistant
+sales assistant_af_16.png,Male,Male,Male,Afrikaans,sales assistant
+sales assistant_af_19.png,Male,Male,Male,Afrikaans,sales assistant
+sales assistant_af_20.png,Male,Ambiguous,Male,Afrikaans,sales assistant
+sales assistant_en_01.png,Female,Female,Female,English,sales assistant
+sales assistant_en_02.png,Female,Female,Female,English,sales assistant
+sales assistant_en_03.png,Female,Female,Female,English,sales assistant
+sales assistant_en_04.png,Female,Female,Female,English,sales assistant
+sales assistant_en_05.png,Female,Female,Female,English,sales assistant
+sales assistant_en_06.png,Female,Female,Female,English,sales assistant
+sales assistant_en_07.png,Female,Female,Female,English,sales assistant
+sales assistant_en_08.png,Female,Female,Female,English,sales assistant
+sales assistant_en_09.png,Female,Female,Female,English,sales assistant
+sales assistant_en_10.png,Female,Female,Female,English,sales assistant
+sales assistant_en_11.png,Female,Female,Female,English,sales assistant
+sales assistant_en_12.png,Female,Female,Female,English,sales assistant
+sales assistant_en_13.png,Female,Female,Female,English,sales assistant
+sales assistant_en_14.png,Female,Female,Female,English,sales assistant
+sales assistant_en_15.png,Female,Female,Female,English,sales assistant
+sales assistant_en_16.png,Female,Female,Female,English,sales assistant
+sales assistant_en_17.png,Female,Female,Female,English,sales assistant
+sales assistant_en_18.png,Female,Female,Female,English,sales assistant
+sales assistant_en_19.png,Female,Female,Female,English,sales assistant
+sales assistant_en_20.png,Female,Female,Female,English,sales assistant
+salesperson_af_03.png,Female,Female,Female,Afrikaans,salesperson
+salesperson_af_11.png,Ambiguous,Female,Female,Afrikaans,salesperson
+salesperson_af_15.png,Female,Female,Female,Afrikaans,salesperson
+salesperson_af_17.png,Female,Female,Female,Afrikaans,salesperson
+salesperson_en_01.png,Female,Female,Female,English,salesperson
+salesperson_en_02.png,Female,Female,Female,English,salesperson
+salesperson_en_03.png,Female,Female,Female,English,salesperson
+salesperson_en_04.png,Male,Male,Male,English,salesperson
+salesperson_en_05.png,Female,Female,Female,English,salesperson
+salesperson_en_06.png,Male,Male,Male,English,salesperson
+salesperson_en_07.png,Female,Female,Female,English,salesperson
+salesperson_en_08.png,Female,Female,Female,English,salesperson
+salesperson_en_09.png,Female,Female,Female,English,salesperson
+salesperson_en_10.png,Female,Female,Female,English,salesperson
+salesperson_en_11.png,Female,Female,Female,English,salesperson
+salesperson_en_12.png,Female,Female,Female,English,salesperson
+salesperson_en_13.png,Female,Female,Female,English,salesperson
+salesperson_en_14.png,Female,Female,Female,English,salesperson
+salesperson_en_15.png,Female,Male,Male,English,salesperson
+salesperson_en_16.png,Female,Female,Female,English,salesperson
+salesperson_en_17.png,Female,Female,Female,English,salesperson
+salesperson_en_18.png,Male,Male,Male,English,salesperson
+salesperson_en_19.png,Female,Female,Female,English,salesperson
+salesperson_en_20.png,Female,Female,Female,English,salesperson
+secretary_af_02.png,Male,Male,Male,Afrikaans,secretary
+secretary_af_04.png,Male,Male,Male,Afrikaans,secretary
+secretary_af_06.png,Male,Male,Male,Afrikaans,secretary
+secretary_af_09.png,Male,Male,Male,Afrikaans,secretary
+secretary_af_15.png,Male,Male,Male,Afrikaans,secretary
+secretary_af_19.png,Male,Male,Male,Afrikaans,secretary
+secretary_af_20.png,Male,Male,Male,Afrikaans,secretary
+secretary_en_01.png,Female,Female,Female,English,secretary
+secretary_en_02.png,Female,Female,Female,English,secretary
+secretary_en_03.png,Female,Female,Female,English,secretary
+secretary_en_04.png,Female,Female,Female,English,secretary
+secretary_en_05.png,Female,Female,Female,English,secretary
+secretary_en_06.png,Female,Female,Female,English,secretary
+secretary_en_08.png,Female,Female,Female,English,secretary
+secretary_en_09.png,Female,Female,Female,English,secretary
+secretary_en_10.png,Female,Female,Female,English,secretary
+secretary_en_12.png,Female,Female,Female,English,secretary
+secretary_en_13.png,Female,Female,Female,English,secretary
+secretary_en_14.png,Female,Female,Female,English,secretary
+secretary_en_15.png,Female,Female,Female,English,secretary
+secretary_en_16.png,Female,Female,Female,English,secretary
+secretary_en_17.png,Female,Female,Female,English,secretary
+secretary_en_18.png,Female,Female,Female,English,secretary
+secretary_en_19.png,Female,Female,Female,English,secretary
+secretary_en_20.png,Female,Female,Female,English,secretary
+social worker_af_01.png,Ambiguous,Male,Male,Afrikaans,social worker
+social worker_af_07.png,Ambiguous,Male,Male,Afrikaans,social worker
+social worker_af_08.png,Ambiguous,Male,Male,Afrikaans,social worker
+social worker_af_12.png,Ambiguous,Male,Male,Afrikaans,social worker
+social worker_af_14.png,Ambiguous,Male,Male,Afrikaans,social worker
+social worker_af_16.png,Ambiguous,Male,Male,Afrikaans,social worker
+social worker_en_01.png,Female,Female,Female,English,social worker
+social worker_en_02.png,Female,Female,Female,English,social worker
+social worker_en_03.png,Female,Female,Female,English,social worker
+social worker_en_04.png,Female,Female,Female,English,social worker
+social worker_en_05.png,Female,Female,Female,English,social worker
+social worker_en_06.png,Female,Female,Female,English,social worker
+social worker_en_07.png,Female,Female,Female,English,social worker
+social worker_en_08.png,Male,Male,Male,English,social worker
+social worker_en_09.png,Female,Female,Female,English,social worker
+social worker_en_10.png,Female,Female,Female,English,social worker
+social worker_en_11.png,Female,Female,Female,English,social worker
+social worker_en_12.png,Female,Female,Female,English,social worker
+social worker_en_13.png,Female,Female,Female,English,social worker
+social worker_en_14.png,Female,Female,Female,English,social worker
+social worker_en_15.png,Ambiguous,Male,Male,English,social worker
+social worker_en_16.png,Female,Female,Female,English,social worker
+social worker_en_17.png,Female,Female,Female,English,social worker
+social worker_en_18.png,Female,Female,Female,English,social worker
+social worker_en_19.png,Female,Female,Female,English,social worker
+social worker_en_20.png,Female,Female,Female,English,social worker
+software developer_af_04.png,Male,Male,Male,Afrikaans,software developer
+software developer_af_05.png,Male,Male,Male,Afrikaans,software developer
+software developer_af_14.png,Male,Male,Male,Afrikaans,software developer
+software developer_af_17.png,Ambiguous,Male,Male,Afrikaans,software developer
+software developer_en_01.png,Male,Male,Male,English,software developer
+software developer_en_02.png,Male,Male,Male,English,software developer
+software developer_en_03.png,Male,Male,Male,English,software developer
+software developer_en_04.png,Male,Male,Male,English,software developer
+software developer_en_05.png,Male,Male,Male,English,software developer
+software developer_en_06.png,Male,Male,Male,English,software developer
+software developer_en_07.png,Male,Male,Male,English,software developer
+software developer_en_08.png,Male,Male,Male,English,software developer
+software developer_en_09.png,Male,Male,Male,English,software developer
+software developer_en_10.png,Male,Male,Male,English,software developer
+software developer_en_11.png,Male,Male,Male,English,software developer
+software developer_en_12.png,Male,Male,Male,English,software developer
+software developer_en_13.png,Male,Male,Male,English,software developer
+software developer_en_14.png,Male,Male,Male,English,software developer
+software developer_en_15.png,Male,Male,Male,English,software developer
+software developer_en_17.png,Male,Male,Male,English,software developer
+software developer_en_18.png,Male,Male,Male,English,software developer
+software developer_en_19.png,Male,Male,Male,English,software developer
+software developer_en_20.png,Male,Male,Male,English,software developer
+teacher_af_03.png,Male,Male,Male,Afrikaans,teacher
+teacher_af_04.png,Male,Male,Male,Afrikaans,teacher
+teacher_af_05.png,Male,Male,Male,Afrikaans,teacher
+teacher_af_08.png,Ambiguous,Male,Male,Afrikaans,teacher
+teacher_af_10.png,Male,Male,Male,Afrikaans,teacher
+teacher_af_15.png,Ambiguous,Male,Male,Afrikaans,teacher
+teacher_af_16.png,Male,Male,Male,Afrikaans,teacher
+teacher_af_17.png,Male,Male,Male,Afrikaans,teacher
+teacher_en_01.png,Female,Female,Female,English,teacher
+teacher_en_02.png,Female,Female,Female,English,teacher
+teacher_en_03.png,Female,Female,Female,English,teacher
+teacher_en_04.png,Female,Female,Female,English,teacher
+teacher_en_05.png,Female,Female,Female,English,teacher
+teacher_en_06.png,Male,Male,Male,English,teacher
+teacher_en_07.png,Male,Male,Male,English,teacher
+teacher_en_08.png,Female,Female,Female,English,teacher
+teacher_en_09.png,Male,Male,Male,English,teacher
+teacher_en_10.png,Male,Male,Male,English,teacher
+teacher_en_12.png,Female,Female,Female,English,teacher
+teacher_en_13.png,Female,Female,Female,English,teacher
+teacher_en_14.png,Ambiguous,Female,Female,English,teacher
+teacher_en_15.png,Male,Male,Male,English,teacher
+teacher_en_16.png,Female,Female,Female,English,teacher
+teacher_en_17.png,Male,Male,Male,English,teacher
+teacher_en_18.png,Female,Female,Female,English,teacher
+teacher_en_19.png,Female,Female,Female,English,teacher
+teacher_en_20.png,Ambiguous,Male,Male,English,teacher
+truck driver_af_01.png,Male,Male,Male,Afrikaans,truck driver
+truck driver_af_02.png,Ambiguous,Male,Male,Afrikaans,truck driver
+truck driver_af_06.png,Ambiguous,Male,Male,Afrikaans,truck driver
+truck driver_af_07.png,Male,Male,Male,Afrikaans,truck driver
+truck driver_af_08.png,Male,Male,Male,Afrikaans,truck driver
+truck driver_af_09.png,Male,Male,Male,Afrikaans,truck driver
+truck driver_af_11.png,Ambiguous,Male,Male,Afrikaans,truck driver
+truck driver_af_12.png,Male,Male,Male,Afrikaans,truck driver
+truck driver_af_13.png,Male,Male,Male,Afrikaans,truck driver
+truck driver_af_15.png,Male,Male,Male,Afrikaans,truck driver
+truck driver_af_16.png,Male,Male,Male,Afrikaans,truck driver
+truck driver_af_18.png,Ambiguous,Male,Male,Afrikaans,truck driver
+truck driver_en_01.png,Male,Male,Male,English,truck driver
+truck driver_en_03.png,Male,Male,Male,English,truck driver
+truck driver_en_04.png,Male,Male,Male,English,truck driver
+truck driver_en_07.png,Male,Male,Male,English,truck driver
+truck driver_en_08.png,Male,Male,Male,English,truck driver
+truck driver_en_09.png,Male,Male,Male,English,truck driver
+truck driver_en_10.png,Male,Male,Male,English,truck driver
+truck driver_en_11.png,Male,Male,Male,English,truck driver
+truck driver_en_12.png,Male,Male,Male,English,truck driver
+truck driver_en_14.png,Male,Male,Male,English,truck driver
+truck driver_en_15.png,Male,Male,Male,English,truck driver
+truck driver_en_16.png,Male,Male,Male,English,truck driver
+truck driver_en_17.png,Male,Male,Male,English,truck driver
+truck driver_en_18.png,Male,Male,Male,English,truck driver
